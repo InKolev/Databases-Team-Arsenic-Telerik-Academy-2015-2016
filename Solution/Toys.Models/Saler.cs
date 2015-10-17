@@ -19,7 +19,6 @@
         [StringLength(150)]
         public string Name { get; set; }
 
-
         public virtual ICollection<Sale> Saleses
         {
             get { return this.saleses; }

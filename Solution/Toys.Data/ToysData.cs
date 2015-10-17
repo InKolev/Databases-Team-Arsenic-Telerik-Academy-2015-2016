@@ -51,14 +51,6 @@
             this.Dispose(true);
         }
 
-        protected virtual void Dispose(bool disposing)
-        {
-            if (disposing && this.context != null)
-            {
-                this.context.Dispose();
-            }
-        }
-
         /// <summary>
         /// Saves all changes made in this context to the underlying database.
         /// </summary>
@@ -71,11 +63,19 @@
             return this.context.SaveChanges();
         }
 
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposing && this.context != null)
+            {
+                this.context.Dispose();
+            }
+        }
+
         private IRepository<T> GetRepository<T>() where T : class
         {
-            if (this.repositories.ContainsKey(typeof (T)))
+            if (this.repositories.ContainsKey(typeof(T)))
             {
-                return (IRepository<T>) this.repositories[typeof (T)];
+                return (IRepository<T>)this.repositories[typeof(T)];
             }
 
             var type = typeof(Repository<T>);
