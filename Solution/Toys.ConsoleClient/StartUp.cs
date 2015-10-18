@@ -2,6 +2,7 @@
 {
     using System;
     using System.Linq;
+    using System.Threading;
     using Toys.Core.MongoDb;
     using Toys.Data;
 
@@ -15,10 +16,14 @@
 
             Console.WriteLine(db.Products.All().Count());
 
-            var mongo = new MongoDbOperations();
-            //mongo.ImportProducts();
-            mongo.LoadProducts();
+            var mongo = new MongoDbOperations(db);
 
+            //mongo.ImportProducts();
+            var data = mongo.LoadProductsFromMongoDb().Result;
+
+            mongo.SaveProductsToSqlServer(data);
+
+            //mongo.Play().Wait();
         }
     }
 }
