@@ -1,0 +1,41 @@
+﻿namespace Toys.Core
+{
+    using System;
+    using System.Collections.Generic;
+    using Toys.Core.Commands;
+    using Toys.Data;
+
+    public class DataManager
+    {
+        private readonly ToysDbContext context;
+        private readonly ToysData data;
+
+        public DataManager()
+        {
+            this.context = new ToysDbContext();
+            this.data = new ToysData(this.context);
+        }
+
+        public void Start()
+        {
+            ICollection<ICommand> commands = new List<ICommand>
+            {
+                new AddCountryCommand(this.data),
+                new AddManufacturerCommand(this.data),
+                new AddProductsToMongoDbCommand(this.data),
+            };
+
+            foreach (var command in commands)
+            {
+                if (command.Execute())
+                {
+                    Console.WriteLine("Command sucessful - " + command.GetType().Name);
+                }
+                else
+                {
+                    Console.WriteLine("Data already exist - " + command.GetType().Name);
+                }
+            }
+        }
+    }
+}
