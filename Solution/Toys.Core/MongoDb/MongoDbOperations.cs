@@ -20,19 +20,11 @@
         private IMongoDatabase database;
         private IToysData sqlServerDb;
 
-<<<<<<< HEAD
-        public MongoDbOperations()
-        {
-            this.client = new MongoClient();
-            this.database = this.client.GetDatabase("ArsenicDb");
-=======
-
         public MongoDbOperations(IToysData context)
         {
             this.client = new MongoClient();
             this.database = this.client.GetDatabase("ArsenicDb");
             this.sqlServerDb = context;
->>>>>>> d4045b9c0b31e4b84fcf99d92c79813cb9d9b4d1
         }
 
         public void ImportProducts()
@@ -57,7 +49,6 @@
 
         public async Task<List<BsonDocument>> LoadProductsFromMongoDb()
         {
-<<<<<<< HEAD
             // var collection = this.database.GetCollection<BsonDocument>("Products");
             // var filter = new BsonDocument();
             // var count = 0;
@@ -73,7 +64,6 @@
             //    Thread.Sleep(5000);
             //    Console.WriteLine(count);
             // }
-=======
             var collection = this.database.GetCollection<BsonDocument>("Products");
 
             var dbDocuments = await collection.Find(x => true).ToListAsync();
@@ -124,7 +114,6 @@
 
             //this.sqlServerDb.Products.Add(product);
             //this.sqlServerDb.SaveChanges();
->>>>>>> d4045b9c0b31e4b84fcf99d92c79813cb9d9b4d1
         }
 
         private async Task SaveProductsToDb(string[] data)
