@@ -24,7 +24,8 @@
                 new AddProductsToMongoDbCommand(this.data),
                 new AddSellersToMongoDbCommand(this.data),
                 new GetProductsFromMongoToSqlServerCommand(this.data),
-                new GetSellersFromMongoToSqlServerCommand(this.data)
+                new GetSellersFromMongoToSqlServerCommand(this.data),
+                new SalesReportGeneratorCommand(this.data)
             };
 
             foreach (var command in commands)
@@ -38,9 +39,6 @@
                     Console.WriteLine("Data already exist - " + command.GetType().Name);
                 }
             }
-
-            var random = new RandomSalesReportGenerator(this.data);
-            random.Generate();
         }
     }
 }

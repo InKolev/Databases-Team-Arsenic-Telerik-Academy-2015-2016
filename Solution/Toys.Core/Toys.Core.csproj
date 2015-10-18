@@ -81,7 +81,7 @@
     <Compile Include="Commands\GetProductsFromMongoToSqlServerCommand.cs" />
     <Compile Include="DataManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RandomSalesReportGenerator.cs" />
+    <Compile Include="Commands\SalesReportGeneratorCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Toys.Data\Toys.Data.csproj">
