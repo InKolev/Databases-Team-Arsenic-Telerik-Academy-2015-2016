@@ -38,6 +38,9 @@
                     Console.WriteLine("Data already exist - " + command.GetType().Name);
                 }
             }
+
+            var random = new RandomSalesReportGenerator(this.data);
+            random.Generate();
         }
     }
 }
