@@ -7,12 +7,11 @@
 
     public class DataManager
     {
-        private readonly ToysDbContext context;
+        private readonly ToysDbContext context = new ToysDbContext();
         private readonly ToysData data;
 
         public DataManager()
         {
-            this.context = new ToysDbContext();
             this.data = new ToysData(this.context);
         }
 
