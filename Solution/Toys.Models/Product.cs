@@ -6,7 +6,6 @@
     public class Product
     {
         [Required]
-        [Key, ForeignKey("Sale")]
         public int Id { get; set; }
 
         [Required]
