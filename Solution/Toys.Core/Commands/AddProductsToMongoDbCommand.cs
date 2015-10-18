@@ -10,6 +10,7 @@
     {
         private const string ProductsTextFilePaht = @"../../../Files/DbProductsToImportInMongoDb.txt";
         private const string Arsenicdbinmongodb = "ArsenicDbInMongoDb";
+        private const string ProductsTable = "Products";
 
         private readonly IMongoClient mongoClient = new MongoClient();
         private readonly IMongoDatabase mongoDatabase;
@@ -23,8 +24,9 @@
         public override bool Execute()
         {
             var dataToImport = this.ImportFromTextFile(ProductsTextFilePaht);
+            var records = this.mongoDatabase.GetCollection<BsonDocument>(ProductsTable).CountAsync(x => true).Result;
 
-            if (!dataToImport.Any())
+            if (!dataToImport.Any() || records > 0)
             {
                 return false;
             }
@@ -51,7 +53,7 @@
                 { "TradeDiscountRate", new BsonDouble(double.Parse(data[7])) }
             };
 
-            var collection = this.mongoDatabase.GetCollection<BsonDocument>("Products");
+            var collection = this.mongoDatabase.GetCollection<BsonDocument>(ProductsTable);
             await collection.InsertOneAsync(document);
         }
     }
