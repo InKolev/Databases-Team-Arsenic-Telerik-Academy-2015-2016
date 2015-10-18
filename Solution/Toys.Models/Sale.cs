@@ -21,8 +21,8 @@
         [Required]
         public DateTime Date { get; set; }
 
-        public int SalerId { get; set; }
+        public int SellerId { get; set; }
 
-        public virtual Saler Saler { get; set; }
+        public virtual Seller Seller { get; set; }
     }
 }

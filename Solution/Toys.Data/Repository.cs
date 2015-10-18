@@ -52,6 +52,7 @@
         public virtual void Delete(T entity)
         {
             DbEntityEntry entry = this.Context.Entry(entity);
+
             if (entry.State != EntityState.Deleted)
             {
                 entry.State = EntityState.Deleted;
@@ -82,6 +83,7 @@
         private void ChangeState(T entity, EntityState state)
         {
             DbEntityEntry entry = this.Context.Entry(entity);
+
             if (entry.State == EntityState.Detached)
             {
                 this.DbSet.Attach(entity);

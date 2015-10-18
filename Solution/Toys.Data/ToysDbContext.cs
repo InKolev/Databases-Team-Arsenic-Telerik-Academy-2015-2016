@@ -20,6 +20,6 @@
 
         public virtual IDbSet<Sale> Sales { get; set; }
 
-        public virtual IDbSet<Saler> Salers { get; set; }
+        public virtual IDbSet<Seller> Sellers { get; set; }
     }
 }

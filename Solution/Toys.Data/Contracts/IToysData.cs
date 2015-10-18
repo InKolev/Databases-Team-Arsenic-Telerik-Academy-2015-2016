@@ -15,7 +15,7 @@
 
         IRepository<Sale> Sales { get; }
 
-        IRepository<Saler> Salers { get; }
+        IRepository<Seller> Sellers { get; }
 
         void Dispose();
 

@@ -3,13 +3,13 @@
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
 
-    public class Saler
+    public class Seller
     {
-        private ICollection<Sale> saleses;
+        private ICollection<Sale> sales;
 
-        public Saler()
+        public Seller()
         {
-            this.saleses = new HashSet<Sale>();
+            this.sales = new HashSet<Sale>();
         }
 
         [Required]
@@ -19,10 +19,10 @@
         [StringLength(150)]
         public string Name { get; set; }
 
-        public virtual ICollection<Sale> Saleses
+        public virtual ICollection<Sale> Sales
         {
-            get { return this.saleses; }
-            set { this.saleses = value; }
+            get { return this.sales; }
+            set { this.sales = value; }
         }
     }
 }

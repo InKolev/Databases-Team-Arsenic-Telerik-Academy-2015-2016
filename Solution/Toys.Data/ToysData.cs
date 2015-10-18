@@ -41,9 +41,9 @@
             get { return this.GetRepository<Sale>(); }
         }
 
-        public IRepository<Saler> Salers
+        public IRepository<Seller> Sellers
         {
-            get { return this.GetRepository<Saler>(); }
+            get { return this.GetRepository<Seller>(); }
         }
 
         public void Dispose()
