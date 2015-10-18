@@ -1,28 +1,43 @@
 ﻿namespace Toys.Core.MongoDb
 {
     using System;
+    using System.Collections.Generic;
     using System.IO;
     using System.Linq;
-    using System.Linq.Expressions;
-    using System.Threading;
+    using System.Threading.Tasks;
     using MongoDB.Bson;
-    using MongoDB.Bson.Serialization;
+    using MongoDB.Bson.IO;
     using MongoDB.Driver;
+    using Toys.Data;
+    using Toys.Data.Contracts;
+    using Toys.Models;
+    using JsonConvert = Newtonsoft.Json.JsonConvert;
 
     public class MongoDbOperations
     {
+        private const string CsvFilePath = @"../../../Files/DbProductsToImportInMongoDb.txt";
         private IMongoClient client;
         private IMongoDatabase database;
+        private IToysData sqlServerDb;
 
+<<<<<<< HEAD
         public MongoDbOperations()
         {
             this.client = new MongoClient();
             this.database = this.client.GetDatabase("ArsenicDb");
+=======
+
+        public MongoDbOperations(IToysData context)
+        {
+            this.client = new MongoClient();
+            this.database = this.client.GetDatabase("ArsenicDb");
+            this.sqlServerDb = context;
+>>>>>>> d4045b9c0b31e4b84fcf99d92c79813cb9d9b4d1
         }
 
         public void ImportProducts()
         {
-            var path = @"../../../Files/DbProductsToImportInMongoDb.txt";
+            var path = CsvFilePath;
 
             using (StreamReader reader = new StreamReader(path))
             {
@@ -31,18 +46,18 @@
                 while (line != null)
                 {
                     var data = line.Split(new[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
-                    this.SaveProductsToDb(data);
+                    this.SaveProductsToDb(data).Wait();
 
                     line = reader.ReadLine();
 
-                    Thread.Sleep(50);
                     Console.Write('.');
                 }
             }
         }
 
-        public async void LoadProducts()
+        public async Task<List<BsonDocument>> LoadProductsFromMongoDb()
         {
+<<<<<<< HEAD
             // var collection = this.database.GetCollection<BsonDocument>("Products");
             // var filter = new BsonDocument();
             // var count = 0;
@@ -58,9 +73,61 @@
             //    Thread.Sleep(5000);
             //    Console.WriteLine(count);
             // }
+=======
+            var collection = this.database.GetCollection<BsonDocument>("Products");
+
+            var dbDocuments = await collection.Find(x => true).ToListAsync();
+
+            //foreach (var document in dbDocuments)
+            //{
+            //    this.SaveProductsToSqlServer(document);
+            //}
+
+            return dbDocuments;
+
+
+            //this.SaveProductsToSqlServer(dbDocuments);
         }
 
-        private async void SaveProductsToDb(string[] data)
+        public void SaveProductsToSqlServer(List<BsonDocument> documents)
+        {
+            var product = new Product();
+
+            foreach (var document in documents)
+            {
+                product.Sku = document["Sku"].ToString();
+                product.Description = document["Description"].ToString();
+                product.WholesalePrice = decimal.Parse(document["WholesalePrice"].ToString());
+                product.RetailPrice = decimal.Parse(document["RetailPrice"].ToString());
+                product.TradeDiscount = decimal.Parse(document["TradeDiscount"].ToString());
+                product.TradeDiscountRate = float.Parse(document["TradeDiscountRate"].ToString());
+                product.ManufacturerId = int.Parse(document["ManufacturerId"].ToString());
+
+                this.sqlServerDb.Products.Add(product);
+
+
+                try
+                {
+                    this.sqlServerDb.SaveChanges();
+                }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine(ex);
+                }
+                
+            }
+            //var product = new Product
+            //{
+
+            //};
+
+            //this.sqlServerDb.Products.Add(product);
+            //this.sqlServerDb.SaveChanges();
+>>>>>>> d4045b9c0b31e4b84fcf99d92c79813cb9d9b4d1
+        }
+
+        private async Task SaveProductsToDb(string[] data)
         {
             var document = new BsonDocument
             {
