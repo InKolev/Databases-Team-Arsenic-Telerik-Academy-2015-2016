@@ -16,9 +16,9 @@
             Console.WriteLine(db.Products.All().Count());
 
             var mongo = new MongoDbOperations();
-            //mongo.ImportProducts();
-            mongo.LoadProducts();
 
+            // mongo.ImportProducts();
+            mongo.LoadProducts();
         }
     }
 }

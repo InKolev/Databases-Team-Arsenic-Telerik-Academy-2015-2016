@@ -6,6 +6,8 @@
 
     public class Sale
     {
+        private DateTime? dateCreated = null;
+
         [Required]
         [Key, ForeignKey("Product")]
         public int ProductId { get; set; }
@@ -17,8 +19,7 @@
         [Required]
         public int Quantity { get; set; }
 
-        [Required]
-        public DateTime Date { get; set; }
+        public DateTime? Date { get; set; }
 
         public int SellerId { get; set; }
 
