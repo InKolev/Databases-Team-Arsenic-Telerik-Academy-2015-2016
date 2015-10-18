@@ -6,6 +6,7 @@
     public class Product
     {
         [Required]
+        [Key, ForeignKey("Sale")]
         public int Id { get; set; }
 
         [Required]
@@ -29,5 +30,7 @@
         public int ManufacturerId { get; set; }
 
         public virtual Manufacturer Manufacturer { get; set; }
+
+        public virtual Sale Sale { get; set; }
     }
 }
