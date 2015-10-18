@@ -1,0 +1,27 @@
+1;The LEGO Group;gitte.klausen@lego.com;186
+2;Smart-Trike;sales@smart-trike.com;112
+3;Disney Toys;sales@disneystore.com;112
+4;China Toy;sales@hktdc.com;112
+5;Bburago;sales@bburago.com;114
+6;NOR;info@nortoys.com;182
+7;La Nuova Faro;sales@farotoys.it;198
+8;БОНТЕМПИ;sales@hktdc.com;112
+9;Bontempi;info@bontempi.com;198
+10;РАДИОУПРАВЛЯЕМА КОЛА;info@radiocars.bg;182
+11;ИЙСТКОЛАЙТ;sales@hktdc.com;112
+12;ПЛЕЙМОБИЛ;sales@playmobil.us;101
+13;СТАРПЛАСТ;info@starplast.com;182
+14;Ilanit Toys Marketing;sales@IlanitToys.com;86
+15;LT;sales@hktdc.com;112
+16;Androni ;sales@androni.it;198
+17;СИЛВЪРЛИТ;global@ennesstrades.com;115
+18;СЛИНГЪРС;sales@toysrus.ca;67
+19;АО JIE;aojie@aojietoys.com;112
+20;МОНДО;sales@mondotoys.com;198
+21;BRATZ;sales@toysrus.com;67
+22;MGA Entertainment;sales@mgae.com;67
+23;ЛАЛАЛУПСИ;sales@lalaloopsy.com;67
+24;ЗУРУ;sales@zuru.com;223
+25;СИНОСТАР;sales@sinostarasia.com;112
+26;ЗИНГ;sales@zingtoys.com;164
+27;БЕЙБИ БОРН;sales@thetoyshop.com;223

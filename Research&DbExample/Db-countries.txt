@@ -1,0 +1,273 @@
+1	Algeria	Algiers	+213	DZA	Africa
+2	Angola	Luanda	+244	AGO	Africa
+3	Benin	Porto-Novo	+229	BEN	Africa
+4	Botswana	Gaborone	+267	BWA	Africa
+5	Burkina Faso	Ouagadougou	+226	BFA	Africa
+6	Burundi	Bujumbura	+257	BDI	Africa
+7	Cameroon	Yaound?	+237	CMR	Africa
+8	Cape Verde	Praia	+238	CPV	Africa
+9	Central African Republic	Bangui	+236	CAF	Africa
+10	Comoros	Moroni	+269	COM	Africa
+11	Democratic Republic of Congo	Kinshasa	+243	COD	Africa
+12	Djibouti	Djibouti	+253	DJI	Africa
+13	Egypt	Cairo	+20	EGY	Africa
+14	Equatorial Guinea	Malabo	+240	GNQ	Africa
+15	Eritrea	Asmara	+291	ERI	Africa
+16	Ethiopia	Addis Ababa	+251	ETH	Africa
+17	Gabon	Libreville	+241	GAB	Africa
+18	Gambia	Banjul	+220	GMB	Africa
+19	Ghana	Accra	+233	GHA	Africa
+20	Guinea	Conakry	+224	GIN	Africa
+21	Guinea-Bissau	Bissau	+245	GNB	Africa
+22	Ivory Coast	Yamoussoukro	+225	CIV	Africa
+23	Kenya	Nairobi	+254	KEN	Africa
+24	Lesotho	Maseru	+266	LSO	Africa
+25	Liberia	Monrovia	+231	LBR	Africa
+26	Libya	Tripolis	+218	LBY	Africa
+27	Madagascar	Antananarivo	+261	MDG	Africa
+28	Malawi	Lilongwe	+265	MWI	Africa
+29	Mali	Bamako	+223	MLI	Africa
+30	Mauritania	Nouakchott	+222	MRT	Africa
+31	Mauritius	Port Louis	+230	MUS	Africa
+32	Morocco	Rabat	+212	MAR	Africa
+33	Mozambique	Maputo	+258	MOZ	Africa
+34	Namibia	Windhoek	+264	NAM	Africa
+35	Niger	Niamey	+227	NER	Africa
+36	Nigeria	Abuja	+234	NGA	Africa
+37	Republic of the Congo	Brazzaville	+242	COG	Africa
+38	Reunion	Saint-Denis	+262	REU	Africa
+39	Rwanda	Kigali	+250	RWA	Africa
+40	Saint Helena	Jamestown	+290	SHN	Africa
+41	Sao Tome and Principe	S?o Tom?	+239	STP	Africa
+42	Senegal	Dakar	+221	SEN	Africa
+43	Seychelles	Victoria	+248	SYC	Africa
+44	Sierra Leone	Freetown	+232	SLE	Africa
+45	Somalia	Mogadishu	+252	SOM	Africa
+46	South Africa	Pretoria	+27	ZAF	Africa
+47	South Sudan	Juba	+211	SSD	Africa
+48	Sudan	Khartoum	+249	SDN	Africa
+49	Swaziland	Mbabane	+268	SWZ	Africa
+50	Tanzania	Dodoma	+255	TZA	Africa
+51	Togo	Lom?	+228	TGO	Africa
+52	Tunisia	Tunis	+216	TUN	Africa
+53	Uganda	Kampala	+256	UGA	Africa
+54	Western Sahara	El-Aaiun	+212	ESH	Africa
+55	Zambia	Lusaka	+260	ZMB	Africa
+56	Zimbabwe	Harare	+263	ZWE	Africa
+57	Anguilla	The Valley	+1 264	AIA	"America (North, South)"
+58	Argentina	Buenos Aires	+54	ARG	"America (North, South)"
+59	Aruba	Oranjestad	+297	ABW	"America (North, South)"
+60	Bahamas	Nassau	+1	BHS	"America (North, South)"
+61	Barbados	Bridgetown	+1	BRB	"America (North, South)"
+62	Belize	Belmopan	+501	BLZ	"America (North, South)"
+63	Bermuda	Hamilton	+1	BMU	"America (North, South)"
+64	Bolivia	La Paz	+591	BOL	"America (North, South)"
+65	Brazil	Bras?lia	+55	BRA	"America (North, South)"
+66	British Virgin Islands	Road Town	+1 284	VGB	"America (North, South)"
+67	Canada	Ottawa	+1	CAN	"America (North, South)"
+68	Cayman Islands	George Town	+1-345	CYM	"America (North, South)"
+69	Chile	Santiago	+56	CHL	"America (North, South)"
+70	Colombia	Bogot?	+57	COL	"America (North, South)"
+71	Costa Rica	San Jos?	+506	CRI	"America (North, South)"
+72	Cuba	Havana	+53	CUB	"America (North, South)"
+73	Curacao	Willemstad	+599	CUW	"America (North, South)"
+74	Dominica	Roseau	+1	DMA	"America (North, South)"
+75	Dominican Republic	Santo Domingo	+1	DOM	"America (North, South)"
+76	Ecuador	Quito	+593	ECU	"America (North, South)"
+77	El Salvador	San Salvador	+503	SLV	"America (North, South)"
+78	Falkland Islands	Stanley	+500	FLK	"America (North, South)"
+79	Greenland	Nuuk	+299	GRL	"America (North, South)"
+80	Guadeloupe	Basse-Terre	+590	GLP	"America (North, South)"
+81	Guatemala	Guatemala City	+502	GTM	"America (North, South)"
+82	Guyana	Georgetown	+592	GUY	"America (North, South)"
+83	Haiti	Port-au-Prince	+509	HTI	"America (North, South)"
+84	Honduras	Tegucigalpa	+504	HND	"America (North, South)"
+85	Jamaica	Kingston	+1	JAM	"America (North, South)"
+86	Mexico	Mexico City	+52	MEX	"America (North, South)"
+87	Montserrat	Plymouth	+1 664	MSR	"America (North, South)"
+88	Nicaragua	Managua	+505	NIC	"America (North, South)"
+89	Panama	Panama City	+507	PAN	"America (North, South)"
+90	Paraguay	Asunci?n	+595	PRY	"America (North, South)"
+91	Peru	Lima	+51	PER	"America (North, South)"
+92	Puerto Rico	San Juan	+1	PRI	"America (North, South)"
+93	Saint Barth?lemy	Gustavia	+590	BLM	"America (North, South)"
+94	Saint Kitts and Nevis	Basseterre	+1	KNA	"America (North, South)"
+95	Saint Lucia	Castries	+1	LCA	"America (North, South)"
+96	Saint Martin	Marigot	+1 599	MAF	"America (North, South)"
+97	Saint Pierre and Miquelon	Saint-Pierre	+508	SPM	"America (North, South)"
+98	Saint Vincent and the Grenadines	Kingstown	+1	VCT	"America (North, South)"
+99	Suriname	Paramaribo	+597	SUR	"America (North, South)"
+100	Trinidad and Tobago	Port of Spain	+1	TTO	"America (North, South)"
+101	United States	Washington	+1	USA	"America (North, South)"
+102	Uruguay	Montevideo	+598	URY	"America (North, South)"
+103	Venezuela	Caracas	+58	VEN	"America (North, South)"
+104	Afghanistan	Kabul	+93	AFG	Asia
+105	Armenia	Yerevan	+374	ARM	Asia
+106	Azerbaijan	Baku	+994	AZE	Asia
+107	Bahrain	Manama	+973	BHR	Asia
+108	Bangladesh	Dhaka	+880	BGD	Asia
+109	Bhutan	Thimphu	+975	BTN	Asia
+110	Brunei	Bandar Seri Begawan	+673	BRN	Asia
+111	Cambodia	Phnom Penh	+855	KHM	Asia
+112	China	Beijing	+86	CHN	Asia
+113	Georgia	Tbilisi	+995	GEO	Asia
+114	Hong Kong	Hong Kong	+852	HKG	Asia
+115	India	New Delhi	+91	IND	Asia
+116	Indonesia	Jakarta	+62	IDN	Asia
+117	Iran	Tehran	+98	IRN	Asia
+118	Iraq	Baghdad	+964	IRQ	Asia
+119	Israel	Jerusalem	+972	ISR	Asia
+120	Japan	Tokyo	+81	JPN	Asia
+121	Jordan	Amman	+962	JOR	Asia
+122	Kazakhstan	Astana	+7	KAZ	Asia
+123	Kuwait	Kuwait City	+965	KWT	Asia
+124	Kyrgyzstan	Bishkek	+996	KGZ	Asia
+125	Laos	Vientiane	+856	LAO	Asia
+126	Lebanon	Beirut	+961	LBN	Asia
+127	Macau	Macao	+853	MAC	Asia
+128	Malaysia	Kuala Lumpur	+60	MYS	Asia
+129	Maldives	Mal?	+960	MDV	Asia
+130	Mongolia	Ulan Bator	+976	MNG	Asia
+131	Myanmar [Burma]	Nay Pyi Taw	+95	MMR	Asia
+132	Nepal	Kathmandu	+977	NPL	Asia
+133	North Korea	Pyongyang	+850	PRK	Asia
+134	Oman	Muscat	+968	OMN	Asia
+135	Pakistan	Islamabad	+92	PAK	Asia
+136	Philippines	Manila	+63	PHL	Asia
+137	Qatar	Doha	+974	QAT	Asia
+138	Saudi Arabia	Riyadh	+966	SAU	Asia
+139	Singapore	Singapur	+65	SGP	Asia
+140	South Korea	Seoul	+82	KOR	Asia
+141	Sri Lanka	Colombo	+94	LKA	Asia
+142	Syria	Damascus	+963	SYR	Asia
+143	Taiwan	Taipei	+886	TWN	Asia
+144	Tajikistan	Dushanbe	+992	TJK	Asia
+145	Thailand	Bangkok	+66	THA	Asia
+146	Turkey	Ankara	+90	TUR	Asia
+147	Turkmenistan	Ashgabat	+993	TKM	Asia
+148	United Arab Emirates	Abu Dhabi	+971	ARE	Asia
+149	Uzbekistan	Tashkent	+998	UZB	Asia
+150	Vietnam	Hanoi	+84	VNM	Asia
+151	Yemen	San‘a’	+967	YEM	Asia
+152	American Samoa	Pago Pago	+1 684	ASM	Australia and Oceania
+153	Australia	Canberra	+61	AUS	Australia and Oceania
+154	Cook Islands	Avarua	+682	COK	Australia and Oceania
+155	East Timor	Dili	+670	TLS	Australia and Oceania
+156	Fiji	Suva	+679	FJI	Australia and Oceania
+157	French Polynesia	Papeete	+689	PYF	Australia and Oceania
+158	Guam	Hag?t?a	+1 671	GUM	Australia and Oceania
+159	Kiribati	Tarawa	+686	KIR	Australia and Oceania
+160	Marshall Islands	Majuro	+692	MHL	Australia and Oceania
+161	Micronesia	Palikir	+691	FSM	Australia and Oceania
+162	Nauru	Yaren	+674	NRU	Australia and Oceania
+163	New Caledonia	Noum?a	+687	NCL	Australia and Oceania
+164	New Zealand	Wellington	+64	NZL	Australia and Oceania
+165	Niue	Alofi	+683	NIU	Australia and Oceania
+166	Norfolk Island	Kingston	+672	NFK	Australia and Oceania
+167	Northern Mariana Islands	Saipan	+1 670	MNP	Australia and Oceania
+168	Palau	Melekeok	+680	PLW	Australia and Oceania
+169	Papua New Guinea	Port Moresby	+675	PNG	Australia and Oceania
+170	Pitcairn Islands	Adamstown	+870	PCN	Australia and Oceania
+171	Samoa	Apia	+685	WSM	Australia and Oceania
+172	Solomon Islands	Honiara	+677	SLB	Australia and Oceania
+173	Tokelau	Funafuti	+690	TKL	Australia and Oceania
+174	Tuvalu	Port Vila	+688	TUV	Australia and Oceania
+175	Vanuatu		+678	VUT	Australia and Oceania
+176	Albania	Tirana	+355	ALB	Europe
+177	Andorra	Andorra la Vella	+376	AND	Europe
+178	Austria	Vienna	+43	AUT	Europe
+179	Belarus	Minsk	+375	BLR	Europe
+180	Belgium	Brussels	+32	BEL	Europe
+181	Bosnia and Herzegovina	Sarajevo	+387	BIH	Europe
+182	Bulgaria	Sofia	+359	BGR	Europe
+183	Croatia	Zagreb	+385	HRV	Europe
+184	Cyprus	Nicosia	+357	CYP	Europe
+185	Czech Republic	Prague	+420	CZE	Europe
+186	Denmark	Copenhagen	+45	DNK	Europe
+187	Estonia	Tallinn	+372	EST	Europe
+188	Faroe Islands	T?rshavn	+298	FRO	Europe
+189	Finland	Helsinki	+358	FIN	Europe
+190	France	Paris	+33	FRA	Europe
+191	Germany	Berlin	+49	DEU	Europe
+192	Gibraltar	Gibraltar	+350	GIB	Europe
+193	Greece	Athens	+30	GRC	Europe
+194	Hungary	Budapest	+36	HUN	Europe
+195	Iceland	Reykjav?k	+354	ISL	Europe
+196	Ireland	Dublin	+353	IRL	Europe
+197	Isle of Man	"Douglas, Isle of Man"	+44	IMN	Europe
+198	Italy	Rome	+39	ITA	Europe
+199	Kosovo	Pristina	+381	XKX	Europe
+200	Latvia	Riga	+371	LVA	Europe
+201	Liechtenstein	Vaduz	+423	LIE	Europe
+202	Lithuania	Vilnius	+370	LTU	Europe
+203	Luxembourg	Luxembourg	+352	LUX	Europe
+204	Macedonia	Skopje	+389	MKD	Europe
+205	Malta	Valletta	+356	MLT	Europe
+206	Moldova	Chi?in?u	+373	MDA	Europe
+207	Monaco	Monaco	+377	MCO	Europe
+208	Montenegro	Podgorica	+382	MNE	Europe
+209	Netherlands	Amsterdam	+31	NLD	Europe
+210	Norway	Oslo	+47	NOR	Europe
+211	Poland	Warsaw	+48	POL	Europe
+212	Portugal	Lisbon	+351	PRT	Europe
+213	Romania	Bucharest	+40	ROU	Europe
+214	Russia	Moscow	+7	RUS	Europe
+215	San Marino	San Marino	+378	SMR	Europe
+216	Serbia	Belgrade	+381	SRB	Europe
+217	Slovakia	Bratislava	+421	SVK	Europe
+218	Slovenia	Ljubljana	+386	SVN	Europe
+219	Spain	Madrid	+34	ESP	Europe
+220	Sweden	Stockholm	+46	SWE	Europe
+221	Switzerland	Berne	+41	CHE	Europe
+222	Ukraine	Kiev	+380	UKR	Europe
+223	United Kingdom	London	+44	GBR	Europe
+224	Vatican	Vatican City	+39	VAT	Europe
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

@@ -3,9 +3,8 @@
     using System;
     using System.Linq;
     using System.Threading;
-    using Toys.Core.MongoDb;
     using Toys.Data;
-    using Toys.XmlReportExporter;
+    using Toys.Core;
 
     public class StartUp
     {
@@ -14,10 +13,8 @@
             var context = new ToysDbContext();
             var db = new ToysData(context);
 
-            Console.WriteLine(db.Products.All().Count());
-
-            var xmlReportsExporter = new XmlReportExporter();
-            xmlReportsExporter.ExportReport(context);
+            var dataManager = new DataManager();
+            dataManager.Start();
         }
     }
 }
