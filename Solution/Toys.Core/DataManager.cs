@@ -22,7 +22,9 @@
                 new AddCountryCommand(this.data),
                 new AddManufacturerCommand(this.data),
                 new AddProductsToMongoDbCommand(this.data),
+                new AddSellersToMongoDbCommand(this.data),
                 new GetProductsFromMongoToSqlServerCommand(this.data),
+                new GetSellersFromMongoToSqlServerCommand(this.data)
             };
 
             foreach (var command in commands)
