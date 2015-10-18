@@ -25,7 +25,8 @@
                 new AddSellersToMongoDbCommand(this.data),
                 new GetProductsFromMongoToSqlServerCommand(this.data),
                 new GetSellersFromMongoToSqlServerCommand(this.data),
-                new SalesReportGeneratorCommand(this.data)
+                new SalesReportGeneratorCommand(this.data),
+                new PdfCommand(this.data)
             };
 
             foreach (var command in commands)

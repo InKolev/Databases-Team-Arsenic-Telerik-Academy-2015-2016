@@ -19,6 +19,11 @@
 
         public override bool Execute()
         {
+            if (Directory.EnumerateFileSystemEntries(SaveDirFilePath).Any())
+            {
+                return false;
+            }
+
             return this.Generate();
         }
 
