@@ -30,7 +30,8 @@
                 new AddSalesReportsToSqlCommand(this.data),
                 new PdfCommand(this.data),
                 new ExportXmlReportCommand(this.data, this.context),
-                new ExportJsonReportCommand(this.data, this.context)
+                new ExportJsonReportCommand(this.data, this.context),
+                new SqliteToExcelReportCommand(this.data)
             };
 
             foreach (var command in commands)
