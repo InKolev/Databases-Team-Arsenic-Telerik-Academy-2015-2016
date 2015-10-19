@@ -18,8 +18,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{443EE3
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toys.XmlReportExporter", "Toys.XmlReportExporter\Toys.XmlReportExporter.csproj", "{E039360B-26A8-45D5-8567-4FBFE7C2DB8E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,10 +40,6 @@ Global
 		{0570CFF1-607E-4BEE-97C2-6D0102D1D5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0570CFF1-607E-4BEE-97C2-6D0102D1D5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0570CFF1-607E-4BEE-97C2-6D0102D1D5B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E039360B-26A8-45D5-8567-4FBFE7C2DB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E039360B-26A8-45D5-8567-4FBFE7C2DB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E039360B-26A8-45D5-8567-4FBFE7C2DB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E039360B-26A8-45D5-8567-4FBFE7C2DB8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,8 @@
-﻿namespace Toys.XmlReportExporter
+﻿namespace Toys.Core.ReportsCommon
 {
     using System;
     using System.Collections.Generic;
+    using System.Data.Entity;
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
@@ -9,29 +10,29 @@
 
     public class DbReportsDataExtractor
     {
-        public List<Report> GetData(object db)
+        public List<Report> GetData(DbContext dbContext)
         {
-            var dbContext = db as ToysDbContext;
+            var toysDbContext = dbContext as ToysDbContext;
             var reportsList = new List<Report>();
 
-            var reportsData = dbContext.Manufacturers
+            var reportsData = toysDbContext.Manufacturers
                 .Join(
-                    dbContext.Products,
+                    toysDbContext.Products,
                     manufacturer => manufacturer.Id,
                     product => product.ManufacturerId,
                     (manufacturer, product) => new { manufacturer, product })
                     .Join(
-                        dbContext.Countries,
+                        toysDbContext.Countries,
                         mn => mn.manufacturer.CountryId,
                         country => country.Id,
                         (mn, country) => new { mn, country })
                         .Join(
-                            dbContext.Sales,
+                            toysDbContext.Sales,
                             mmn => mmn.mn.product.Id,
                             sales => sales.ProductId,
                             (mmn, sales) => new { mmn, sales })
                             .Join(
-                                dbContext.Sellers,
+                                toysDbContext.Sellers,
                                 mmmn => mmmn.sales.SellerId,
                                 seller => seller.Id,
                                 (mmmn, seller) => new { mmmn, seller })

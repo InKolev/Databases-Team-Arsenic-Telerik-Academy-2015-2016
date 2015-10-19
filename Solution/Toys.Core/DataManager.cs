@@ -27,7 +27,8 @@
                 new GetSellersFromMongoToSqlServerCommand(this.data),
                 new SalesReportGeneratorCommand(this.data),
                 new PdfCommand(this.data),
-                new ExportXmlReportCommand(this.data, this.context)
+                new ExportXmlReportCommand(this.data, this.context),
+                new ExportJsonReportCommand(this.data, this.context)
             };
 
             foreach (var command in commands)
