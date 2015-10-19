@@ -1,4 +1,4 @@
-﻿namespace Toys.Core.XmlExporter
+﻿namespace Toys.Core.ReportsExporters.XmlExporter
 {
     using System;
     using System.Collections.Generic;
@@ -8,7 +8,7 @@
     using System.Text;
     using System.Threading.Tasks;
     using System.Xml.Serialization;
-    using Toys.Core.ReportsCommon;
+    using Toys.Core.ReportsExporters.ReportsCommon;
 
     public class XmlReportExporter
     {

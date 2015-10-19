@@ -87,7 +87,7 @@
     <Compile Include="Commands\ICommand.cs" />
     <Compile Include="Commands\GetProductsFromMongoToSqlServerCommand.cs" />
     <Compile Include="Commands\PdfCommand.cs" />
-    <Compile Include="Contracts\IExporter.cs" />
+    <Compile Include="ReportsExporters\Contracts\IExporter.cs" />
     <Compile Include="Commands\ZipSalesReportsCommand.cs" />
     <Compile Include="DataManager.cs" />
     <Compile Include="ReportsExporters\JsonExporter\JsonReportExporter.cs" />

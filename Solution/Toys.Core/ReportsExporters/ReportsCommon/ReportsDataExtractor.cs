@@ -1,4 +1,4 @@
-﻿namespace Toys.Core.ReportsCommon
+﻿namespace Toys.Core.ReportsExporters.ReportsCommon
 {
     using System;
     using System.Collections.Generic;

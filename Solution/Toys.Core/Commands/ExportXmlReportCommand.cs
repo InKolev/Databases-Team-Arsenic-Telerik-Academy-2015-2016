@@ -2,7 +2,7 @@
 {
     using System;
     using System.Linq;
-    using Toys.Core.XmlExporter;
+    using Toys.Core.ReportsExporters.XmlExporter;
     using Toys.Data;
     using Toys.Data.Contracts;
 

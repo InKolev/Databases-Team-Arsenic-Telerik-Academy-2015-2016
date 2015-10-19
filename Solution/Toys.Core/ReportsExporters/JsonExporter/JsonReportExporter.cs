@@ -1,4 +1,4 @@
-﻿namespace Toys.Core.JsonExporter
+﻿namespace Toys.Core.ReportsExporters.JsonExporter
 {
     using Newtonsoft.Json;
     using System;
@@ -8,8 +8,8 @@
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
-    using Toys.Core.Contracts;
-    using Toys.Core.ReportsCommon;
+    using Toys.Core.ReportsExporters.Contracts;
+    using Toys.Core.ReportsExporters.ReportsCommon;
 
     public class JsonReportExporter : IExporter
     {

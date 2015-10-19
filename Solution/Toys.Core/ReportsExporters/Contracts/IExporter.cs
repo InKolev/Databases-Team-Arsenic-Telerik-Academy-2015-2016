@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Toys.Core.Contracts
+namespace Toys.Core.ReportsExporters.Contracts
 {
     public interface IExporter
     {

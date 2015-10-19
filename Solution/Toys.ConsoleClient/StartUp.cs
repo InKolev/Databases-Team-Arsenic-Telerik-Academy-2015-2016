@@ -2,7 +2,7 @@
 {
     using Toys.Data;
     using Toys.Core;
-    using Toys.Core.JsonExporter;
+    using Toys.Core.ReportsExporters.JsonExporter;
 
     public class StartUp
     {
