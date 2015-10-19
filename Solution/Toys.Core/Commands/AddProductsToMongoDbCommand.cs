@@ -8,7 +8,8 @@
 
     public class AddProductsToMongoDbCommand : Command, ICommand
     {
-        private const string ProductsTextFilePaht = @"../../../Files/DbProductsToImportInMongoDb.txt";
+        private const string ProductsTextFilePaht = @"../../../Files/DbProductsToImportInMongoDb.zip";
+        private const string XslFileName = "DbProductsToImportInMongoDb.xls";
         private const string Arsenicdbinmongodb = "ArsenicDbInMongoDb";
         private const string ProductsTable = "Products";
 
@@ -23,7 +24,7 @@
 
         public override bool Execute()
         {
-            var dataToImport = this.ImportFromTextFile(ProductsTextFilePaht);
+            var dataToImport = this.ImportFromZipFile(ProductsTextFilePaht, XslFileName);
             var records = this.mongoDatabase.GetCollection<BsonDocument>(ProductsTable).CountAsync(x => true).Result;
 
             if (!dataToImport.Any() || records > 0)

@@ -6,7 +6,8 @@
 
     public class AddManufacturerCommand : Command, ICommand
     {
-        private const string CsvFilePath = @"../../../Files/DbManufacturersToImportInSqlServer.txt";
+        private const string CsvFilePath = @"../../../Files/DbManufacturersToImportInSqlServer.zip";
+        private const string XslFileName = "DbManufacturersToImportInSqlServer.xls";
 
         public AddManufacturerCommand(IToysData data)
             : base(data)
@@ -15,7 +16,7 @@
 
         public override bool Execute()
         {
-            var dataToImport = this.ImportFromTextFile(CsvFilePath);
+            var dataToImport = this.ImportFromZipFile(CsvFilePath, XslFileName);
 
             if (this.Data.Manufacturers.All().Any() || !dataToImport.Any())
             {

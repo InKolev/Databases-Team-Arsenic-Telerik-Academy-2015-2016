@@ -72,9 +72,6 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Toys.XmlReportExporter">
-      <HintPath>..\Toys.XmlReportExporter\bin\Debug\Toys.XmlReportExporter.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\AddManufacturerCommand.cs" />
@@ -100,6 +97,10 @@
     <ProjectReference Include="..\Toys.Models\Toys.Models.csproj">
       <Project>{0f38d2f4-e174-4731-b116-d394a0655531}</Project>
       <Name>Toys.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Toys.XmlReportExporter\Toys.XmlReportExporter.csproj">
+      <Project>{e039360b-26a8-45d5-8567-4fbfe7c2db8e}</Project>
+      <Name>Toys.XmlReportExporter</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
