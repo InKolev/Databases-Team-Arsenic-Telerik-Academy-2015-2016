@@ -14,6 +14,8 @@
     {
         protected readonly IToysData Data;
 
+        protected List<string[]> list = new List<string[]>();
+
         protected Command(IToysData data)
         {
             this.Data = data;
@@ -36,14 +38,14 @@
             var dataSource = @"../../../Files/" + fileName;
 
 
-            var list = ReadExcelFile(dataSource);
+            this.ReadExcelFile(dataSource);
 
             if (File.Exists(dataSource))
             {
                 File.Delete(dataSource);
             }
 
-            return list;
+            return this.list;
         }
 
         protected List<string[]> ImportReportsFromZipFile(string filePath, string extractDir)
@@ -53,22 +55,17 @@
                 foreach (var entry in zip.Entries)
                 {
                     entry.Extract(extractDir);
+
+                    var dataSource = @"../../../Files/SalesReportsUnzipped/" + entry.FileName;
+                    this.ReadExcelFile(dataSource);
                 }
             }
 
-            //var dataSource = @"../../../Files/" + fileName;
-            //
-            //
-            //var list = ReadExcelFile(dataSource);
-            //
-            //if (File.Exists(dataSource))
-            //{
-            //    File.Delete(dataSource);
-            //}
-            //
+            var clearPath = @"../../../Files/SalesReportsUnzipped/";
 
-            var list = new List<string[]>();
-            return list;
+            Empty(clearPath);
+
+            return this.list;
         }
 
         protected bool ZipFile(string filePath)
@@ -88,9 +85,8 @@
             return success;
         }
 
-        private List<string[]> ReadExcelFile(string dataSource)
+        private void ReadExcelFile(string dataSource)
         {
-            var list = new List<string[]>();
             //DataSet dataSet = new DataSet();
 
             string connectionString = GetConnectionString(dataSource);
@@ -120,22 +116,35 @@
                     var rdr = command.ExecuteReader();
                     while (rdr.Read())
                     {
-                        string[] fileData = new string[rdr.FieldCount]; 
+                        string[] fileData = new string[rdr.FieldCount];
 
                         for (int i = 0; i < rdr.FieldCount; i++)
                         {
                             fileData[i] = rdr[i].ToString();
                         }
 
-                            list.Add(fileData);
+                        this.list.Add(fileData);
                     }
                 }
 
                 command = null;
                 connection.Close();
             }
+        }
 
-            return list;
+        private static void Empty(string directoryPath)
+        {
+            System.IO.DirectoryInfo directory = new DirectoryInfo(directoryPath);
+
+            foreach (System.IO.FileInfo file in directory.GetFiles())
+            {
+                file.Delete();
+            }
+
+            foreach (System.IO.DirectoryInfo subDirectory in directory.GetDirectories())
+            {
+                subDirectory.Delete(true);
+            }
         }
 
         private string GetConnectionString(string dataSource)

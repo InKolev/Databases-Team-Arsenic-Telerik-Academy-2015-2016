@@ -6,6 +6,7 @@ namespace Toys.Core.Commands
     using System.Text;
     using System.Threading.Tasks;
     using Toys.Data.Contracts;
+    using Toys.Models;
 
 
     class AddSalesReportsToSqlCommand : Command, ICommand
@@ -22,24 +23,22 @@ namespace Toys.Core.Commands
         {
             var dataToImport = this.ImportReportsFromZipFile(ZipFilePath, ExtractDir);
 
-            //if (this.Data.Countries.All().Any() || !dataToImport.Any())
-            //{
-            //    return false;
-            //}
+            if (this.Data.Sales.All().Any() || !dataToImport.Any())
+            {
+                return false;
+            }
 
-            //var country = new Country();
-            //
-            //foreach (var item in dataToImport)
-            //{
-            //    country.Name = item[1];
-            //    country.CapitalCity = item[2];
-            //    country.PhonePrefix = item[3];
-            //    country.IsoCode = item[4];
-            //    country.Continent = item[5];
-            //
-            //    this.Data.Countries.Add(country);
-            //    this.Data.SaveChanges();
-            //}
+            foreach (var item in dataToImport)
+            {
+                var sale = new Sale();
+                sale.ProductId = int.Parse(item[0]);
+                sale.Sku = item[1];
+                sale.Quantity = int.Parse(item[2]);
+                sale.SellerId = int.Parse(item[3]);
+
+                this.Data.Sales.Add(sale);
+                this.Data.SaveChanges();
+            }
 
             return true;
         }
