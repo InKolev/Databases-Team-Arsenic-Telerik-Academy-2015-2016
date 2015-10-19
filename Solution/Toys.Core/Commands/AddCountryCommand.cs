@@ -6,7 +6,7 @@
 
     public class AddCountryCommand : Command, ICommand
     {
-        private const string CsvFilePath = @"../../../Files/DbCountriesToImportInSqlServer.zip";
+        private const string ZipFilePath = @"../../../Files/DbCountriesToImportInSqlServer.zip";
         private const string XslFileName = "DbCountriesToImportInSqlServer.xls";
 
         public AddCountryCommand(IToysData data)
@@ -16,7 +16,7 @@
 
         public override bool Execute()
         {
-            var dataToImport = this.ImportFromZipFile(CsvFilePath, XslFileName);
+            var dataToImport = this.ImportFromZipFile(ZipFilePath, XslFileName);
 
             if (this.Data.Countries.All().Any() || !dataToImport.Any())
             {

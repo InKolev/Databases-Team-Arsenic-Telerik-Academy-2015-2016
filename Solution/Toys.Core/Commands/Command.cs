@@ -28,8 +28,6 @@
             
             using (var reader = new StreamReader(path))
             {
-                var line = reader.ReadLine();
-
                 using (ZipFile zip = ZipFile.Read(path))
                 {
                     ZipEntry e = zip[fileName];
