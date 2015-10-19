@@ -20,10 +20,10 @@
             var salesReport = new SalesReport() { Sales = salesList };
 
             Directory.CreateDirectory(@"..\\..\\..\\Files\\JsonReports");
-            using (File.Create(@"..\\..\\..\\Files\\JsonReports\\report.json")) { }
+            //using (File.Create(@"..\\..\\..\\Files\\JsonReports\\report.json")) { }
 
-            var salesReportAsJson = JsonConvert.SerializeObject(salesReport);
-            using (File.AppendText(@"..\\..\\..\\Files\\JsonReports\\report.json")) { }
+            var salesReportAsJson = JsonConvert.SerializeObject(salesReport, Formatting.Indented);
+            File.WriteAllText(@"..\\..\\..\\Files\\JsonReports\\report.json", salesReportAsJson);
 
             return true;
         }

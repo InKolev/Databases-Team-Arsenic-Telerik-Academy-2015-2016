@@ -47,13 +47,13 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
     <Reference Include="Toys.Core">
-      <HintPath>..\Toys.Core\bin\Debug\Toys.Core.dll</HintPath>
+      <HintPath>..\Toys.Core\obj\Debug\Toys.Core.dll</HintPath>
     </Reference>
     <Reference Include="Toys.Data">
       <HintPath>..\Toys.Data\obj\Debug\Toys.Data.dll</HintPath>
     </Reference>
     <Reference Include="Toys.Models">
-      <HintPath>..\Toys.Core\bin\Debug\Toys.Models.dll</HintPath>
+      <HintPath>..\Toys.Models\obj\Debug\Toys.Models.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,4003 @@
+<?xml version="1.0"?>
+<sales-reports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>КРИЕЙТЪР-КАМИОН ВЛЕКАЧ</product-description>
+    <quantity>11</quantity>
+    <retail-price>33.42</retail-price>
+    <wholesale-price>21.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>СУПЕР ХИРОУС-ХЪЛК</product-description>
+    <quantity>5</quantity>
+    <retail-price>27.83</retail-price>
+    <wholesale-price>18.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ДУПЛО-ПОЛИЦЕЙСКИ КАМИОН</product-description>
+    <quantity>18</quantity>
+    <retail-price>46.00</retail-price>
+    <wholesale-price>29.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>СТАР УОРС-А-УИНГ ЗВЕЗДЕН РАЗРУШИТЕЛ</product-description>
+    <quantity>4</quantity>
+    <retail-price>69.92</retail-price>
+    <wholesale-price>45.45</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ТЕХНИК-ДЖЕТ САМОЛЕТ</product-description>
+    <quantity>20</quantity>
+    <retail-price>94.75</retail-price>
+    <wholesale-price>61.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>СТАР УОРС-КОСМИЧЕСКИ КОРАБ И БЕСПИН</product-description>
+    <quantity>14</quantity>
+    <retail-price>30.33</retail-price>
+    <wholesale-price>19.72</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЛЮШ-25 СМ ЙОРИ </product-description>
+    <quantity>19</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЛЮШ-20 СМ ТИГЪР </product-description>
+    <quantity>11</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>КОМПЛЕКТ ПЛАСТЕЛИН</product-description>
+    <quantity>3</quantity>
+    <retail-price>9.00</retail-price>
+    <wholesale-price>6.30</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>КОРКОВА ДЪСКА ЗА ТВОРЦИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>19.08</retail-price>
+    <wholesale-price>13.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ФЕРАРИ ПИСТА С ЛУПИНГ</product-description>
+    <quantity>10</quantity>
+    <retail-price>32.42</retail-price>
+    <wholesale-price>22.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>РИСТОРАНТЕ ИТАЛИАНО КОМПЛЕКТ ЗА СЛАДКИ</product-description>
+    <quantity>1</quantity>
+    <retail-price>23.92</retail-price>
+    <wholesale-price>15.55</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>БЕБЕШКИ ЛАПТОП</product-description>
+    <quantity>1</quantity>
+    <retail-price>23.67</retail-price>
+    <wholesale-price>16.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>МОДУЛ РАДИОKОНТРОЛ</product-description>
+    <quantity>15</quantity>
+    <retail-price>175.58</retail-price>
+    <wholesale-price>126.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>БАСЕЙН ЗА ДЕЛФИНИ</product-description>
+    <quantity>12</quantity>
+    <retail-price>105.58</retail-price>
+    <wholesale-price>73.81</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ДЕТСКА ПЛОЩАДКА</product-description>
+    <quantity>2</quantity>
+    <retail-price>21.58</retail-price>
+    <wholesale-price>15.18</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>КОМПЛЕКТ ШПИОНСКА КАМЕРА</product-description>
+    <quantity>11</quantity>
+    <retail-price>142.00</retail-price>
+    <wholesale-price>99.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>СЪСТЕЗАТЕЛИ ПО ФЕХТОВКА</product-description>
+    <quantity>4</quantity>
+    <retail-price>6.33</retail-price>
+    <wholesale-price>4.41</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЯСЪЧНИК ЯБЪЛКА</product-description>
+    <quantity>9</quantity>
+    <retail-price>42.58</retail-price>
+    <wholesale-price>29.81</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>СТОЛЧЕ</product-description>
+    <quantity>4</quantity>
+    <retail-price>26.58</retail-price>
+    <wholesale-price>20.06</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ДИНО НА КОЛЕЛА</product-description>
+    <quantity>16</quantity>
+    <retail-price>57.50</retail-price>
+    <wholesale-price>40.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>НАПРАВИ СИ ДОМАШЕН ЛЮБИМЕЦ-МИШКА</product-description>
+    <quantity>4</quantity>
+    <retail-price>17.17</retail-price>
+    <wholesale-price>12.02</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЪЗЕЛ 1000ЕЛ.</product-description>
+    <quantity>15</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЪЗЕЛ 25</product-description>
+    <quantity>18</quantity>
+    <retail-price>7.25</retail-price>
+    <wholesale-price>5.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЪЗЕЛ 30-48</product-description>
+    <quantity>9</quantity>
+    <retail-price>9.42</retail-price>
+    <wholesale-price>6.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПЪЗЕЛ ТОПКА 72 ЕЛ</product-description>
+    <quantity>16</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>РИСУВАТЕЛНА ГАЛЕРИЯ АКВАРЕЛ МИНИ</product-description>
+    <quantity>19</quantity>
+    <retail-price>9.92</retail-price>
+    <wholesale-price>6.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПРОФЕСИОНАЛЕН МОДЕЛ ПЕРУКА</product-description>
+    <quantity>8</quantity>
+    <retail-price>10.17</retail-price>
+    <wholesale-price>7.12</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>bimbomaniabg.com</seller-name>
+    <product-description>ПАМПЕРСИ 5 БР.</product-description>
+    <quantity>13</quantity>
+    <retail-price>2.50</retail-price>
+    <wholesale-price>1.75</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>comsed.net</seller-name>
+    <product-description>КУКЛА </product-description>
+    <quantity>15</quantity>
+    <retail-price>36.33</retail-price>
+    <wholesale-price>25.43</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ПЪЗЕЛ 8-17 ЕЛЕМЕНТА</product-description>
+    <quantity>8</quantity>
+    <retail-price>7.42</retail-price>
+    <wholesale-price>5.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ПЪЗЕЛ 1000ЕЛ.</product-description>
+    <quantity>8</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>РАДИОУПРАВЛЯЕМ РОБОТ</product-description>
+    <quantity>13</quantity>
+    <retail-price>48.25</retail-price>
+    <wholesale-price>33.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
+    <seller-name>comsed.net</seller-name>
+    <product-description>СПЛАШ ШОТЦ</product-description>
+    <quantity>11</quantity>
+    <retail-price>6.24</retail-price>
+    <wholesale-price>4.37</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ЗАЙФУН ПЪЛНИТЕЛ</product-description>
+    <quantity>11</quantity>
+    <retail-price>2.08</retail-price>
+    <wholesale-price>1.45</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>6</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 100</product-description>
+    <quantity>19</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ВЕТЕРИНАР С АВТОМОБИЛ</product-description>
+    <quantity>14</quantity>
+    <retail-price>28.25</retail-price>
+    <wholesale-price>19.77</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>comsed.net</seller-name>
+    <product-description>РЕЙНДЖЪР С АФРИКАНСКИ ГЛИГАН</product-description>
+    <quantity>15</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ЛИВАДА С ЖИВОТНИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>22.75</retail-price>
+    <wholesale-price>16.71</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>comsed.net</seller-name>
+    <product-description>СЪСТЕЗАТЕЛЕН АВТОМОБИЛ</product-description>
+    <quantity>10</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.82</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>HD НОВО ПОКОЛЕНИЕ ТЕЛЕСКОП С ТРИПОД</product-description>
+    <quantity>14</quantity>
+    <retail-price>39.92</retail-price>
+    <wholesale-price>27.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>КРИСТАЛИ ЛИЛАВ</product-description>
+    <quantity>20</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
+    <seller-name>comsed.net</seller-name>
+    <product-description>БЕБЕШКИ МУЗИКАЛЕН ПУЛТ</product-description>
+    <quantity>2</quantity>
+    <retail-price>26.17</retail-price>
+    <wholesale-price>18.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>comsed.net</seller-name>
+    <product-description>РИСТОРАНТЕ ИТАЛИАНО КОМПЛЕКТ ЗА ПЛОДОВЕ/ЗЕЛЕНЧУЦИ</product-description>
+    <quantity>2</quantity>
+    <retail-price>11.25</retail-price>
+    <wholesale-price>7.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>КАСИЧКА ПРИНЦЕСИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>13.08</retail-price>
+    <wholesale-price>9.16</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>comsed.net</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>19</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>comsed.net</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>13</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ЕНЕРГИЯ</product-description>
+    <quantity>13</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>МОЗАЙКА 120 ЕЛ.</product-description>
+    <quantity>17</quantity>
+    <retail-price>11.42</retail-price>
+    <wholesale-price>7.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>УРЕД ЗА МЪНИСТА</product-description>
+    <quantity>5</quantity>
+    <retail-price>40.42</retail-price>
+    <wholesale-price>28.29</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ДЪРВОДЕЛСКИ КОМПЛЕКТ</product-description>
+    <quantity>17</quantity>
+    <retail-price>29.08</retail-price>
+    <wholesale-price>20.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ПЛЮШ-65 СМ МИКИ </product-description>
+    <quantity>2</quantity>
+    <retail-price>45.75</retail-price>
+    <wholesale-price>32.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>comsed.net</seller-name>
+    <product-description>КАРС-СПАСЯВАНЕТО НА РЕД УОТЪР</product-description>
+    <quantity>18</quantity>
+    <retail-price>39.33</retail-price>
+    <wholesale-price>25.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>comsed.net</seller-name>
+    <product-description>СТАР УОРС-СИСИ ТИН ДЖЕДАЙСКИ ЗВЕЗДЕН РАЗРУШИТЕЛ</product-description>
+    <quantity>11</quantity>
+    <retail-price>94.75</retail-price>
+    <wholesale-price>61.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>comsed.net</seller-name>
+    <product-description>ХИРОУ ФАКТОРИ-ФЪРНО XL V29</product-description>
+    <quantity>13</quantity>
+    <retail-price>44.58</retail-price>
+    <wholesale-price>28.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ДУПЛО-МОЯТ ПЪРВИ ЦИРК</product-description>
+    <quantity>9</quantity>
+    <retail-price>91.92</retail-price>
+    <wholesale-price>59.75</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>emag.bg</seller-name>
+    <product-description>СИТИ-СЛУЖЕБНА КОЛА НА ДИРЕКТОРА НА ПОЖАРНАТА</product-description>
+    <quantity>9</quantity>
+    <retail-price>22.25</retail-price>
+    <wholesale-price>14.47</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ДУПЛО-ПАНДА</product-description>
+    <quantity>8</quantity>
+    <retail-price>18.33</retail-price>
+    <wholesale-price>11.92</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>emag.bg</seller-name>
+    <product-description>СТАР КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>6</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ФЕРАРИ РАДИОУПРАВЛЯЕМА КОЛА 1/43</product-description>
+    <quantity>20</quantity>
+    <retail-price>37.42</retail-price>
+    <wholesale-price>26.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>МАРКЕРИ ЗА ОЦВЕТЯВАНЕ НА ЧАДЪР</product-description>
+    <quantity>15</quantity>
+    <retail-price>15.67</retail-price>
+    <wholesale-price>10.97</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>КЛАСИК КИТАРА-61СМ.</product-description>
+    <quantity>10</quantity>
+    <retail-price>23.50</retail-price>
+    <wholesale-price>16.45</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>КСИЛОФОН ДЪРВЕН С 12 НОТИ</product-description>
+    <quantity>8</quantity>
+    <retail-price>35.17</retail-price>
+    <wholesale-price>24.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>МОМИЧЕ-ЕЛЕКТРОНЕН МИНИ СИНТЕЗАТОР</product-description>
+    <quantity>4</quantity>
+    <retail-price>52.17</retail-price>
+    <wholesale-price>36.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>КРИСТАЛИ ЖЪЛТ</product-description>
+    <quantity>1</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ВЛАК</product-description>
+    <quantity>12</quantity>
+    <retail-price>35.17</retail-price>
+    <wholesale-price>24.58</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>emag.bg</seller-name>
+    <product-description>РАБОТИЛНИЦА И КОЛА СЪС ЗВУКОВЕ</product-description>
+    <quantity>7</quantity>
+    <retail-price>59.42</retail-price>
+    <wholesale-price>41.58</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>emag.bg</seller-name>
+    <product-description>БИК И ЗЕБРИ</product-description>
+    <quantity>18</quantity>
+    <retail-price>34.58</retail-price>
+    <wholesale-price>24.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>emag.bg</seller-name>
+    <product-description>МОТОР ЗА РАЗХОДКИ</product-description>
+    <quantity>8</quantity>
+    <retail-price>13.00</retail-price>
+    <wholesale-price>9.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИЛВЪРЛИТ" email="global@ennesstrades.com" country-of-origin="India">
+    <seller-name>emag.bg</seller-name>
+    <product-description>К-Т С КАФЕМАШИНА</product-description>
+    <quantity>3</quantity>
+    <retail-price>9.92</retail-price>
+    <wholesale-price>6.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>1</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>10</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>9</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ТОАЛЕТКА С ОГЛЕДАЛО 72СМ</product-description>
+    <quantity>10</quantity>
+    <retail-price>50.75</retail-price>
+    <wholesale-price>35.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>6</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ 5000</product-description>
+    <quantity>13</quantity>
+    <retail-price>76.58</retail-price>
+    <wholesale-price>53.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>emag.bg</seller-name>
+    <product-description>ПЪЗЕЛ ТОПКА 72 ЕЛ</product-description>
+    <quantity>3</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛИ 24ЕЛ.</product-description>
+    <quantity>14</quantity>
+    <retail-price>25.17</retail-price>
+    <wholesale-price>17.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ ЗА ПОД 60 ЕЛ.</product-description>
+    <quantity>1</quantity>
+    <retail-price>25.17</retail-price>
+    <wholesale-price>17.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ - ТОПКА-Ф12 ПРИНЦЕСИ</product-description>
+    <quantity>18</quantity>
+    <retail-price>26.17</retail-price>
+    <wholesale-price>18.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>14</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 2000</product-description>
+    <quantity>1</quantity>
+    <retail-price>33.58</retail-price>
+    <wholesale-price>23.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="BRATZ" email="sales@toysrus.com" country-of-origin="Canada">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>СТИЛНА КУКЛА</product-description>
+    <quantity>1</quantity>
+    <retail-price>34.00</retail-price>
+    <wholesale-price>23.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>3</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 3Х49</product-description>
+    <quantity>2</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>17</quantity>
+    <retail-price>9.83</retail-price>
+    <wholesale-price>6.88</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ДАРКСТЪРСКА КОЛА С ЛАЗЕР</product-description>
+    <quantity>16</quantity>
+    <retail-price>48.25</retail-price>
+    <wholesale-price>33.79</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>БОЛНИЦА</product-description>
+    <quantity>11</quantity>
+    <retail-price>326.58</retail-price>
+    <wholesale-price>228.49</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>КИТАРА 40СМ.</product-description>
+    <quantity>11</quantity>
+    <retail-price>10.42</retail-price>
+    <wholesale-price>7.29</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>МОМИЧЕ-КАРАОКЕ МИКРОФОН </product-description>
+    <quantity>4</quantity>
+    <retail-price>24.92</retail-price>
+    <wholesale-price>17.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>МОМИЧЕ-ЕЛЕКТРОНЕН МИНИ СИНТЕЗАТОР</product-description>
+    <quantity>18</quantity>
+    <retail-price>52.17</retail-price>
+    <wholesale-price>36.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ФЕРАРИ СЪС ЗВУК И СВЕТЛИНА 1/43</product-description>
+    <quantity>10</quantity>
+    <retail-price>13.67</retail-price>
+    <wholesale-price>9.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ОГЛЕДАЛО И ЧЕТКА ЗА КОСА</product-description>
+    <quantity>18</quantity>
+    <retail-price>13.58</retail-price>
+    <wholesale-price>9.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>13</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>БЕТА ДЖУНИЪР ИНСТРУМЕНТИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>17.25</retail-price>
+    <wholesale-price>11.22</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ТОЙ СТОРИ-КОСМИЧЕСКИ КОРАБ НА БЪЗ</product-description>
+    <quantity>12</quantity>
+    <retail-price>76.33</retail-price>
+    <wholesale-price>49.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ТОЙ СТОРИ-КОСМИЧЕСКИ КОРАБ НА БЪЗ</product-description>
+    <quantity>4</quantity>
+    <retail-price>76.33</retail-price>
+    <wholesale-price>49.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>СТАР УОРС-БЪРЗ ИЗСТРЕБИТЕЛ НА СИТИТЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>196.75</retail-price>
+    <wholesale-price>127.89</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>КОМПЛЕКТ ОТЛИВИ НОЕВ КОВЧЕГ</product-description>
+    <quantity>14</quantity>
+    <retail-price>12.33</retail-price>
+    <wholesale-price>8.63</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>eontoys.com</seller-name>
+    <product-description>ПЛЮШ-61 СМ МОДЕЛ СИМБА   Б/Б</product-description>
+    <quantity>19</quantity>
+    <retail-price>47.42</retail-price>
+    <wholesale-price>33.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ДЕТСКА ТРИКОЛКА 3 В 1 SPORT ЧЕРВЕН</product-description>
+    <quantity>9</quantity>
+    <retail-price>165.83</retail-price>
+    <wholesale-price>116.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ПЛЮШ-20 СМ МОДЕЛ  МЕЧО ПУХ </product-description>
+    <quantity>7</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>СТАР УОРС-КЛОНИРАНИТЕ СРЕЩУ ДРОИДИТЕ</product-description>
+    <quantity>10</quantity>
+    <retail-price>32.25</retail-price>
+    <wholesale-price>20.97</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ДИНО-ЛОВЕЦ НА Т-РЕКС</product-description>
+    <quantity>13</quantity>
+    <retail-price>138.17</retail-price>
+    <wholesale-price>89.81</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ДИНО-ЛОВЕЦ НА Т-РЕКС</product-description>
+    <quantity>8</quantity>
+    <retail-price>138.17</retail-price>
+    <wholesale-price>89.81</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>НИНДЖАГО-ЛОРД ГАРМАДОН</product-description>
+    <quantity>1</quantity>
+    <retail-price>18.67</retail-price>
+    <wholesale-price>12.13</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ФРЕНДС-ОТКРИТАТА ПЕКАРНА НА СТЕФАНИ</product-description>
+    <quantity>2</quantity>
+    <retail-price>12.92</retail-price>
+    <wholesale-price>8.40</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>СИТИ-ПОЖАРНИКАРСКИ САМОЛЕТ</product-description>
+    <quantity>8</quantity>
+    <retail-price>115.00</retail-price>
+    <wholesale-price>74.75</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ФАБРИКА ЗА БАЛОНИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>УЧА СЕ ДА ЗАЛЕПЯ</product-description>
+    <quantity>3</quantity>
+    <retail-price>10.17</retail-price>
+    <wholesale-price>7.12</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>БОИ ЗА ЛИЦЕ 10 ЦВЯТА</product-description>
+    <quantity>14</quantity>
+    <retail-price>15.75</retail-price>
+    <wholesale-price>11.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>КЛАРИНЕТ С 8 КЛАВИША-420ММ</product-description>
+    <quantity>16</quantity>
+    <retail-price>16.08</retail-price>
+    <wholesale-price>11.26</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>МЕЧО ПУХ КОШНИЦА ЗА ПИКНИК</product-description>
+    <quantity>8</quantity>
+    <retail-price>10.17</retail-price>
+    <wholesale-price>6.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ДАЙРЕ-30ММ</product-description>
+    <quantity>14</quantity>
+    <retail-price>8.67</retail-price>
+    <wholesale-price>6.07</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>РИСТОРАНТЕ ИТАЛИАНО КУХНЕНСКИ КОМПЛЕКТ</product-description>
+    <quantity>3</quantity>
+    <retail-price>19.00</retail-price>
+    <wholesale-price>12.35</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>КАМИОН ПОДДРЪЖКА НА ТРАСЕТО</product-description>
+    <quantity>4</quantity>
+    <retail-price>94.00</retail-price>
+    <wholesale-price>65.74</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>КОМПЛЕКТ МИКРОСКОП С ТЕЛЕСКОП ЖЪЛТ/ЧЕРВЕН</product-description>
+    <quantity>18</quantity>
+    <retail-price>69.25</retail-price>
+    <wholesale-price>48.48</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>РИЦАР С КОПИЕ СВЕТЛИНИ</product-description>
+    <quantity>5</quantity>
+    <retail-price>18.92</retail-price>
+    <wholesale-price>13.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>МОТОЦИКЛЕТ ПАТРУЛ</product-description>
+    <quantity>14</quantity>
+    <retail-price>23.00</retail-price>
+    <wholesale-price>16.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>КОМПЛЕКТ МЕЧО ПУХ / ТОПКА И ШАПКА/</product-description>
+    <quantity>3</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>СТОЛЧЕ ЛЮЛКА ЗА ДВЕ ДЕЦА</product-description>
+    <quantity>2</quantity>
+    <retail-price>32.83</retail-price>
+    <wholesale-price>22.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>МОЯТА АЗБУКА-КУФАРЧЕ 3 В 1 96Ч.</product-description>
+    <quantity>3</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ПЪЗЕЛ 1500</product-description>
+    <quantity>7</quantity>
+    <retail-price>23.25</retail-price>
+    <wholesale-price>16.28</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ПЪЗЕЛ 15</product-description>
+    <quantity>1</quantity>
+    <retail-price>6.25</retail-price>
+    <wholesale-price>4.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ПЪЗЕЛ 8-17 ЕЛЕМЕНТА</product-description>
+    <quantity>17</quantity>
+    <retail-price>7.42</retail-price>
+    <wholesale-price>5.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ПРЕНОСИМО СТОЛЧЕ-NEW</product-description>
+    <quantity>16</quantity>
+    <retail-price>17.58</retail-price>
+    <wholesale-price>12.31</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>ОСНОВЕН КОМПЛЕКТ</product-description>
+    <quantity>14</quantity>
+    <retail-price>16.58</retail-price>
+    <wholesale-price>11.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>fancymarket.net</seller-name>
+    <product-description>РОКЛЯ</product-description>
+    <quantity>13</quantity>
+    <retail-price>9.83</retail-price>
+    <wholesale-price>6.88</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ВЪРВЯЩО КОНЧЕ</product-description>
+    <quantity>12</quantity>
+    <retail-price>55.92</retail-price>
+    <wholesale-price>39.14</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЪЗЕЛ ТОПКА 72 ЕЛ</product-description>
+    <quantity>2</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЪЗЕЛ 2000</product-description>
+    <quantity>15</quantity>
+    <retail-price>33.58</retail-price>
+    <wholesale-price>23.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЪЗЕЛ 500</product-description>
+    <quantity>6</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>9</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>КОМБИНИРАНА ЛЮЛКА, ПЪРЗАЛКА И КЪЩА</product-description>
+    <quantity>11</quantity>
+    <retail-price>719.00</retail-price>
+    <wholesale-price>574.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>КОМПЛЕКТ С ХИЛКИ ЗА ПЛАЖЕН ТЕНИС</product-description>
+    <quantity>13</quantity>
+    <retail-price>6.17</retail-price>
+    <wholesale-price>4.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>КОМПЛЕКТ ЗА КЕЧ БОЛ С ТОПКА</product-description>
+    <quantity>20</quantity>
+    <retail-price>7.33</retail-price>
+    <wholesale-price>5.13</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>КОН ЗА ЕЗДА</product-description>
+    <quantity>11</quantity>
+    <retail-price>17.42</retail-price>
+    <wholesale-price>12.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>МАГНИТЕН КАЛЕНДАР</product-description>
+    <quantity>4</quantity>
+    <retail-price>11.33</retail-price>
+    <wholesale-price>7.93</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>РАЗБОЙНИЦИ С КАМИЛИ</product-description>
+    <quantity>13</quantity>
+    <retail-price>26.58</retail-price>
+    <wholesale-price>18.56</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ТРАКТОР С РЕМАРКЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>52.25</retail-price>
+    <wholesale-price>36.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>СВЕТЕЩИ ПРЪЧИЦИ</product-description>
+    <quantity>16</quantity>
+    <retail-price>7.17</retail-price>
+    <wholesale-price>5.02</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>КАРНАВАЛЕН КОМПЛЕКТ ДОКТОР</product-description>
+    <quantity>18</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>УЧА СЕ ДА ТЪЧА</product-description>
+    <quantity>14</quantity>
+    <retail-price>6.92</retail-price>
+    <wholesale-price>4.84</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>СТИКЕРИ ЗА ДЕКОРИРАНЕ</product-description>
+    <quantity>12</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>БАРБИ КОМПЛЕКТ ЗА КАФЕ</product-description>
+    <quantity>5</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>9.70</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ДУПЛО-МОЯ ПЪРВИ КОНСТРУКТОР</product-description>
+    <quantity>1</quantity>
+    <retail-price>57.50</retail-price>
+    <wholesale-price>37.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>СУПЕР ХИРОУС-КАПИТАН АМЕРИКА</product-description>
+    <quantity>19</quantity>
+    <retail-price>27.83</retail-price>
+    <wholesale-price>18.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ДУПЛО КАРС-АГЕНТ МАТЪР</product-description>
+    <quantity>11</quantity>
+    <retail-price>35.50</retail-price>
+    <wholesale-price>23.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>СИТИ-КАМИОН ВЛЕКАЧ</product-description>
+    <quantity>15</quantity>
+    <retail-price>44.58</retail-price>
+    <wholesale-price>28.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЛЮШ-20 СМ МОДЕЛ ДАЛМАТИНЕЦ   Б/Б</product-description>
+    <quantity>10</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЛЮШ-61 СМ МОДЕЛ КУЧЕ СКИТНИК   Б/Б</product-description>
+    <quantity>19</quantity>
+    <retail-price>47.42</retail-price>
+    <wholesale-price>33.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ СЛОНЧЕ  Б/Б</product-description>
+    <quantity>1</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ТАЕН ДНЕВНИК </product-description>
+    <quantity>4</quantity>
+    <retail-price>10.08</retail-price>
+    <wholesale-price>7.06</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>hippoland.net</seller-name>
+    <product-description>ПИРАТСКА САБЯ</product-description>
+    <quantity>14</quantity>
+    <retail-price>14.75</retail-price>
+    <wholesale-price>10.33</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ТАЕН ДНЕВНИК </product-description>
+    <quantity>19</quantity>
+    <retail-price>10.08</retail-price>
+    <wholesale-price>7.06</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ПЛЮШ-61 СМ МОДЕЛ МЕЧО ПУХ  </product-description>
+    <quantity>20</quantity>
+    <retail-price>35.75</retail-price>
+    <wholesale-price>25.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ДЕТСКА ТРИКОЛКА 3 В 1 ZOO ЧЕРВЕН</product-description>
+    <quantity>5</quantity>
+    <retail-price>199.17</retail-price>
+    <wholesale-price>139.42</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>НИНДЖАГО-СТАРТОВ КОМПЛЕКТ</product-description>
+    <quantity>9</quantity>
+    <retail-price>39.83</retail-price>
+    <wholesale-price>25.89</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>СТАР УОРС-КОЛЕДЕН КАЛЕНДАР</product-description>
+    <quantity>19</quantity>
+    <retail-price>65.08</retail-price>
+    <wholesale-price>42.30</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>КАРС-СЪСТЕЗАТЕЛЕН ДЕН</product-description>
+    <quantity>6</quantity>
+    <retail-price>59.25</retail-price>
+    <wholesale-price>38.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ДИСНИ ПРИНЦЕСИ-КАЛЯСКАТА НА ПЕПЕЛЯШКА</product-description>
+    <quantity>7</quantity>
+    <retail-price>60.92</retail-price>
+    <wholesale-price>39.60</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ДУПЛО-РОЗОВА КУТИЯ </product-description>
+    <quantity>18</quantity>
+    <retail-price>40.17</retail-price>
+    <wholesale-price>26.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ГОЛЯМА КУТИЯ ДЕЛУКС</product-description>
+    <quantity>12</quantity>
+    <retail-price>101.83</retail-price>
+    <wholesale-price>66.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>КРИЕЙТЪР-ОСНОВНА ПЛОЧКА С ТРЕВА</product-description>
+    <quantity>4</quantity>
+    <retail-price>16.75</retail-price>
+    <wholesale-price>10.89</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ФЕРАРИ РАДИОУПРАВЛЯЕМА КОЛА 1/43</product-description>
+    <quantity>3</quantity>
+    <retail-price>37.42</retail-price>
+    <wholesale-price>26.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ДОКТОР </product-description>
+    <quantity>15</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.10</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>БОЛНИЧНА СТАЯ</product-description>
+    <quantity>13</quantity>
+    <retail-price>15.67</retail-price>
+    <wholesale-price>10.93</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>КОМПЛЕКТ ПРОФЕСИОНАЛЕН МИКРОСКОП С КУФАРЧЕ</product-description>
+    <quantity>13</quantity>
+    <retail-price>81.08</retail-price>
+    <wholesale-price>56.76</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ХЕЛОУ КИТИ ДЪСКА ЗА РИСУВАНЕ</product-description>
+    <quantity>9</quantity>
+    <retail-price>52.33</retail-price>
+    <wholesale-price>34.02</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ЕЛЕКТРОНЕН СИНТЕЗАТОР 37КЛАВИША </product-description>
+    <quantity>15</quantity>
+    <retail-price>50.42</retail-price>
+    <wholesale-price>35.29</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ЕЛЕКТРОНЕН СИНТЕЗАТОР 37КЛАВИША </product-description>
+    <quantity>20</quantity>
+    <retail-price>50.42</retail-price>
+    <wholesale-price>35.29</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>РИЦАРСКИ ЗАМЪК С ЛЪВСКА ЕМБЛЕМА</product-description>
+    <quantity>18</quantity>
+    <retail-price>334.08</retail-price>
+    <wholesale-price>233.64</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>РИЦАР</product-description>
+    <quantity>3</quantity>
+    <retail-price>3.83</retail-price>
+    <wholesale-price>2.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ПЪРВИ УЧЕБЕН ДЕН</product-description>
+    <quantity>20</quantity>
+    <retail-price>3.83</retail-price>
+    <wholesale-price>2.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>МЕДИЦИНСКИ ЕКИП</product-description>
+    <quantity>14</quantity>
+    <retail-price>13.00</retail-price>
+    <wholesale-price>9.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ПЪЗЕЛ-4 В 1 /20 ЕЛ.+15 ЕЛ.+ 25 ЕЛ.+МИНИ МЕМОРИ/</product-description>
+    <quantity>2</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>16</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>igra4kite.com</seller-name>
+    <product-description>ПЪЗЕЛ 125 XXL</product-description>
+    <quantity>2</quantity>
+    <retail-price>24.50</retail-price>
+    <wholesale-price>17.15</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>11</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПЪЗЕЛ 5000</product-description>
+    <quantity>18</quantity>
+    <retail-price>76.58</retail-price>
+    <wholesale-price>53.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПЪЗЕЛ 15</product-description>
+    <quantity>9</quantity>
+    <retail-price>6.25</retail-price>
+    <wholesale-price>4.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>8</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>БЕБЕШКА БАНЯ</product-description>
+    <quantity>6</quantity>
+    <retail-price>6.58</retail-price>
+    <wholesale-price>4.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПОНЧО ТОЙ СТОРИ</product-description>
+    <quantity>11</quantity>
+    <retail-price>23.75</retail-price>
+    <wholesale-price>16.63</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ФУБОЛИСТ ФРАНЦИЯ БЯЛ</product-description>
+    <quantity>16</quantity>
+    <retail-price>6.50</retail-price>
+    <wholesale-price>4.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ПОЖАРНИКАРСКА КОЛА</product-description>
+    <quantity>10</quantity>
+    <retail-price>57.83</retail-price>
+    <wholesale-price>43.34</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>КАМИОНЧЕ</product-description>
+    <quantity>8</quantity>
+    <retail-price>18.08</retail-price>
+    <wholesale-price>12.66</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ЗОНА ЗА ОБЯЗДВАНЕ</product-description>
+    <quantity>20</quantity>
+    <retail-price>38.00</retail-price>
+    <wholesale-price>26.58</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ТЕЖКОТОВАРЕН САМОСВАЛ</product-description>
+    <quantity>8</quantity>
+    <retail-price>54.58</retail-price>
+    <wholesale-price>38.15</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ДНЕВНА СТАЯ</product-description>
+    <quantity>3</quantity>
+    <retail-price>33.92</retail-price>
+    <wholesale-price>23.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>БАРБИ ДЪСКА ЗА ГЛАДЕНЕ </product-description>
+    <quantity>5</quantity>
+    <retail-price>61.50</retail-price>
+    <wholesale-price>39.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>МИКРОСКОП 100/450/900, 47ЕЛ.</product-description>
+    <quantity>7</quantity>
+    <retail-price>37.42</retail-price>
+    <wholesale-price>26.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>СТАР КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>9</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ЛЕКАРСКИ КОМПЛЕКТ</product-description>
+    <quantity>19</quantity>
+    <retail-price>29.42</retail-price>
+    <wholesale-price>20.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>МОЗАЙКА КОТЕ/ПЕПЕРУДА</product-description>
+    <quantity>4</quantity>
+    <retail-price>8.67</retail-price>
+    <wholesale-price>6.07</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>БАРБИ КОМПЛЕКТ ЗА КАФЕ</product-description>
+    <quantity>5</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>9.70</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>КВАК КВАК - УМНИЯТ ЖАБОК - ИГРА СМЯТАНЕ</product-description>
+    <quantity>17</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ДУПЛО-МОЯТ ПЪРВИ СУПЕРМАРКЕТ</product-description>
+    <quantity>20</quantity>
+    <retail-price>46.00</retail-price>
+    <wholesale-price>29.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>СИТИ-ПОЖАРНИКАРСКА КОЛА</product-description>
+    <quantity>1</quantity>
+    <retail-price>44.58</retail-price>
+    <wholesale-price>28.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>КОНСТРУКТОР ЗАМЪК</product-description>
+    <quantity>11</quantity>
+    <retail-price>14.50</retail-price>
+    <wholesale-price>9.43</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ДЕТСКА ТРИКОЛКА 3 В 1 SPORT ЧЕРВЕН</product-description>
+    <quantity>20</quantity>
+    <retail-price>165.83</retail-price>
+    <wholesale-price>116.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>МОДЕЛИН 10ЦВ.</product-description>
+    <quantity>18</quantity>
+    <retail-price>6.50</retail-price>
+    <wholesale-price>4.55</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>ФУЛМАСТРИ 24 ЦВЯТА</product-description>
+    <quantity>14</quantity>
+    <retail-price>9.75</retail-price>
+    <wholesale-price>6.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ikea.bg</seller-name>
+    <product-description>МАНИСТА КОЛИ</product-description>
+    <quantity>12</quantity>
+    <retail-price>14.42</retail-price>
+    <wholesale-price>10.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>КОМПЛЕКТ ФОРМИЧКИ ЗА ПЛАСТЕЛИН</product-description>
+    <quantity>5</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДИСНИ ПРИНЦЕСИ-ЗАМЪКЪТ НА ПЕПЕЛЯШКА</product-description>
+    <quantity>20</quantity>
+    <retail-price>121.92</retail-price>
+    <wholesale-price>79.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДУПЛО-МОЯТА ПЪРВА СТРОИТЕЛНА ПЛОЩАДКА</product-description>
+    <quantity>13</quantity>
+    <retail-price>46.00</retail-price>
+    <wholesale-price>29.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ТЕХНИК-ЕКСКАВАТОР</product-description>
+    <quantity>6</quantity>
+    <retail-price>146.17</retail-price>
+    <wholesale-price>95.01</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДУПЛО-ГОЛЯМ ТРАКТОР</product-description>
+    <quantity>16</quantity>
+    <retail-price>43.83</retail-price>
+    <wholesale-price>28.49</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДУПЛО-КАРАВАНА</product-description>
+    <quantity>16</quantity>
+    <retail-price>65.83</retail-price>
+    <wholesale-price>42.79</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДУПЛО-ЛЕКАРСКА КОЛА</product-description>
+    <quantity>10</quantity>
+    <retail-price>19.00</retail-price>
+    <wholesale-price>12.35</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ДУПЛО КАРС-АГЕНТ МАТЪР</product-description>
+    <quantity>12</quantity>
+    <retail-price>35.50</retail-price>
+    <wholesale-price>23.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>СУПЕР ХИРОУС-ЖОКЕРА</product-description>
+    <quantity>15</quantity>
+    <retail-price>27.83</retail-price>
+    <wholesale-price>18.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ОКО</product-description>
+    <quantity>8</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>1</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ГОЛД КОЛКЦИЯ 1/18</product-description>
+    <quantity>19</quantity>
+    <retail-price>49.92</retail-price>
+    <wholesale-price>34.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ТРОМПЕТ С 8 КЛАВИША-270ММ</product-description>
+    <quantity>19</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ВЕСЕЛИ МЕЛОДИИ-СИЛВЕСТЪР</product-description>
+    <quantity>15</quantity>
+    <retail-price>15.75</retail-price>
+    <wholesale-price>11.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>МЕДИЦИНСКИ РАБОТНИК</product-description>
+    <quantity>13</quantity>
+    <retail-price>3.83</retail-price>
+    <wholesale-price>2.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>РИЦАР ОРЕЛ С ТОП</product-description>
+    <quantity>20</quantity>
+    <retail-price>11.25</retail-price>
+    <wholesale-price>7.89</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ТОПКА ВОЛЕЙБОЛ MAGIC TOUCH</product-description>
+    <quantity>5</quantity>
+    <retail-price>15.42</retail-price>
+    <wholesale-price>10.79</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ФЛИРО ЖИРО</product-description>
+    <quantity>9</quantity>
+    <retail-price>4.08</retail-price>
+    <wholesale-price>2.86</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>20</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>9</quantity>
+    <retail-price>9.83</retail-price>
+    <wholesale-price>6.88</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>8</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kasida.bg</seller-name>
+    <product-description>ПЪЗЕЛ 2000</product-description>
+    <quantity>4</quantity>
+    <retail-price>33.58</retail-price>
+    <wholesale-price>23.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ 2000</product-description>
+    <quantity>17</quantity>
+    <retail-price>33.58</retail-price>
+    <wholesale-price>23.51</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>18</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ 30-48</product-description>
+    <quantity>9</quantity>
+    <retail-price>9.42</retail-price>
+    <wholesale-price>6.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ 125 XXL</product-description>
+    <quantity>14</quantity>
+    <retail-price>24.50</retail-price>
+    <wholesale-price>17.15</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ГЪБА</product-description>
+    <quantity>2</quantity>
+    <retail-price>9.42</retail-price>
+    <wholesale-price>6.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ-ТОПКА 108ЕЛ. 15СМ</product-description>
+    <quantity>7</quantity>
+    <retail-price>21.42</retail-price>
+    <wholesale-price>14.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>МАМО, ВЗЕМИ МЕ</product-description>
+    <quantity>2</quantity>
+    <retail-price>50.58</retail-price>
+    <wholesale-price>35.41</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЪЗЕЛ 3Х500</product-description>
+    <quantity>9</quantity>
+    <retail-price>23.25</retail-price>
+    <wholesale-price>16.28</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ЛЕТЯЩИЯТ ЧЕРЕП</product-description>
+    <quantity>16</quantity>
+    <retail-price>29.08</retail-price>
+    <wholesale-price>20.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ЯСТРЕБ МИНИ ХЕЛИКОПТЕР</product-description>
+    <quantity>15</quantity>
+    <retail-price>37.42</retail-price>
+    <wholesale-price>26.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>КОМПЛЕКТ ЗА БОУЛИНГ</product-description>
+    <quantity>14</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ДЖУДО СЪСТЕЗАТЕЛИ</product-description>
+    <quantity>13</quantity>
+    <retail-price>6.33</retail-price>
+    <wholesale-price>4.41</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ЛЮЛКА ОХЛЮВ</product-description>
+    <quantity>7</quantity>
+    <retail-price>23.67</retail-price>
+    <wholesale-price>16.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ФУТБОЛИСТ ИТАЛИЯ</product-description>
+    <quantity>8</quantity>
+    <retail-price>6.50</retail-price>
+    <wholesale-price>4.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ДЕЛОНГИ СЕШОАР СЪС СВЕТЛИНИ</product-description>
+    <quantity>13</quantity>
+    <retail-price>21.83</retail-price>
+    <wholesale-price>14.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>HD НОВО ПОКОЛЕНИЕ МИКРОСКОП ЖЪЛТО/ЧЕРВЕНО</product-description>
+    <quantity>6</quantity>
+    <retail-price>28.25</retail-price>
+    <wholesale-price>19.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ИСПАНСКА КИТАРА ЗА МОМИЧЕ 71СМ</product-description>
+    <quantity>10</quantity>
+    <retail-price>37.25</retail-price>
+    <wholesale-price>26.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>КОМПАС С ТЕРМОМЕТЪР</product-description>
+    <quantity>20</quantity>
+    <retail-price>6.33</retail-price>
+    <wholesale-price>4.43</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ЛАМПА С ВЪРТЯЩА ГЛАВА</product-description>
+    <quantity>12</quantity>
+    <retail-price>6.83</retail-price>
+    <wholesale-price>4.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>МЪНИСТА КОМПЛЕКТ</product-description>
+    <quantity>8</quantity>
+    <retail-price>14.00</retail-price>
+    <wholesale-price>9.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>МЪНИСТА КОМПЛЕКТ</product-description>
+    <quantity>10</quantity>
+    <retail-price>14.00</retail-price>
+    <wholesale-price>9.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>19</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>БЕТА ДЖУНИЪР КОЛИЧКА С ИНСТРУМЕНТИ </product-description>
+    <quantity>17</quantity>
+    <retail-price>53.75</retail-price>
+    <wholesale-price>34.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>БАРБИ ЧАЙНИК</product-description>
+    <quantity>20</quantity>
+    <retail-price>17.42</retail-price>
+    <wholesale-price>11.33</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>КОНСТРУКТОР </product-description>
+    <quantity>13</quantity>
+    <retail-price>0.83</retail-price>
+    <wholesale-price>0.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ДУПЛО-МОЯТ ПЪРВИ ЗООПАРК</product-description>
+    <quantity>20</quantity>
+    <retail-price>55.67</retail-price>
+    <wholesale-price>36.18</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ДУПЛО-ЗООЛОГИЧЕСКИ КАМИОН</product-description>
+    <quantity>4</quantity>
+    <retail-price>46.00</retail-price>
+    <wholesale-price>29.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ЧИЙМА-МАШИНАТА НА КРОУЛИ</product-description>
+    <quantity>5</quantity>
+    <retail-price>34.42</retail-price>
+    <wholesale-price>22.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>АЛЕБАРДА</product-description>
+    <quantity>11</quantity>
+    <retail-price>13.75</retail-price>
+    <wholesale-price>9.63</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ТАЕН ДНЕВНИК </product-description>
+    <quantity>5</quantity>
+    <retail-price>10.08</retail-price>
+    <wholesale-price>7.06</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ КУЧЕ СКИТНИК   Б/Б КУТИЯ</product-description>
+    <quantity>10</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ КОТЕ МАРИ  Б/Б КУТИЯ</product-description>
+    <quantity>12</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ ПРАСЧО </product-description>
+    <quantity>3</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ ПРАСЧО </product-description>
+    <quantity>3</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ МЕЧО ПУХ КУТИЯ</product-description>
+    <quantity>10</quantity>
+    <retail-price>14.08</retail-price>
+    <wholesale-price>9.86</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>ПЛЮШ-43 СМ ЙОРИ </product-description>
+    <quantity>17</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>kidsworld.bg</seller-name>
+    <product-description>НИНДЖАГО-ЛИЗАРУ</product-description>
+    <quantity>11</quantity>
+    <retail-price>9.17</retail-price>
+    <wholesale-price>5.96</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ДЕТСКА ПРОХОДИЛКА-СКУТЕР 2 В 1 СИН</product-description>
+    <quantity>13</quantity>
+    <retail-price>82.50</retail-price>
+    <wholesale-price>57.75</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ КУЧЕ ЛЕЙДИ   Б/Б КУТИЯ</product-description>
+    <quantity>17</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КОМПЛЕКТ УКРАШЕНИЯ</product-description>
+    <quantity>14</quantity>
+    <retail-price>10.25</retail-price>
+    <wholesale-price>7.18</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ДОКТОРСКА КОЛИЧКА</product-description>
+    <quantity>11</quantity>
+    <retail-price>45.33</retail-price>
+    <wholesale-price>29.47</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ВУЛКАН</product-description>
+    <quantity>5</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>2</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КОЙТО ЗНАЕ, ПЕЧЕЛИ JUNIOR 3-8ГОД.</product-description>
+    <quantity>4</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ПОЖАРНА С 2 БР. КОЛИ</product-description>
+    <quantity>8</quantity>
+    <retail-price>58.17</retail-price>
+    <wholesale-price>40.72</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>СТАР КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>16</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КРИСТАЛИ СИН</product-description>
+    <quantity>13</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>ДЕТЕ С ДЕЛФИН</product-description>
+    <quantity>13</quantity>
+    <retail-price>11.42</retail-price>
+    <wholesale-price>7.97</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>МЕДИЦИНСКИ ЕКИП</product-description>
+    <quantity>19</quantity>
+    <retail-price>13.00</retail-price>
+    <wholesale-price>9.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КОСМИЧЕСКИ КОЛЕКТОБОТ</product-description>
+    <quantity>11</quantity>
+    <retail-price>28.17</retail-price>
+    <wholesale-price>19.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КОМПЛЕКТ ИНСТРУМЕНТИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>45.75</retail-price>
+    <wholesale-price>32.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>МАГНИТНА ДЪСКА С ПОСТАВКА</product-description>
+    <quantity>16</quantity>
+    <retail-price>15.25</retail-price>
+    <wholesale-price>10.68</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>СКОКЛЬО МЕГА ДЖЪМПЗ</product-description>
+    <quantity>17</quantity>
+    <retail-price>4.99</retail-price>
+    <wholesale-price>3.49</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>kolino.eu</seller-name>
+    <product-description>КОЛИЧКА ЗА КУКЛА МОМЧЕ</product-description>
+    <quantity>11</quantity>
+    <retail-price>25.67</retail-price>
+    <wholesale-price>17.97</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000ЕЛ.</product-description>
+    <quantity>13</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>14</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>10</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>КОЛИЧКА ЗА ПОЧИСТВАНЕ</product-description>
+    <quantity>5</quantity>
+    <retail-price>37.42</retail-price>
+    <wholesale-price>26.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>РАДИОУПРАВЛЯЕМ МИНИ-ХЕЛИКОПТЕР 4-КАНАЛЕН</product-description>
+    <quantity>15</quantity>
+    <retail-price>56.25</retail-price>
+    <wholesale-price>39.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
+    <seller-name>moni.bg</seller-name>
+    <product-description>X-SHOT</product-description>
+    <quantity>9</quantity>
+    <retail-price>14.08</retail-price>
+    <wholesale-price>9.86</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
+    <seller-name>moni.bg</seller-name>
+    <product-description>РОБОФИШ В АКВАРИУМ</product-description>
+    <quantity>8</quantity>
+    <retail-price>31.25</retail-price>
+    <wholesale-price>21.88</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ОБОР ЗА ДОБИТЪК</product-description>
+    <quantity>6</quantity>
+    <retail-price>15.33</retail-price>
+    <wholesale-price>10.72</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>moni.bg</seller-name>
+    <product-description>САМУРАЙ</product-description>
+    <quantity>15</quantity>
+    <retail-price>3.83</retail-price>
+    <wholesale-price>2.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>moni.bg</seller-name>
+    <product-description>МАГИЧЕСКА ОКЕАНСКА КРАЛИЦА</product-description>
+    <quantity>19</quantity>
+    <retail-price>9.00</retail-price>
+    <wholesale-price>6.42</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
+    <seller-name>moni.bg</seller-name>
+    <product-description>СЛИНГЪРС-АЛБУМ ЗА КОЛЕКЦИЯ</product-description>
+    <quantity>2</quantity>
+    <retail-price>5.75</retail-price>
+    <wholesale-price>4.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ТОПКА - СУПЕР ТЕЛЕ</product-description>
+    <quantity>7</quantity>
+    <retail-price>2.00</retail-price>
+    <wholesale-price>1.40</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>МОЯТА ПЪРВА ОРАНЖЕРИЯ</product-description>
+    <quantity>4</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>moni.bg</seller-name>
+    <product-description>МЕЧО ПУХ КОМПЛЕКТ СЪДОВЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>23.92</retail-price>
+    <wholesale-price>15.55</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>moni.bg</seller-name>
+    <product-description>РИСТОРАНТЕ ИТАЛИАНО КОМПЛЕКТ ЗА ПЛОДОВЕ/ЗЕЛЕНЧУЦИ</product-description>
+    <quantity>2</quantity>
+    <retail-price>11.25</retail-price>
+    <wholesale-price>7.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>РИЦАРСКА ФАНТАСТИЧНА САБЯ</product-description>
+    <quantity>5</quantity>
+    <retail-price>14.75</retail-price>
+    <wholesale-price>10.33</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЛАСТЕЛИН 8БР. С 12 ФОРМИЧКИ</product-description>
+    <quantity>18</quantity>
+    <retail-price>17.42</retail-price>
+    <wholesale-price>12.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>МАГИЧЕСКИ КОНЕ</product-description>
+    <quantity>9</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЛЮШ-61 СМ МОДЕЛ СИМБА   Б/Б</product-description>
+    <quantity>9</quantity>
+    <retail-price>47.42</retail-price>
+    <wholesale-price>33.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ДЕТСКА ТРИКОЛКА 3 В 1 ZOO БЯЛО И ЧЕРНО</product-description>
+    <quantity>18</quantity>
+    <retail-price>199.17</retail-price>
+    <wholesale-price>139.42</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ПЛЮШ-20 СМ ТИГЪР </product-description>
+    <quantity>4</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ТЕКСТИЛНА КУКЛА 40 СМ</product-description>
+    <quantity>4</quantity>
+    <retail-price>8.92</retail-price>
+    <wholesale-price>6.24</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ТОЙ СТОРИ-КОСМИЧЕСКИ КОРАБ НА БЪЗ</product-description>
+    <quantity>3</quantity>
+    <retail-price>76.33</retail-price>
+    <wholesale-price>49.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>moni.bg</seller-name>
+    <product-description>ХИРОУ ФАКТОРИ-ВОЛТИКС V29</product-description>
+    <quantity>11</quantity>
+    <retail-price>23.83</retail-price>
+    <wholesale-price>15.49</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>moni.bg</seller-name>
+    <product-description>КУТИЯ С БЛОКЧЕТА </product-description>
+    <quantity>11</quantity>
+    <retail-price>66.83</retail-price>
+    <wholesale-price>36.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>НИНДЖАГО-NRG ЗЕЙН </product-description>
+    <quantity>11</quantity>
+    <retail-price>19.17</retail-price>
+    <wholesale-price>12.46</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>КОМПЛЕКТ УКРАШЕНИЯ</product-description>
+    <quantity>6</quantity>
+    <retail-price>10.25</retail-price>
+    <wholesale-price>7.18</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>РЕД БУЛ Ф1 1/32</product-description>
+    <quantity>8</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПАРКИНГ НА 3 НИВА С 2 БР. КОЛИ</product-description>
+    <quantity>10</quantity>
+    <retail-price>65.33</retail-price>
+    <wholesale-price>45.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>3</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>КЛАСИК МЕТАЛНА ХАРМОНИКА-24 НОТИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>МИКРОСКОП 100/450/900, 36ЕЛ.</product-description>
+    <quantity>3</quantity>
+    <retail-price>24.92</retail-price>
+    <wholesale-price>17.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>КОМПЛЕКТ С ХИЛКИ ЗА ПЛАЖЕН ТЕНИС</product-description>
+    <quantity>16</quantity>
+    <retail-price>5.75</retail-price>
+    <wholesale-price>4.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>КОМПЛЕКТ ЗА ТЕНИС НА МАСА</product-description>
+    <quantity>6</quantity>
+    <retail-price>6.25</retail-price>
+    <wholesale-price>4.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ФУБОЛИСТ ФРАНЦИЯ БЯЛ</product-description>
+    <quantity>4</quantity>
+    <retail-price>6.50</retail-price>
+    <wholesale-price>4.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>УЧИЛИЩНА МУЗИКАЛНА ГРУПА</product-description>
+    <quantity>12</quantity>
+    <retail-price>10.25</retail-price>
+    <wholesale-price>7.18</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>18</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 500</product-description>
+    <quantity>17</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 500</product-description>
+    <quantity>12</quantity>
+    <retail-price>14.42</retail-price>
+    <wholesale-price>10.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 100</product-description>
+    <quantity>8</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>13</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 25</product-description>
+    <quantity>5</quantity>
+    <retail-price>7.25</retail-price>
+    <wholesale-price>5.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>РИСУВАТЕЛНА ГАЛЕРИЯ</product-description>
+    <quantity>9</quantity>
+    <retail-price>49.58</retail-price>
+    <wholesale-price>34.71</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛИ 24ЕЛ.</product-description>
+    <quantity>14</quantity>
+    <retail-price>25.17</retail-price>
+    <wholesale-price>17.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>ohoboho.net</seller-name>
+    <product-description>ПЪЗЕЛ 8-17 ЕЛЕМЕНТА</product-description>
+    <quantity>8</quantity>
+    <retail-price>7.42</retail-price>
+    <wholesale-price>5.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ ТОПКА 72 ЕЛ</product-description>
+    <quantity>17</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 125 XXL</product-description>
+    <quantity>12</quantity>
+    <retail-price>24.50</retail-price>
+    <wholesale-price>17.15</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>РИСУВАТЕЛНА ГАЛЕРИЯ АКВАРЕЛ МАКСИ</product-description>
+    <quantity>14</quantity>
+    <retail-price>32.17</retail-price>
+    <wholesale-price>22.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 125 XXL</product-description>
+    <quantity>19</quantity>
+    <retail-price>24.50</retail-price>
+    <wholesale-price>17.15</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ШУ ШУ-МАМО,ИЗЛЕКУВАЙ МЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>47.00</retail-price>
+    <wholesale-price>32.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 25</product-description>
+    <quantity>14</quantity>
+    <retail-price>7.25</retail-price>
+    <wholesale-price>5.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 30-48</product-description>
+    <quantity>2</quantity>
+    <retail-price>7.42</retail-price>
+    <wholesale-price>5.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 9000</product-description>
+    <quantity>9</quantity>
+    <retail-price>129.67</retail-price>
+    <wholesale-price>90.77</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 1000 СВЕТЕЩ</product-description>
+    <quantity>13</quantity>
+    <retail-price>24.08</retail-price>
+    <wholesale-price>16.86</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>2</quantity>
+    <retail-price>9.83</retail-price>
+    <wholesale-price>6.88</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 100</product-description>
+    <quantity>20</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>8</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КОМПЛЕКТ КОФА С ЛЕЙКА КАРС Ф140</product-description>
+    <quantity>14</quantity>
+    <retail-price>7.83</retail-price>
+    <wholesale-price>5.48</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ТОАЛЕТКА С МУЗИКА И СВЕТЛИНИ 72СМ</product-description>
+    <quantity>2</quantity>
+    <retail-price>47.42</retail-price>
+    <wholesale-price>33.19</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>РИЦАР С КОПИЕ СВЕТЛИНИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>18.92</retail-price>
+    <wholesale-price>13.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ЛОДКА ЗА КОЛАН</product-description>
+    <quantity>17</quantity>
+    <retail-price>16.58</retail-price>
+    <wholesale-price>11.67</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КАМИОН НА ДАРКСТЪРИТЕ С ЛАЗЕР</product-description>
+    <quantity>13</quantity>
+    <retail-price>50.75</retail-price>
+    <wholesale-price>35.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СЛИНГЪРС-АЛБУМ ЗА КОЛЕКЦИЯ</product-description>
+    <quantity>12</quantity>
+    <retail-price>5.75</retail-price>
+    <wholesale-price>4.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СКЕЛЕТ ТИГЪР</product-description>
+    <quantity>2</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>САФАРИ С НОСОРОГ</product-description>
+    <quantity>19</quantity>
+    <retail-price>19.92</retail-price>
+    <wholesale-price>14.07</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СКУЛ СИНТЕЗАТОР КОНЦЕРТИНО- 25 КЛАВИША</product-description>
+    <quantity>16</quantity>
+    <retail-price>38.75</retail-price>
+    <wholesale-price>27.13</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПИАНО/КУЧЕ</product-description>
+    <quantity>13</quantity>
+    <retail-price>15.75</retail-price>
+    <wholesale-price>11.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>МОМИЧЕ-КАРАОКЕ МИКРОФОН </product-description>
+    <quantity>11</quantity>
+    <retail-price>24.92</retail-price>
+    <wholesale-price>17.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ТЕЛЕСКОПИЧНА СТОЙКА ЗА МИКРОФОН</product-description>
+    <quantity>15</quantity>
+    <retail-price>29.75</retail-price>
+    <wholesale-price>20.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПИАНО </product-description>
+    <quantity>3</quantity>
+    <retail-price>54.92</retail-price>
+    <wholesale-price>38.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>БАРБАРОНИ КОМПЛЕКТ</product-description>
+    <quantity>19</quantity>
+    <retail-price>27.08</retail-price>
+    <wholesale-price>17.60</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>3</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>БЕТА ДЖУНИЪР КОЛИЧКА С ИНСТРУМЕНТИ </product-description>
+    <quantity>8</quantity>
+    <retail-price>53.75</retail-price>
+    <wholesale-price>34.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КИТ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>16</quantity>
+    <retail-price>24.92</retail-price>
+    <wholesale-price>17.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>8</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СТРИЙТ ФАЙЕР КОЛЕКЦИЯ 1/32</product-description>
+    <quantity>14</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КОМПЛЕКТ ОТЛИВИ НОЕВ КОВЧЕГ</product-description>
+    <quantity>8</quantity>
+    <retail-price>12.33</retail-price>
+    <wholesale-price>8.63</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>К-КТ С ЧУК</product-description>
+    <quantity>7</quantity>
+    <retail-price>30.67</retail-price>
+    <wholesale-price>21.47</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ЩИТ ЛЪВ</product-description>
+    <quantity>9</quantity>
+    <retail-price>20.17</retail-price>
+    <wholesale-price>14.12</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>НИНДЖАГО-СТАРТОВ КОМПЛЕКТ</product-description>
+    <quantity>15</quantity>
+    <retail-price>39.83</retail-price>
+    <wholesale-price>25.89</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СТАР УОРС-X-УИНГ ЗВЕЗДЕН РАЗРУШИТЕЛ</product-description>
+    <quantity>13</quantity>
+    <retail-price>170.67</retail-price>
+    <wholesale-price>110.93</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЛЮШ-25 СМ ЙОРИ </product-description>
+    <quantity>19</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ПЛЮШ-25 СМ МИКИ</product-description>
+    <quantity>2</quantity>
+    <retail-price>14.08</retail-price>
+    <wholesale-price>9.86</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>СИТИ-СЛУЖЕБНА КОЛА НА ДИРЕКТОРА НА ПОЖАРНАТА</product-description>
+    <quantity>14</quantity>
+    <retail-price>22.25</retail-price>
+    <wholesale-price>14.47</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КАРС-СЪСТЕЗАТЕЛЕН ДЕН</product-description>
+    <quantity>13</quantity>
+    <retail-price>59.25</retail-price>
+    <wholesale-price>38.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КАРС-КЛАСИЧЕСКИ МАТЪР</product-description>
+    <quantity>1</quantity>
+    <retail-price>14.83</retail-price>
+    <wholesale-price>9.64</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ЧИЙМА-ЛЪВСКА АТАКА НА ЛЕНОКС</product-description>
+    <quantity>5</quantity>
+    <retail-price>47.33</retail-price>
+    <wholesale-price>30.77</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>КРИЕЙТЪР-САМОЛЕТ 3 В 1</product-description>
+    <quantity>14</quantity>
+    <retail-price>44.58</retail-price>
+    <wholesale-price>28.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ТОЙ СТОРИ-СГЛОБИ ЗЪРГ</product-description>
+    <quantity>5</quantity>
+    <retail-price>50.08</retail-price>
+    <wholesale-price>32.55</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>НИНДЖАГО-ЛОРД ГАРМАДОН</product-description>
+    <quantity>20</quantity>
+    <retail-price>18.67</retail-price>
+    <wholesale-price>12.13</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ФРЕНДС-ОТКРИТАТА ПЕКАРНА НА СТЕФАНИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>12.92</retail-price>
+    <wholesale-price>8.40</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>pakostnik.com</seller-name>
+    <product-description>ФРЕНДС-ЗАЕШКАТА КЪЩИЧКА НА АНДРЕА</product-description>
+    <quantity>9</quantity>
+    <retail-price>22.58</retail-price>
+    <wholesale-price>14.68</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>МОЕТО ПЪРВО ЛЕГО ПИНЦЕСИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>17.25</retail-price>
+    <wholesale-price>11.22</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ХИРОУ ФАКТОРИ-БРУЗЪР V29</product-description>
+    <quantity>14</quantity>
+    <retail-price>28.08</retail-price>
+    <wholesale-price>18.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>КАРС-ИЗБЯГВАНЕТО НА АГЕНТ МАТЪР</product-description>
+    <quantity>20</quantity>
+    <retail-price>29.08</retail-price>
+    <wholesale-price>18.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>СТАР УОРС-ЗВЕЗДЕН РАЗРУШИТЕЛ НА РЕПУБЛИКАТА</product-description>
+    <quantity>1</quantity>
+    <retail-price>118.50</retail-price>
+    <wholesale-price>77.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ФИГУРИ ОТ БАЛОНИ</product-description>
+    <quantity>14</quantity>
+    <retail-price>9.75</retail-price>
+    <wholesale-price>6.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ФАБРИКА ЗА БАЛОНИ</product-description>
+    <quantity>18</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>КУХНЕНСКИ СТЕЛАЖ</product-description>
+    <quantity>8</quantity>
+    <retail-price>7.42</retail-price>
+    <wholesale-price>4.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ГОЛЯМ КУХНЕНСКИ СТЕЛАЖ</product-description>
+    <quantity>17</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>6.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ЦВЕТЕН МИКСЕР</product-description>
+    <quantity>15</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>СЛИНГЪРС-СТАРТОВ КОМПЛЕКТ С 3БР. МЕДАЛЬОНИ</product-description>
+    <quantity>9</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>КУХНЯ НА ГОТВАЧА СЪС ЗВУЦИ</product-description>
+    <quantity>20</quantity>
+    <retail-price>160.50</retail-price>
+    <wholesale-price>128.24</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ПРОВИНЦИАЛНА КЪЩА</product-description>
+    <quantity>9</quantity>
+    <retail-price>274.92</retail-price>
+    <wholesale-price>194.12</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ТОПКА ДЪГА 230ММ</product-description>
+    <quantity>18</quantity>
+    <retail-price>2.83</retail-price>
+    <wholesale-price>1.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>РЕСКЮ ПЕТС-МОЯТ ЛЮБИМЕЦ</product-description>
+    <quantity>17</quantity>
+    <retail-price>52.00</retail-price>
+    <wholesale-price>36.40</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>МОДНИ ОБЛЕКЛА</product-description>
+    <quantity>10</quantity>
+    <retail-price>7.75</retail-price>
+    <wholesale-price>5.43</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>7</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>patilanci.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 100</product-description>
+    <quantity>18</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 100</product-description>
+    <quantity>11</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200 </product-description>
+    <quantity>5</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 2Х20</product-description>
+    <quantity>8</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="MGA Entertainment" email="sales@mgae.com" country-of-origin="Canada">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>БЛЯСКАВА КУКЛА</product-description>
+    <quantity>19</quantity>
+    <retail-price>18.08</retail-price>
+    <wholesale-price>12.66</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ОКЕАНСКИ ЦАР С МОРСКО КОНЧЕ</product-description>
+    <quantity>17</quantity>
+    <retail-price>15.33</retail-price>
+    <wholesale-price>9.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>КОЛА С ХАРПУН</product-description>
+    <quantity>15</quantity>
+    <retail-price>38.25</retail-price>
+    <wholesale-price>26.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СЪСТЕЗАТЕЛ ПО ВДИГАНЕ НА ТЕЖЕСТИ</product-description>
+    <quantity>9</quantity>
+    <retail-price>4.83</retail-price>
+    <wholesale-price>3.35</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>15</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ - ТОПКА-Ф12 ПРИНЦЕСИ</product-description>
+    <quantity>1</quantity>
+    <retail-price>26.17</retail-price>
+    <wholesale-price>18.32</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПЪЗЕЛИ 24ЕЛ.</product-description>
+    <quantity>8</quantity>
+    <retail-price>25.17</retail-price>
+    <wholesale-price>17.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СКЕЛЕТ ТИГЪР</product-description>
+    <quantity>16</quantity>
+    <retail-price>8.25</retail-price>
+    <wholesale-price>5.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>БЕБЕШКИ ЛАПТОП</product-description>
+    <quantity>11</quantity>
+    <retail-price>23.67</retail-price>
+    <wholesale-price>16.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>КАМИОН</product-description>
+    <quantity>11</quantity>
+    <retail-price>29.92</retail-price>
+    <wholesale-price>20.96</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>МЕДИКОПТЕР</product-description>
+    <quantity>4</quantity>
+    <retail-price>81.08</retail-price>
+    <wholesale-price>56.68</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>БАРБИ ДЪСКА ЗА ПИСАНЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>117.75</retail-price>
+    <wholesale-price>76.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>БАРБИ КОМПЛЕКТ ЗА КАФЕ</product-description>
+    <quantity>9</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>9.70</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>МЪНИСТА КОМПЛЕКТ</product-description>
+    <quantity>4</quantity>
+    <retail-price>14.00</retail-price>
+    <wholesale-price>9.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ДИНОЗАВЪРСКИ ИЗПРАЖНЕНИЯ</product-description>
+    <quantity>12</quantity>
+    <retail-price>11.42</retail-price>
+    <wholesale-price>7.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СТАР КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>14</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СТРОИТЕЛЕН КОМПЛЕКТ</product-description>
+    <quantity>5</quantity>
+    <retail-price>19.75</retail-price>
+    <wholesale-price>13.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ТЕЛЕСКОП ЗА ОЦЕЛЯВАНЕ</product-description>
+    <quantity>20</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>КОМПЛЕКТ С МОДЕЛИН И ФОРМИЧКИ</product-description>
+    <quantity>11</quantity>
+    <retail-price>12.75</retail-price>
+    <wholesale-price>8.93</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ПРЕСТИЛКА ЗА РИСУВАНЕ</product-description>
+    <quantity>2</quantity>
+    <retail-price>12.17</retail-price>
+    <wholesale-price>8.52</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>НИНДЖАГО-СНАПА</product-description>
+    <quantity>15</quantity>
+    <retail-price>18.83</retail-price>
+    <wholesale-price>12.24</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СТАР УОРС-КОСМИЧЕСКИ КОРАБ И БЕСПИН</product-description>
+    <quantity>7</quantity>
+    <retail-price>30.33</retail-price>
+    <wholesale-price>19.72</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СИТИ - ПОЛИЦЕЙСКИ ХЕЛИКОПТЕР</product-description>
+    <quantity>18</quantity>
+    <retail-price>32.92</retail-price>
+    <wholesale-price>21.40</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ЧИЙМА-КОМАНДЕН КОРАБ НА КРАГЕР</product-description>
+    <quantity>6</quantity>
+    <retail-price>189.33</retail-price>
+    <wholesale-price>123.07</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>СИТИ-ПОЛИЦЕЙСКИ УЧАСТЪК</product-description>
+    <quantity>6</quantity>
+    <retail-price>243.92</retail-price>
+    <wholesale-price>158.55</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ХИРОУ ФАКТОРИ-БРУЗЪР V29</product-description>
+    <quantity>15</quantity>
+    <retail-price>28.08</retail-price>
+    <wholesale-price>18.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ХИРОУ ФАКТОРИ-БЪЛК V29</product-description>
+    <quantity>12</quantity>
+    <retail-price>21.25</retail-price>
+    <wholesale-price>13.82</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ТОЙ СТОРИ-СЪБРАНИЕ НА ДЖЕСИ</product-description>
+    <quantity>13</quantity>
+    <retail-price>28.17</retail-price>
+    <wholesale-price>18.31</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>rayatoys.com</seller-name>
+    <product-description>ДУПЛО КАРС-СЕРВИЗ ЗА КОЛИ</product-description>
+    <quantity>1</quantity>
+    <retail-price>118.50</retail-price>
+    <wholesale-price>77.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>store.bg</seller-name>
+    <product-description>РОЗОВ КУФАР С БЛОКЧЕТА</product-description>
+    <quantity>5</quantity>
+    <retail-price>57.42</retail-price>
+    <wholesale-price>37.33</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>store.bg</seller-name>
+    <product-description>ФРЕНДС-МЛАКОТО КОНЧЕ НА ОЛИВИЯ</product-description>
+    <quantity>11</quantity>
+    <retail-price>22.67</retail-price>
+    <wholesale-price>14.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>store.bg</seller-name>
+    <product-description>СИТИ-КАМИОН БЕТОНОБЪРКАЧ</product-description>
+    <quantity>16</quantity>
+    <retail-price>44.58</retail-price>
+    <wholesale-price>28.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ДЪРВО ЗА БИЖУТА</product-description>
+    <quantity>16</quantity>
+    <retail-price>12.92</retail-price>
+    <wholesale-price>9.04</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>store.bg</seller-name>
+    <product-description>ЗАБАВНА НАУКА-ВУЛКАН</product-description>
+    <quantity>1</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>store.bg</seller-name>
+    <product-description>СТАР КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>4</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>store.bg</seller-name>
+    <product-description>ЗАНИМАТЕЛНА ИГРА 150 В 1</product-description>
+    <quantity>18</quantity>
+    <retail-price>16.58</retail-price>
+    <wholesale-price>11.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>store.bg</seller-name>
+    <product-description>МАЛЕЧКО ПАЛЕЧКО 3D</product-description>
+    <quantity>16</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>store.bg</seller-name>
+    <product-description>БАРБИ КОМПЛЕКТ МЕТАЛНИ СЪДОВЕ</product-description>
+    <quantity>16</quantity>
+    <retail-price>38.25</retail-price>
+    <wholesale-price>24.87</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>store.bg</seller-name>
+    <product-description>ВИЛЕДА КОЛИЧКА ЗА ПОЧИСТВАНЕ</product-description>
+    <quantity>1</quantity>
+    <retail-price>34.75</retail-price>
+    <wholesale-price>22.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ЕЛЕКТРОНЕН СИНТЕЗАТОР 32 КЛАВИША</product-description>
+    <quantity>14</quantity>
+    <retail-price>32.83</retail-price>
+    <wholesale-price>22.98</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ЕЛЕКТРОННО БАРАБАНЧЕ</product-description>
+    <quantity>10</quantity>
+    <retail-price>32.42</retail-price>
+    <wholesale-price>22.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>КОМПЛЕКТ ПРОФЕСИОНАЛЕН МИКРОСКОП С КУФАРЧЕ</product-description>
+    <quantity>3</quantity>
+    <retail-price>81.08</retail-price>
+    <wholesale-price>56.76</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 15</product-description>
+    <quantity>1</quantity>
+    <retail-price>6.25</retail-price>
+    <wholesale-price>4.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 9000</product-description>
+    <quantity>11</quantity>
+    <retail-price>129.67</retail-price>
+    <wholesale-price>90.77</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 15</product-description>
+    <quantity>9</quantity>
+    <retail-price>6.25</retail-price>
+    <wholesale-price>4.38</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 30-48</product-description>
+    <quantity>9</quantity>
+    <retail-price>9.42</retail-price>
+    <wholesale-price>6.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 25</product-description>
+    <quantity>2</quantity>
+    <retail-price>7.25</retail-price>
+    <wholesale-price>5.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>store.bg</seller-name>
+    <product-description>ДЖУДО СЪСТЕЗАТЕЛИ</product-description>
+    <quantity>4</quantity>
+    <retail-price>6.33</retail-price>
+    <wholesale-price>4.41</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ГОЛЯМА КЪЩА</product-description>
+    <quantity>12</quantity>
+    <retail-price>562.08</retail-price>
+    <wholesale-price>449.24</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ЕДНОРОГ НА КОЛЕЛА</product-description>
+    <quantity>6</quantity>
+    <retail-price>57.50</retail-price>
+    <wholesale-price>40.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПОЖАРНА ОХРАНА ЛОДКА</product-description>
+    <quantity>1</quantity>
+    <retail-price>42.92</retail-price>
+    <wholesale-price>30.02</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>КОМПЛЕКТ БАРБЕКЮ 54СМ</product-description>
+    <quantity>6</quantity>
+    <retail-price>29.92</retail-price>
+    <wholesale-price>20.94</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
+    <seller-name>store.bg</seller-name>
+    <product-description>ШНУКС 2</product-description>
+    <quantity>13</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>14</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>store.bg</seller-name>
+    <product-description>ПЪЗЕЛ 1000</product-description>
+    <quantity>15</quantity>
+    <retail-price>19.50</retail-price>
+    <wholesale-price>13.65</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЪЗЕЛ 3Х500</product-description>
+    <quantity>14</quantity>
+    <retail-price>23.25</retail-price>
+    <wholesale-price>16.28</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>20</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЪЗЕЛ 3Х49</product-description>
+    <quantity>11</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>КОМПЛЕКТ ИНСТРУМЕНТИ 73СМ</product-description>
+    <quantity>19</quantity>
+    <retail-price>33.25</retail-price>
+    <wholesale-price>23.28</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="MGA Entertainment" email="sales@mgae.com" country-of-origin="Canada">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>КУКЛА ОСНОВЕН МОДЕЛ</product-description>
+    <quantity>8</quantity>
+    <retail-price>14.42</retail-price>
+    <wholesale-price>10.09</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>МЛАДОЖЕНСКИ АВТОМОБИЛ</product-description>
+    <quantity>8</quantity>
+    <retail-price>43.75</retail-price>
+    <wholesale-price>30.57</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ДЕТСКА СТАЯ</product-description>
+    <quantity>18</quantity>
+    <retail-price>38.58</retail-price>
+    <wholesale-price>26.95</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ТОПКА ПЛАЖЕН ВОЛЕЙБОЛ</product-description>
+    <quantity>16</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЪЗЕЛ 30-48</product-description>
+    <quantity>12</quantity>
+    <retail-price>9.42</retail-price>
+    <wholesale-price>6.59</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ОСНОВЕН КОМПЛЕКТ</product-description>
+    <quantity>19</quantity>
+    <retail-price>16.58</retail-price>
+    <wholesale-price>11.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>КОМПЛЕКТ МИКРОСКОП ЗЕЛЕНО/СИНЬО</product-description>
+    <quantity>10</quantity>
+    <retail-price>54.00</retail-price>
+    <wholesale-price>37.80</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ЕЛЕКТРОННА КИТАРА СЪС СТОЙКА И МИКРОФОН</product-description>
+    <quantity>11</quantity>
+    <retail-price>61.58</retail-price>
+    <wholesale-price>43.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="РАДИОУПРАВЛЯЕМА КОЛА" email="info@radiocars.bg" country-of-origin="Bulgaria">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>1/6 KAWASAKI ATV</product-description>
+    <quantity>4</quantity>
+    <retail-price>61.58</retail-price>
+    <wholesale-price>43.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ЗАНИМАТЕЛНА ИГРА 50 В Ч</product-description>
+    <quantity>4</quantity>
+    <retail-price>13.25</retail-price>
+    <wholesale-price>9.28</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>5</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ФРАГОЛИНА МЕЛНИЦА ЗА ЗЕЛЕНЧУЦИ</product-description>
+    <quantity>1</quantity>
+    <retail-price>18.58</retail-price>
+    <wholesale-price>12.08</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>3D ОЦВЕТЯВАНЕ С ВКЛЮЧЕНИ ОЧИЛА</product-description>
+    <quantity>10</quantity>
+    <retail-price>12.75</retail-price>
+    <wholesale-price>8.93</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>КОЛЕЛА</product-description>
+    <quantity>6</quantity>
+    <retail-price>29.00</retail-price>
+    <wholesale-price>18.85</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ДУПЛО-КОФА С БЛОКЧЕТА </product-description>
+    <quantity>7</quantity>
+    <retail-price>57.42</retail-price>
+    <wholesale-price>37.33</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>НАВИТИ СВЕТЕЩИ СЛУШАЛКИ</product-description>
+    <quantity>17</quantity>
+    <retail-price>7.00</retail-price>
+    <wholesale-price>4.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>МАРКЕРИ ЗА ТЕКСТИЛ 8ЦВ.</product-description>
+    <quantity>5</quantity>
+    <retail-price>10.75</retail-price>
+    <wholesale-price>7.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЛЮШ-36 СМ МИНИ </product-description>
+    <quantity>4</quantity>
+    <retail-price>24.92</retail-price>
+    <wholesale-price>17.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>toytown.bg</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ КУЧЕ СКИТНИК   Б/Б КУТИЯ</product-description>
+    <quantity>9</quantity>
+    <retail-price>18.25</retail-price>
+    <wholesale-price>12.78</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ФИГУРИ ОТ БАЛОНИ</product-description>
+    <quantity>10</quantity>
+    <retail-price>9.75</retail-price>
+    <wholesale-price>6.83</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>МОЗАЙКА 120 ЕЛ.</product-description>
+    <quantity>11</quantity>
+    <retail-price>11.42</retail-price>
+    <wholesale-price>7.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>СТАР УОРС-ВЪСТАНИЧЕСКИ КОРАБ НА ЕНДОР</product-description>
+    <quantity>8</quantity>
+    <retail-price>33.42</retail-price>
+    <wholesale-price>21.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЛЮШ-25 СМ МОДЕЛ ЙОРИ</product-description>
+    <quantity>8</quantity>
+    <retail-price>11.58</retail-price>
+    <wholesale-price>8.11</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ТЕХНИК-ОФРОУД РЕЙСЪР</product-description>
+    <quantity>17</quantity>
+    <retail-price>46.00</retail-price>
+    <wholesale-price>29.90</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ФРЕНДС-ФОКУСИТЕ НА МИА</product-description>
+    <quantity>14</quantity>
+    <retail-price>22.67</retail-price>
+    <wholesale-price>14.73</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ДУПЛО КАРС-СЕРВИЗ ЗА КОЛИ</product-description>
+    <quantity>16</quantity>
+    <retail-price>118.50</retail-price>
+    <wholesale-price>77.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>СИТИ-ПОЛИЦЕЙСКИ КАМИОН ЗА КУЧЕТА</product-description>
+    <quantity>5</quantity>
+    <retail-price>57.75</retail-price>
+    <wholesale-price>37.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ЧИЙМА-ВЛЕКАЧЪТ НА УОКС</product-description>
+    <quantity>6</quantity>
+    <retail-price>78.08</retail-price>
+    <wholesale-price>50.75</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ТОЙ СТОРИ-КОСМИЧЕСКИ КОРАБ НА БЪЗ</product-description>
+    <quantity>8</quantity>
+    <retail-price>76.33</retail-price>
+    <wholesale-price>49.62</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПИРАТСКИ ХИМИКАЛИ ЗА ТАТУИРОВКИ</product-description>
+    <quantity>11</quantity>
+    <retail-price>6.58</retail-price>
+    <wholesale-price>4.61</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>БИЖУ КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>4</quantity>
+    <retail-price>20.75</retail-price>
+    <wholesale-price>14.53</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>КВАК КВАК - УМНИЯТ ЖАБОК - ИГРА СМЯТАНЕ</product-description>
+    <quantity>19</quantity>
+    <retail-price>9.08</retail-price>
+    <wholesale-price>6.36</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ТЮНЪРС КОЛЕКЦИЯ 1/24</product-description>
+    <quantity>17</quantity>
+    <retail-price>22.42</retail-price>
+    <wholesale-price>15.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>БЕБЕШКА МУЗИКАЛНА КИТАРА</product-description>
+    <quantity>16</quantity>
+    <retail-price>28.08</retail-price>
+    <wholesale-price>19.66</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>БАРБАРОНИ КОМПЛЕКТ</product-description>
+    <quantity>2</quantity>
+    <retail-price>27.08</retail-price>
+    <wholesale-price>17.60</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>КОЛИЧКА ЗА КУКЛА МОМЧЕ</product-description>
+    <quantity>7</quantity>
+    <retail-price>25.67</retail-price>
+    <wholesale-price>17.97</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ-ТОПКА 108ЕЛ. 15СМ</product-description>
+    <quantity>12</quantity>
+    <retail-price>21.42</retail-price>
+    <wholesale-price>14.99</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 3000</product-description>
+    <quantity>3</quantity>
+    <retail-price>38.75</retail-price>
+    <wholesale-price>27.13</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>КОМПЛЕКТ С ХИЛКИ ЗА ПЛАЖЕН ТЕНИС</product-description>
+    <quantity>13</quantity>
+    <retail-price>5.75</retail-price>
+    <wholesale-price>4.03</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>МАСА ЗА ПИКНИК ЗЕЛЕНА</product-description>
+    <quantity>13</quantity>
+    <retail-price>113.50</retail-price>
+    <wholesale-price>90.68</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>МАСА ЗА ПИКНИК ЗЕЛЕНА</product-description>
+    <quantity>12</quantity>
+    <retail-price>113.50</retail-price>
+    <wholesale-price>90.68</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ФУБОЛИСТ ФРАНЦИЯ БЯЛ</product-description>
+    <quantity>9</quantity>
+    <retail-price>6.50</retail-price>
+    <wholesale-price>4.54</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>СВИНЕ С ОГРАЖДЕНИЕ</product-description>
+    <quantity>14</quantity>
+    <retail-price>28.92</retail-price>
+    <wholesale-price>20.25</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ШНУКС 3</product-description>
+    <quantity>4</quantity>
+    <retail-price>14.92</retail-price>
+    <wholesale-price>10.44</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>СКОКЛЬО ЗУБИЙЗ</product-description>
+    <quantity>20</quantity>
+    <retail-price>4.99</retail-price>
+    <wholesale-price>3.49</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 100 ЕЛЕМЕНТА XXL</product-description>
+    <quantity>20</quantity>
+    <retail-price>21.00</retail-price>
+    <wholesale-price>14.70</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ СУПЕР 200</product-description>
+    <quantity>12</quantity>
+    <retail-price>14.58</retail-price>
+    <wholesale-price>10.21</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+  <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
+    <seller-name>vegatoys.com</seller-name>
+    <product-description>ПЪЗЕЛ 300</product-description>
+    <quantity>2</quantity>
+    <retail-price>12.42</retail-price>
+    <wholesale-price>8.69</wholesale-price>
+    <order-date xsi:nil="true" />
+  </sale>
+</sales-reports>

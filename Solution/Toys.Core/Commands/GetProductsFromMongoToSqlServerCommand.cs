@@ -7,6 +7,7 @@
     using MongoDB.Driver;
     using Toys.Data.Contracts;
     using Toys.Models;
+    using System.Globalization;
 
     public class GetProductsFromMongoToSqlServerCommand : Command, ICommand
     {
@@ -61,11 +62,11 @@
 
                 product.Sku = sku;
                 product.Description = document["Description"].ToString();
-                product.WholesalePrice = decimal.Parse(document["WholesalePrice"].ToString());
-                product.RetailPrice = decimal.Parse(document["RetailPrice"].ToString());
-                product.TradeDiscount = decimal.Parse(document["TradeDiscount"].ToString());
-                product.TradeDiscountRate = float.Parse(document["TradeDiscountRate"].ToString());
-                product.ManufacturerId = int.Parse(document["ManufacturerId"].ToString());
+                product.WholesalePrice = decimal.Parse(document["WholesalePrice"].ToString(), CultureInfo.InvariantCulture);
+                product.RetailPrice = decimal.Parse(document["RetailPrice"].ToString(), CultureInfo.InvariantCulture);
+                product.TradeDiscount = decimal.Parse(document["TradeDiscount"].ToString(), CultureInfo.InvariantCulture);
+                product.TradeDiscountRate = float.Parse(document["TradeDiscountRate"].ToString(), CultureInfo.InvariantCulture);
+                product.ManufacturerId = int.Parse(document["ManufacturerId"].ToString(), CultureInfo.InvariantCulture);
 
                 this.Data.Products.Add(product);
                 this.Data.SaveChanges();
