@@ -1,0 +1,13 @@
+{
+  "ID": 132,
+  "SellerName": "hippoland.net",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ 2000",
+  "Quantity": 15,
+  "RetailPrice": 33.58,
+  "WholesalePrice": 23.51,
+  "TotalSum": 352.65,
+  "OrderDate": null
+}

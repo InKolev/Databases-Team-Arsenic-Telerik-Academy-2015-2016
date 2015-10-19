@@ -1,0 +1,13 @@
+{
+  "ID": 80,
+  "SellerName": "eontoys.com",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ ЗА ПОД 60 ЕЛ.",
+  "Quantity": 1,
+  "RetailPrice": 25.17,
+  "WholesalePrice": 17.62,
+  "TotalSum": 25.17,
+  "OrderDate": null
+}

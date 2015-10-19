@@ -1,0 +1,13 @@
+{
+  "ID": 438,
+  "SellerName": "store.bg",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ 15",
+  "Quantity": 9,
+  "RetailPrice": 6.25,
+  "WholesalePrice": 4.38,
+  "TotalSum": 56.25,
+  "OrderDate": null
+}

@@ -15,15 +15,17 @@
     {
         public bool ExportReport(DbContext dbContext)
         {
-            var dbDataExtractor = new DbReportsDataExtractor();
+            var dbDataExtractor = new ReportsDataExtractor();
             var salesList = dbDataExtractor.GetData(dbContext);
             var salesReport = new SalesReport() { Sales = salesList };
 
             Directory.CreateDirectory(@"..\\..\\..\\Files\\JsonReports");
-            //using (File.Create(@"..\\..\\..\\Files\\JsonReports\\report.json")) { }
 
-            var salesReportAsJson = JsonConvert.SerializeObject(salesReport, Formatting.Indented);
-            File.WriteAllText(@"..\\..\\..\\Files\\JsonReports\\report.json", salesReportAsJson);
+            foreach(var report in salesReport.Sales)
+            {
+                var salesReportAsJson = JsonConvert.SerializeObject(report, Formatting.Indented);
+                File.WriteAllText(@"..\\..\\..\\Files\\JsonReports\\report" + "-" + report.ID + ".json", salesReportAsJson);
+            }
 
             return true;
         }

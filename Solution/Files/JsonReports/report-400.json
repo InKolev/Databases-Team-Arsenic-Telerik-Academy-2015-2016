@@ -1,0 +1,13 @@
+{
+  "ID": 400,
+  "SellerName": "rayatoys.com",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛИ 24ЕЛ.",
+  "Quantity": 8,
+  "RetailPrice": 25.17,
+  "WholesalePrice": 17.62,
+  "TotalSum": 201.36,
+  "OrderDate": null
+}

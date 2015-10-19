@@ -1,0 +1,13 @@
+{
+  "ID": 104,
+  "SellerName": "fancymarket.net",
+  "ManufacturerName": "The LEGO Group",
+  "ManufacturerEmail": "gitte.klausen@lego.com",
+  "CountryOfOrigin": "Denmark",
+  "ProductDescription": "СТАР УОРС-КЛОНИРАНИТЕ СРЕЩУ ДРОИДИТЕ",
+  "Quantity": 10,
+  "RetailPrice": 32.25,
+  "WholesalePrice": 20.97,
+  "TotalSum": 322.50,
+  "OrderDate": null
+}

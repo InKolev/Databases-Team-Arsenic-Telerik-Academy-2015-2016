@@ -1,0 +1,13 @@
+{
+  "ID": 199,
+  "SellerName": "ikea.bg",
+  "ManufacturerName": "The LEGO Group",
+  "ManufacturerEmail": "gitte.klausen@lego.com",
+  "CountryOfOrigin": "Denmark",
+  "ProductDescription": "ДУПЛО-МОЯТ ПЪРВИ СУПЕРМАРКЕТ",
+  "Quantity": 20,
+  "RetailPrice": 46.00,
+  "WholesalePrice": 29.90,
+  "TotalSum": 598.00,
+  "OrderDate": null
+}

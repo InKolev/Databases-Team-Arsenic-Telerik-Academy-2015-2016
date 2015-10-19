@@ -1,0 +1,13 @@
+{
+  "ID": 180,
+  "SellerName": "ikea.bg",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ 1000",
+  "Quantity": 11,
+  "RetailPrice": 19.50,
+  "WholesalePrice": 13.65,
+  "TotalSum": 150.15,
+  "OrderDate": null
+}

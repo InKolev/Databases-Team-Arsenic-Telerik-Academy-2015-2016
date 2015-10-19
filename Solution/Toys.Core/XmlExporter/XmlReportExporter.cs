@@ -14,7 +14,7 @@
     {
         public bool ExportReport(DbContext dbContext)
         {
-            var dbDataExtractor = new DbReportsDataExtractor();
+            var dbDataExtractor = new ReportsDataExtractor();
             var salesList = dbDataExtractor.GetData(dbContext);
             var salesReport = new SalesReport() { Sales = salesList };
 

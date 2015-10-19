@@ -11,9 +11,6 @@
             var context = new ToysDbContext();
             var db = new ToysData(context);
 
-            //var jsonReportExporter = new JsonReportExporter();
-            //jsonReportExporter.ExportReport(context);
-
             var dataManager = new DataManager();
             dataManager.Start();
         }

@@ -10,6 +10,9 @@
     [Serializable]
     public class Report
     {
+        [XmlElement("report-id")]
+        public int ID { get; set; }
+
         [XmlElement("seller-name")]
         public string SellerName { get; set; }
 
@@ -33,6 +36,9 @@
 
         [XmlElement("wholesale-price")]
         public decimal WholesalePrice { get; set; }
+
+        [XmlElement("total-sum")]
+        public decimal TotalSum { get; set; }
 
         [XmlElement("order-date")]
         public DateTime? OrderDate { get; set; }

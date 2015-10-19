@@ -1,0 +1,13 @@
+{
+  "ID": 448,
+  "SellerName": "store.bg",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ 1000",
+  "Quantity": 15,
+  "RetailPrice": 19.50,
+  "WholesalePrice": 13.65,
+  "TotalSum": 204.75,
+  "OrderDate": null
+}

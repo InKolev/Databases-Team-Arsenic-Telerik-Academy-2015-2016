@@ -1,0 +1,13 @@
+{
+  "ID": 23,
+  "SellerName": "bimbomaniabg.com",
+  "ManufacturerName": "Disney Toys",
+  "ManufacturerEmail": "sales@disneystore.com",
+  "CountryOfOrigin": "China",
+  "ProductDescription": "ПЪЗЕЛ 1000ЕЛ.",
+  "Quantity": 15,
+  "RetailPrice": 19.50,
+  "WholesalePrice": 13.65,
+  "TotalSum": 204.75,
+  "OrderDate": null
+}
