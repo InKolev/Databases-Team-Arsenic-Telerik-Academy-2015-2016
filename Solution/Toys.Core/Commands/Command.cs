@@ -71,15 +71,23 @@
         protected bool ZipFile(string filePath)
         {
             var success = false;
-            using (ZipFile salesReportsZip = new ZipFile())
-            {
-                foreach (string file in Directory.GetFiles(filePath))
-                {
-                    salesReportsZip.AddFile(file, Path.GetFileName(file));
-                }
-                salesReportsZip.Save(filePath + "\\" + "SalesReports.zip");
 
+            if (File.Exists(filePath + "/SalesReports.zip"))
+            {
                 success = true;
+            }
+            else
+            {
+                using (ZipFile salesReportsZip = new ZipFile())
+                {
+                    foreach (string file in Directory.GetFiles(filePath))
+                    {
+                        salesReportsZip.AddFile(file, Path.GetFileName(file));
+                    }
+                    salesReportsZip.Save(filePath + "\\" + "SalesReports.zip");
+
+                    success = true;
+                }
             }
 
             return success;
