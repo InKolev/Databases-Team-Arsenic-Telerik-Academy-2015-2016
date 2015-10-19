@@ -90,13 +90,13 @@
     <Compile Include="Contracts\IExporter.cs" />
     <Compile Include="Commands\ZipSalesReportsCommand.cs" />
     <Compile Include="DataManager.cs" />
-    <Compile Include="JsonExporter\JsonReportExporter.cs" />
+    <Compile Include="ReportsExporters\JsonExporter\JsonReportExporter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Commands\SalesReportGeneratorCommand.cs" />
-    <Compile Include="ReportsCommon\ReportsDataExtractor.cs" />
-    <Compile Include="ReportsCommon\Report.cs" />
-    <Compile Include="ReportsCommon\SalesReport.cs" />
-    <Compile Include="XmlExporter\XmlReportExporter.cs" />
+    <Compile Include="ReportsExporters\ReportsCommon\ReportsDataExtractor.cs" />
+    <Compile Include="ReportsExporters\ReportsCommon\Report.cs" />
+    <Compile Include="ReportsExporters\ReportsCommon\SalesReport.cs" />
+    <Compile Include="ReportsExporters\XmlExporter\XmlReportExporter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Toys.Data\Toys.Data.csproj">
