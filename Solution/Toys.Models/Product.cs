@@ -1,11 +1,18 @@
 ﻿namespace Toys.Models
 {
+    using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
 
     public class Product
     {
-        [Required]
+        private ICollection<Sale> sales;
+
+        public Product()
+        {
+            this.sales = new HashSet<Sale>();
+        }
+
         public int Id { get; set; }
 
         [Required]
@@ -30,6 +37,10 @@
 
         public virtual Manufacturer Manufacturer { get; set; }
 
-        public virtual Sale Sale { get; set; }
+        public virtual ICollection<Sale> Sales
+        {
+            get { return this.sales; }
+            set { this.sales = value; }
+        }
     }
 }

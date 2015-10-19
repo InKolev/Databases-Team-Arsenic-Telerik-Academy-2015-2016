@@ -1,7 +1,5 @@
 ﻿namespace Toys.Core.Commands
 {
-    using System;
-    using System.Linq;
     using Toys.Data.Contracts;
 
     class ZipSalesReportsCommand : Command, ICommand

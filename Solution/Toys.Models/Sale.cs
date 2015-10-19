@@ -7,8 +7,7 @@
     public class Sale
     {
         [Required]
-        [Key, ForeignKey("Product")]
-        public int ProductId { get; set; }
+        public int Id { get; set; }
 
         [Required]
         [StringLength(100)]
@@ -22,6 +21,8 @@
         public int SellerId { get; set; }
 
         public virtual Seller Seller { get; set; }
+
+        public int ProductId { get; set; }
 
         public virtual Product Product { get; set; }
     }
