@@ -26,6 +26,7 @@
                 new GetProductsFromMongoToSqlServerCommand(this.data),
                 new GetSellersFromMongoToSqlServerCommand(this.data),
                 new SalesReportGeneratorCommand(this.data),
+                new ZipSalesReportsCommand(this.data),
                 new PdfCommand(this.data),
                 new ExportXmlReportCommand(this.data, this.context)
             };

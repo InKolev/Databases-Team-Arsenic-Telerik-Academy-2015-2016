@@ -28,7 +28,7 @@
             
             using (var reader = new StreamReader(path))
             {
-                using (ZipFile zip = ZipFile.Read(path))
+                using (ZipFile zip = Ionic.Zip.ZipFile.Read(path))
                 {
                     ZipEntry e = zip[fileName];
 
@@ -129,5 +129,21 @@
             return sb.ToString();
         }
 
+        protected bool ZipFile(string filePath)
+        {
+            var success = false;
+            using (ZipFile salesReportsZip = new ZipFile())
+            {
+                foreach(string file in Directory.GetFiles(filePath))
+                {
+                    salesReportsZip.AddFile(file, Path.GetFileName(file));
+                }
+                salesReportsZip.Save(filePath + "\\" + "SalesReports.zip");
+
+                success = true;
+            }
+
+            return success;
+        }
     }
 }
