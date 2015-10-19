@@ -77,6 +77,7 @@
     <Compile Include="Commands\AddManufacturerCommand.cs" />
     <Compile Include="Commands\AddCountryCommand.cs" />
     <Compile Include="Commands\AddProductsToMongoDbCommand.cs" />
+    <Compile Include="Commands\AddSalesReportsToSqlCommand.cs" />
     <Compile Include="Commands\AddSellersToMongoDbCommand.cs" />
     <Compile Include="Commands\Command.cs" />
     <Compile Include="Commands\ExportXmlReportCommand.cs" />

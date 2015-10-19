@@ -23,19 +23,13 @@
 
         protected List<string[]> ImportFromZipFile(string filePath, string fileName)
         {
-            var path = filePath;
-            
-            
-            using (var reader = new StreamReader(path))
+            using (ZipFile zip = Ionic.Zip.ZipFile.Read(filePath))
             {
-                using (ZipFile zip = Ionic.Zip.ZipFile.Read(path))
-                {
-                    ZipEntry e = zip[fileName];
+                ZipEntry e = zip[fileName];
 
-                    using (FileStream outputStream = new FileStream(@"../../../Files/" + fileName, FileMode.OpenOrCreate))
-                    {
-                        e.Extract(outputStream);
-                    }
+                using (FileStream outputStream = new FileStream(@"../../../Files/" + fileName, FileMode.OpenOrCreate))
+                {
+                    e.Extract(outputStream);
                 }
             }
 
@@ -52,10 +46,52 @@
             return list;
         }
 
+        protected List<string[]> ImportReportsFromZipFile(string filePath, string extractDir)
+        {
+            using (ZipFile zip = Ionic.Zip.ZipFile.Read(filePath))
+            {
+                foreach (var entry in zip.Entries)
+                {
+                    entry.Extract(extractDir);
+                }
+            }
+
+            //var dataSource = @"../../../Files/" + fileName;
+            //
+            //
+            //var list = ReadExcelFile(dataSource);
+            //
+            //if (File.Exists(dataSource))
+            //{
+            //    File.Delete(dataSource);
+            //}
+            //
+
+            var list = new List<string[]>();
+            return list;
+        }
+
+        protected bool ZipFile(string filePath)
+        {
+            var success = false;
+            using (ZipFile salesReportsZip = new ZipFile())
+            {
+                foreach (string file in Directory.GetFiles(filePath))
+                {
+                    salesReportsZip.AddFile(file, Path.GetFileName(file));
+                }
+                salesReportsZip.Save(filePath + "\\" + "SalesReports.zip");
+
+                success = true;
+            }
+
+            return success;
+        }
+
         private List<string[]> ReadExcelFile(string dataSource)
         {
             var list = new List<string[]>();
-            DataSet dataSet = new DataSet();
+            //DataSet dataSet = new DataSet();
 
             string connectionString = GetConnectionString(dataSource);
 
@@ -127,23 +163,6 @@
             }
 
             return sb.ToString();
-        }
-
-        protected bool ZipFile(string filePath)
-        {
-            var success = false;
-            using (ZipFile salesReportsZip = new ZipFile())
-            {
-                foreach(string file in Directory.GetFiles(filePath))
-                {
-                    salesReportsZip.AddFile(file, Path.GetFileName(file));
-                }
-                salesReportsZip.Save(filePath + "\\" + "SalesReports.zip");
-
-                success = true;
-            }
-
-            return success;
         }
     }
 }
