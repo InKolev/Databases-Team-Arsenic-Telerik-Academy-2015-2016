@@ -8,6 +8,7 @@
     using System.Data.OleDb;
     using System.IO;
     using System.Text;
+    using System.Text.RegularExpressions;
     using Toys.Data.Contracts;
 
     public abstract class Command : ICommand
@@ -57,7 +58,7 @@
                     entry.Extract(extractDir);
 
                     var dataSource = @"../../../Files/SalesReportsUnzipped/" + entry.FileName;
-                    this.ReadExcelFile(dataSource);
+                    this.ReadExcelFile(dataSource, entry.FileName);
                 }
             }
 
@@ -124,13 +125,60 @@
                     var rdr = command.ExecuteReader();
                     while (rdr.Read())
                     {
-                        string[] fileData = new string[rdr.FieldCount];
+                        string[] fileData = new string[rdr.FieldCount + 1];
 
                         for (int i = 0; i < rdr.FieldCount; i++)
                         {
                             fileData[i] = rdr[i].ToString();
                         }
+                        this.list.Add(fileData);
+                    }
+                }
 
+                command = null;
+                connection.Close();
+            }
+        }
+
+        private void ReadExcelFile(string dataSource, string nameOfFile)
+        {
+            //DataSet dataSet = new DataSet()
+            Regex regex = new Regex(@"\d{2}-\w{3}-\d{4}");
+
+            string connectionString = GetConnectionString(dataSource);
+
+            using (OleDbConnection connection = new OleDbConnection(connectionString))
+            {
+                connection.Open();
+                OleDbCommand command = new OleDbCommand();
+                command.Connection = connection;
+
+                // Get all Sheets in Excel File
+                DataTable dataSheet = connection.GetOleDbSchemaTable(OleDbSchemaGuid.Tables, null);
+
+                // Loop through all Sheets to get data
+                foreach (DataRow dataRow in dataSheet.Rows)
+                {
+                    string sheetName = dataRow["TABLE_NAME"].ToString();
+
+                    if (!sheetName.EndsWith("$"))
+                    {
+                        continue;
+                    }
+
+                    // Get all rows from the Sheet
+                    command.CommandText = "SELECT * FROM [" + sheetName + "]";
+
+                    var rdr = command.ExecuteReader();
+                    while (rdr.Read())
+                    {
+                        string[] fileData = new string[rdr.FieldCount + 1];
+
+                        for (int i = 0; i < rdr.FieldCount; i++)
+                        {
+                            fileData[i] = rdr[i].ToString();
+                        }
+                        fileData[rdr.FieldCount] = regex.Match(nameOfFile).ToString();
                         this.list.Add(fileData);
                     }
                 }

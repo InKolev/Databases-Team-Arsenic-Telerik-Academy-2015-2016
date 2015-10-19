@@ -35,6 +35,7 @@ namespace Toys.Core.Commands
                 sale.Sku = item[1];
                 sale.Quantity = int.Parse(item[2]);
                 sale.SellerId = int.Parse(item[3]);
+                sale.Date = DateTime.Parse(item[4]);
 
                 this.Data.Sales.Add(sale);
                 this.Data.SaveChanges();
