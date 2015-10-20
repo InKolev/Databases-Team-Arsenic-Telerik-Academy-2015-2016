@@ -31,7 +31,8 @@
                 new PdfCommand(this.data),
                 new ExportXmlReportCommand(this.data, this.context),
                 new ExportJsonReportCommand(this.data, this.context),
-                new SqliteToExcelReportCommand(this.data)
+                new SqliteToExcelReportCommand(this.data),
+                new LoadReportsInMySqlDatabaseCommand(this.data, this.context)
             };
 
             foreach (var command in commands)
