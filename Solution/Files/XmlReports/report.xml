@@ -8,7 +8,7 @@
     <retail-price>33.42</retail-price>
     <wholesale-price>21.73</wholesale-price>
     <total-sum>239.03</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>2</report-id>
@@ -18,7 +18,7 @@
     <retail-price>27.83</retail-price>
     <wholesale-price>18.09</wholesale-price>
     <total-sum>139.15</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>3</report-id>
@@ -28,7 +28,7 @@
     <retail-price>46.00</retail-price>
     <wholesale-price>29.90</wholesale-price>
     <total-sum>538.20</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>4</report-id>
@@ -38,7 +38,7 @@
     <retail-price>69.92</retail-price>
     <wholesale-price>45.45</wholesale-price>
     <total-sum>279.68</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>5</report-id>
@@ -48,7 +48,7 @@
     <retail-price>94.75</retail-price>
     <wholesale-price>61.59</wholesale-price>
     <total-sum>1231.80</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>6</report-id>
@@ -58,7 +58,7 @@
     <retail-price>30.33</retail-price>
     <wholesale-price>19.72</wholesale-price>
     <total-sum>276.08</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>7</report-id>
@@ -68,7 +68,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>154.09</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>8</report-id>
@@ -78,7 +78,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>63.58</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>9</report-id>
@@ -88,7 +88,7 @@
     <retail-price>9.00</retail-price>
     <wholesale-price>6.30</wholesale-price>
     <total-sum>27.00</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>10</report-id>
@@ -98,7 +98,7 @@
     <retail-price>19.08</retail-price>
     <wholesale-price>13.36</wholesale-price>
     <total-sum>267.20</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>11</report-id>
@@ -108,7 +108,7 @@
     <retail-price>32.42</retail-price>
     <wholesale-price>22.69</wholesale-price>
     <total-sum>324.20</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>12</report-id>
@@ -118,7 +118,7 @@
     <retail-price>23.92</retail-price>
     <wholesale-price>15.55</wholesale-price>
     <total-sum>23.92</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
     <report-id>13</report-id>
@@ -128,7 +128,7 @@
     <retail-price>23.67</retail-price>
     <wholesale-price>16.57</wholesale-price>
     <total-sum>23.67</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>14</report-id>
@@ -138,7 +138,7 @@
     <retail-price>175.58</retail-price>
     <wholesale-price>126.78</wholesale-price>
     <total-sum>1901.70</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>15</report-id>
@@ -148,7 +148,7 @@
     <retail-price>105.58</retail-price>
     <wholesale-price>73.81</wholesale-price>
     <total-sum>885.72</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>16</report-id>
@@ -158,7 +158,7 @@
     <retail-price>21.58</retail-price>
     <wholesale-price>15.18</wholesale-price>
     <total-sum>43.16</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>17</report-id>
@@ -168,7 +168,7 @@
     <retail-price>142.00</retail-price>
     <wholesale-price>99.32</wholesale-price>
     <total-sum>1092.52</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>18</report-id>
@@ -178,7 +178,7 @@
     <retail-price>6.33</retail-price>
     <wholesale-price>4.41</wholesale-price>
     <total-sum>25.32</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
     <report-id>19</report-id>
@@ -188,7 +188,7 @@
     <retail-price>42.58</retail-price>
     <wholesale-price>29.81</wholesale-price>
     <total-sum>383.22</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>20</report-id>
@@ -198,7 +198,7 @@
     <retail-price>26.58</retail-price>
     <wholesale-price>20.06</wholesale-price>
     <total-sum>106.32</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>21</report-id>
@@ -208,7 +208,7 @@
     <retail-price>57.50</retail-price>
     <wholesale-price>40.25</wholesale-price>
     <total-sum>644.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
     <report-id>22</report-id>
@@ -218,7 +218,7 @@
     <retail-price>17.17</retail-price>
     <wholesale-price>12.02</wholesale-price>
     <total-sum>68.68</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>23</report-id>
@@ -228,7 +228,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>204.75</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>24</report-id>
@@ -238,7 +238,7 @@
     <retail-price>7.25</retail-price>
     <wholesale-price>5.08</wholesale-price>
     <total-sum>91.44</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>25</report-id>
@@ -248,7 +248,7 @@
     <retail-price>9.42</retail-price>
     <wholesale-price>6.59</wholesale-price>
     <total-sum>84.78</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>26</report-id>
@@ -258,7 +258,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>167.04</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>27</report-id>
@@ -268,7 +268,7 @@
     <retail-price>9.92</retail-price>
     <wholesale-price>6.94</wholesale-price>
     <total-sum>131.86</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>28</report-id>
@@ -278,7 +278,7 @@
     <retail-price>10.17</retail-price>
     <wholesale-price>7.12</wholesale-price>
     <total-sum>81.36</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>29</report-id>
@@ -288,7 +288,7 @@
     <retail-price>2.50</retail-price>
     <wholesale-price>1.75</wholesale-price>
     <total-sum>22.75</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>30</report-id>
@@ -298,7 +298,7 @@
     <retail-price>36.33</retail-price>
     <wholesale-price>25.43</wholesale-price>
     <total-sum>381.45</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>31</report-id>
@@ -308,7 +308,7 @@
     <retail-price>7.42</retail-price>
     <wholesale-price>5.19</wholesale-price>
     <total-sum>59.36</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>32</report-id>
@@ -318,7 +318,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>156.00</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>33</report-id>
@@ -328,7 +328,7 @@
     <retail-price>48.25</retail-price>
     <wholesale-price>33.78</wholesale-price>
     <total-sum>439.14</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
     <report-id>34</report-id>
@@ -338,7 +338,7 @@
     <retail-price>6.24</retail-price>
     <wholesale-price>4.37</wholesale-price>
     <total-sum>48.07</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
     <report-id>35</report-id>
@@ -348,7 +348,7 @@
     <retail-price>2.08</retail-price>
     <wholesale-price>1.45</wholesale-price>
     <total-sum>15.95</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>36</report-id>
@@ -358,7 +358,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>69.48</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>37</report-id>
@@ -368,7 +368,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>193.99</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>38</report-id>
@@ -378,7 +378,7 @@
     <retail-price>28.25</retail-price>
     <wholesale-price>19.77</wholesale-price>
     <total-sum>276.78</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>39</report-id>
@@ -388,7 +388,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.83</wholesale-price>
     <total-sum>192.45</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>40</report-id>
@@ -398,7 +398,7 @@
     <retail-price>22.75</retail-price>
     <wholesale-price>16.71</wholesale-price>
     <total-sum>91.00</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>41</report-id>
@@ -408,7 +408,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.82</wholesale-price>
     <total-sum>124.20</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>42</report-id>
@@ -418,7 +418,7 @@
     <retail-price>39.92</retail-price>
     <wholesale-price>27.94</wholesale-price>
     <total-sum>391.16</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>43</report-id>
@@ -428,7 +428,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>150.60</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
     <report-id>44</report-id>
@@ -438,7 +438,7 @@
     <retail-price>26.17</retail-price>
     <wholesale-price>18.32</wholesale-price>
     <total-sum>52.34</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>45</report-id>
@@ -448,7 +448,7 @@
     <retail-price>11.25</retail-price>
     <wholesale-price>7.32</wholesale-price>
     <total-sum>22.50</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>46</report-id>
@@ -458,7 +458,7 @@
     <retail-price>13.08</retail-price>
     <wholesale-price>9.16</wholesale-price>
     <total-sum>52.32</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>47</report-id>
@@ -468,7 +468,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>276.07</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>48</report-id>
@@ -478,7 +478,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>188.89</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>49</report-id>
@@ -488,7 +488,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>82.68</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>50</report-id>
@@ -498,7 +498,7 @@
     <retail-price>11.42</retail-price>
     <wholesale-price>7.99</wholesale-price>
     <total-sum>135.83</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>51</report-id>
@@ -508,7 +508,7 @@
     <retail-price>40.42</retail-price>
     <wholesale-price>28.29</wholesale-price>
     <total-sum>202.10</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>52</report-id>
@@ -518,7 +518,7 @@
     <retail-price>29.08</retail-price>
     <wholesale-price>20.36</wholesale-price>
     <total-sum>346.12</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>53</report-id>
@@ -528,7 +528,7 @@
     <retail-price>45.75</retail-price>
     <wholesale-price>32.03</wholesale-price>
     <total-sum>91.50</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>54</report-id>
@@ -538,7 +538,7 @@
     <retail-price>39.33</retail-price>
     <wholesale-price>25.57</wholesale-price>
     <total-sum>460.26</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>55</report-id>
@@ -548,7 +548,7 @@
     <retail-price>94.75</retail-price>
     <wholesale-price>61.59</wholesale-price>
     <total-sum>677.49</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>56</report-id>
@@ -558,7 +558,7 @@
     <retail-price>44.58</retail-price>
     <wholesale-price>28.98</wholesale-price>
     <total-sum>376.74</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>57</report-id>
@@ -568,7 +568,7 @@
     <retail-price>91.92</retail-price>
     <wholesale-price>59.75</wholesale-price>
     <total-sum>827.28</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>58</report-id>
@@ -578,7 +578,7 @@
     <retail-price>22.25</retail-price>
     <wholesale-price>14.47</wholesale-price>
     <total-sum>200.25</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>59</report-id>
@@ -588,7 +588,7 @@
     <retail-price>18.33</retail-price>
     <wholesale-price>11.92</wholesale-price>
     <total-sum>146.64</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>60</report-id>
@@ -598,7 +598,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>134.52</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>61</report-id>
@@ -608,7 +608,7 @@
     <retail-price>37.42</retail-price>
     <wholesale-price>26.19</wholesale-price>
     <total-sum>523.80</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>62</report-id>
@@ -618,7 +618,7 @@
     <retail-price>15.67</retail-price>
     <wholesale-price>10.97</wholesale-price>
     <total-sum>164.55</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>63</report-id>
@@ -628,7 +628,7 @@
     <retail-price>23.50</retail-price>
     <wholesale-price>16.45</wholesale-price>
     <total-sum>235.00</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>64</report-id>
@@ -638,7 +638,7 @@
     <retail-price>35.17</retail-price>
     <wholesale-price>24.62</wholesale-price>
     <total-sum>281.36</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>65</report-id>
@@ -648,7 +648,7 @@
     <retail-price>52.17</retail-price>
     <wholesale-price>36.52</wholesale-price>
     <total-sum>208.68</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>66</report-id>
@@ -658,7 +658,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>10.75</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>67</report-id>
@@ -668,7 +668,7 @@
     <retail-price>35.17</retail-price>
     <wholesale-price>24.58</wholesale-price>
     <total-sum>294.96</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>68</report-id>
@@ -678,7 +678,7 @@
     <retail-price>59.42</retail-price>
     <wholesale-price>41.58</wholesale-price>
     <total-sum>415.94</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>69</report-id>
@@ -688,7 +688,7 @@
     <retail-price>34.58</retail-price>
     <wholesale-price>24.21</wholesale-price>
     <total-sum>435.78</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>70</report-id>
@@ -698,7 +698,7 @@
     <retail-price>13.00</retail-price>
     <wholesale-price>9.11</wholesale-price>
     <total-sum>104.00</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИЛВЪРЛИТ" email="global@ennesstrades.com" country-of-origin="India">
     <report-id>71</report-id>
@@ -708,7 +708,7 @@
     <retail-price>9.92</retail-price>
     <wholesale-price>6.94</wholesale-price>
     <total-sum>29.76</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>72</report-id>
@@ -718,7 +718,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>14.58</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>73</report-id>
@@ -728,7 +728,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>145.80</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>74</report-id>
@@ -738,7 +738,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>104.22</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>75</report-id>
@@ -748,7 +748,7 @@
     <retail-price>50.75</retail-price>
     <wholesale-price>35.53</wholesale-price>
     <total-sum>507.50</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>76</report-id>
@@ -758,7 +758,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>117.00</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>77</report-id>
@@ -768,7 +768,7 @@
     <retail-price>76.58</retail-price>
     <wholesale-price>53.61</wholesale-price>
     <total-sum>696.93</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>78</report-id>
@@ -778,7 +778,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>44.76</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>79</report-id>
@@ -788,7 +788,7 @@
     <retail-price>25.17</retail-price>
     <wholesale-price>17.62</wholesale-price>
     <total-sum>246.68</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>80</report-id>
@@ -798,7 +798,7 @@
     <retail-price>25.17</retail-price>
     <wholesale-price>17.62</wholesale-price>
     <total-sum>25.17</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>81</report-id>
@@ -808,7 +808,7 @@
     <retail-price>26.17</retail-price>
     <wholesale-price>18.32</wholesale-price>
     <total-sum>329.76</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>82</report-id>
@@ -818,7 +818,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>191.10</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>83</report-id>
@@ -828,7 +828,7 @@
     <retail-price>33.58</retail-price>
     <wholesale-price>23.51</wholesale-price>
     <total-sum>33.58</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="BRATZ" email="sales@toysrus.com" country-of-origin="Canada">
     <report-id>84</report-id>
@@ -838,7 +838,7 @@
     <retail-price>34.00</retail-price>
     <wholesale-price>23.80</wholesale-price>
     <total-sum>34.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>85</report-id>
@@ -848,7 +848,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>37.26</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>86</report-id>
@@ -858,7 +858,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>23.16</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>87</report-id>
@@ -868,7 +868,7 @@
     <retail-price>9.83</retail-price>
     <wholesale-price>6.88</wholesale-price>
     <total-sum>116.96</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>88</report-id>
@@ -878,7 +878,7 @@
     <retail-price>48.25</retail-price>
     <wholesale-price>33.79</wholesale-price>
     <total-sum>540.64</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>89</report-id>
@@ -888,7 +888,7 @@
     <retail-price>326.58</retail-price>
     <wholesale-price>228.49</wholesale-price>
     <total-sum>2513.39</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>90</report-id>
@@ -898,7 +898,7 @@
     <retail-price>10.42</retail-price>
     <wholesale-price>7.29</wholesale-price>
     <total-sum>80.19</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>91</report-id>
@@ -908,7 +908,7 @@
     <retail-price>24.92</retail-price>
     <wholesale-price>17.44</wholesale-price>
     <total-sum>99.68</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>92</report-id>
@@ -918,7 +918,7 @@
     <retail-price>52.17</retail-price>
     <wholesale-price>36.52</wholesale-price>
     <total-sum>657.36</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>93</report-id>
@@ -928,7 +928,7 @@
     <retail-price>13.67</retail-price>
     <wholesale-price>9.57</wholesale-price>
     <total-sum>136.70</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>94</report-id>
@@ -938,7 +938,7 @@
     <retail-price>13.58</retail-price>
     <wholesale-price>9.51</wholesale-price>
     <total-sum>171.18</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>95</report-id>
@@ -948,7 +948,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>188.89</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>96</report-id>
@@ -958,7 +958,7 @@
     <retail-price>17.25</retail-price>
     <wholesale-price>11.22</wholesale-price>
     <total-sum>69.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>97</report-id>
@@ -968,7 +968,7 @@
     <retail-price>76.33</retail-price>
     <wholesale-price>49.62</wholesale-price>
     <total-sum>595.44</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>98</report-id>
@@ -978,7 +978,7 @@
     <retail-price>76.33</retail-price>
     <wholesale-price>49.62</wholesale-price>
     <total-sum>305.32</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>99</report-id>
@@ -988,7 +988,7 @@
     <retail-price>196.75</retail-price>
     <wholesale-price>127.89</wholesale-price>
     <total-sum>196.75</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>100</report-id>
@@ -998,7 +998,7 @@
     <retail-price>12.33</retail-price>
     <wholesale-price>8.63</wholesale-price>
     <total-sum>120.82</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>101</report-id>
@@ -1008,7 +1008,7 @@
     <retail-price>47.42</retail-price>
     <wholesale-price>33.19</wholesale-price>
     <total-sum>630.61</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
     <report-id>102</report-id>
@@ -1018,7 +1018,7 @@
     <retail-price>165.83</retail-price>
     <wholesale-price>116.08</wholesale-price>
     <total-sum>1492.47</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>103</report-id>
@@ -1028,7 +1028,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>57.75</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>104</report-id>
@@ -1038,7 +1038,7 @@
     <retail-price>32.25</retail-price>
     <wholesale-price>20.97</wholesale-price>
     <total-sum>322.50</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>105</report-id>
@@ -1048,7 +1048,7 @@
     <retail-price>138.17</retail-price>
     <wholesale-price>89.81</wholesale-price>
     <total-sum>1167.53</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>106</report-id>
@@ -1058,7 +1058,7 @@
     <retail-price>138.17</retail-price>
     <wholesale-price>89.81</wholesale-price>
     <total-sum>1105.36</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>107</report-id>
@@ -1068,7 +1068,7 @@
     <retail-price>18.67</retail-price>
     <wholesale-price>12.13</wholesale-price>
     <total-sum>18.67</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>108</report-id>
@@ -1078,7 +1078,7 @@
     <retail-price>12.92</retail-price>
     <wholesale-price>8.40</wholesale-price>
     <total-sum>25.84</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>109</report-id>
@@ -1088,7 +1088,7 @@
     <retail-price>115.00</retail-price>
     <wholesale-price>74.75</wholesale-price>
     <total-sum>920.00</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>110</report-id>
@@ -1098,7 +1098,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>208.80</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>111</report-id>
@@ -1108,7 +1108,7 @@
     <retail-price>10.17</retail-price>
     <wholesale-price>7.12</wholesale-price>
     <total-sum>30.51</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>112</report-id>
@@ -1118,7 +1118,7 @@
     <retail-price>15.75</retail-price>
     <wholesale-price>11.03</wholesale-price>
     <total-sum>154.42</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>113</report-id>
@@ -1128,7 +1128,7 @@
     <retail-price>16.08</retail-price>
     <wholesale-price>11.26</wholesale-price>
     <total-sum>180.16</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>114</report-id>
@@ -1138,7 +1138,7 @@
     <retail-price>10.17</retail-price>
     <wholesale-price>6.61</wholesale-price>
     <total-sum>81.36</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>115</report-id>
@@ -1148,7 +1148,7 @@
     <retail-price>8.67</retail-price>
     <wholesale-price>6.07</wholesale-price>
     <total-sum>84.98</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>116</report-id>
@@ -1158,7 +1158,7 @@
     <retail-price>19.00</retail-price>
     <wholesale-price>12.35</wholesale-price>
     <total-sum>57.00</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>117</report-id>
@@ -1168,7 +1168,7 @@
     <retail-price>94.00</retail-price>
     <wholesale-price>65.74</wholesale-price>
     <total-sum>376.00</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>118</report-id>
@@ -1178,7 +1178,7 @@
     <retail-price>69.25</retail-price>
     <wholesale-price>48.48</wholesale-price>
     <total-sum>872.64</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>119</report-id>
@@ -1188,7 +1188,7 @@
     <retail-price>18.92</retail-price>
     <wholesale-price>13.25</wholesale-price>
     <total-sum>94.60</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>120</report-id>
@@ -1198,7 +1198,7 @@
     <retail-price>23.00</retail-price>
     <wholesale-price>16.08</wholesale-price>
     <total-sum>225.12</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>121</report-id>
@@ -1208,7 +1208,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>44.76</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
     <report-id>122</report-id>
@@ -1218,7 +1218,7 @@
     <retail-price>32.83</retail-price>
     <wholesale-price>22.98</wholesale-price>
     <total-sum>65.66</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>123</report-id>
@@ -1228,7 +1228,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>62.25</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>124</report-id>
@@ -1238,7 +1238,7 @@
     <retail-price>23.25</retail-price>
     <wholesale-price>16.28</wholesale-price>
     <total-sum>162.75</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>125</report-id>
@@ -1248,7 +1248,7 @@
     <retail-price>6.25</retail-price>
     <wholesale-price>4.38</wholesale-price>
     <total-sum>6.25</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>126</report-id>
@@ -1258,7 +1258,7 @@
     <retail-price>7.42</retail-price>
     <wholesale-price>5.19</wholesale-price>
     <total-sum>88.23</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>127</report-id>
@@ -1268,7 +1268,7 @@
     <retail-price>17.58</retail-price>
     <wholesale-price>12.31</wholesale-price>
     <total-sum>196.96</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>128</report-id>
@@ -1278,7 +1278,7 @@
     <retail-price>16.58</retail-price>
     <wholesale-price>11.61</wholesale-price>
     <total-sum>162.54</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>129</report-id>
@@ -1288,7 +1288,7 @@
     <retail-price>9.83</retail-price>
     <wholesale-price>6.88</wholesale-price>
     <total-sum>89.44</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>130</report-id>
@@ -1298,7 +1298,7 @@
     <retail-price>55.92</retail-price>
     <wholesale-price>39.14</wholesale-price>
     <total-sum>469.68</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>131</report-id>
@@ -1308,7 +1308,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>29.84</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>132</report-id>
@@ -1318,7 +1318,7 @@
     <retail-price>33.58</retail-price>
     <wholesale-price>23.51</wholesale-price>
     <total-sum>352.65</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>133</report-id>
@@ -1328,7 +1328,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>74.52</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>134</report-id>
@@ -1338,7 +1338,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>175.50</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>135</report-id>
@@ -1348,7 +1348,7 @@
     <retail-price>719.00</retail-price>
     <wholesale-price>574.59</wholesale-price>
     <total-sum>6320.49</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>136</report-id>
@@ -1358,7 +1358,7 @@
     <retail-price>6.17</retail-price>
     <wholesale-price>4.32</wholesale-price>
     <total-sum>56.16</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
     <report-id>137</report-id>
@@ -1368,7 +1368,7 @@
     <retail-price>7.33</retail-price>
     <wholesale-price>5.13</wholesale-price>
     <total-sum>102.60</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>138</report-id>
@@ -1378,7 +1378,7 @@
     <retail-price>17.42</retail-price>
     <wholesale-price>12.54</wholesale-price>
     <total-sum>137.94</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>139</report-id>
@@ -1388,7 +1388,7 @@
     <retail-price>11.33</retail-price>
     <wholesale-price>7.93</wholesale-price>
     <total-sum>45.32</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>140</report-id>
@@ -1398,7 +1398,7 @@
     <retail-price>26.58</retail-price>
     <wholesale-price>18.56</wholesale-price>
     <total-sum>241.28</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>141</report-id>
@@ -1408,7 +1408,7 @@
     <retail-price>52.25</retail-price>
     <wholesale-price>36.51</wholesale-price>
     <total-sum>52.25</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>142</report-id>
@@ -1418,7 +1418,7 @@
     <retail-price>7.17</retail-price>
     <wholesale-price>5.02</wholesale-price>
     <total-sum>80.32</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>143</report-id>
@@ -1428,7 +1428,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.78</wholesale-price>
     <total-sum>230.04</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>144</report-id>
@@ -1438,7 +1438,7 @@
     <retail-price>6.92</retail-price>
     <wholesale-price>4.84</wholesale-price>
     <total-sum>67.76</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>145</report-id>
@@ -1448,7 +1448,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>69.36</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>146</report-id>
@@ -1458,7 +1458,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>9.70</wholesale-price>
     <total-sum>74.60</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>147</report-id>
@@ -1468,7 +1468,7 @@
     <retail-price>57.50</retail-price>
     <wholesale-price>37.38</wholesale-price>
     <total-sum>57.50</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>148</report-id>
@@ -1478,7 +1478,7 @@
     <retail-price>27.83</retail-price>
     <wholesale-price>18.09</wholesale-price>
     <total-sum>343.71</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>149</report-id>
@@ -1488,7 +1488,7 @@
     <retail-price>35.50</retail-price>
     <wholesale-price>23.08</wholesale-price>
     <total-sum>253.88</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>150</report-id>
@@ -1498,7 +1498,7 @@
     <retail-price>44.58</retail-price>
     <wholesale-price>28.98</wholesale-price>
     <total-sum>434.70</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>151</report-id>
@@ -1508,7 +1508,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>107.50</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>152</report-id>
@@ -1518,7 +1518,7 @@
     <retail-price>47.42</retail-price>
     <wholesale-price>33.19</wholesale-price>
     <total-sum>630.61</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>153</report-id>
@@ -1528,7 +1528,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>14.92</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>154</report-id>
@@ -1538,7 +1538,7 @@
     <retail-price>10.08</retail-price>
     <wholesale-price>7.06</wholesale-price>
     <total-sum>40.32</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>155</report-id>
@@ -1548,7 +1548,7 @@
     <retail-price>14.75</retail-price>
     <wholesale-price>10.33</wholesale-price>
     <total-sum>144.62</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>156</report-id>
@@ -1558,7 +1558,7 @@
     <retail-price>10.08</retail-price>
     <wholesale-price>7.06</wholesale-price>
     <total-sum>134.14</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>157</report-id>
@@ -1568,7 +1568,7 @@
     <retail-price>35.75</retail-price>
     <wholesale-price>25.03</wholesale-price>
     <total-sum>500.60</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
     <report-id>158</report-id>
@@ -1578,7 +1578,7 @@
     <retail-price>199.17</retail-price>
     <wholesale-price>139.42</wholesale-price>
     <total-sum>995.85</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>159</report-id>
@@ -1588,7 +1588,7 @@
     <retail-price>39.83</retail-price>
     <wholesale-price>25.89</wholesale-price>
     <total-sum>358.47</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>160</report-id>
@@ -1598,7 +1598,7 @@
     <retail-price>65.08</retail-price>
     <wholesale-price>42.30</wholesale-price>
     <total-sum>803.70</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>161</report-id>
@@ -1608,7 +1608,7 @@
     <retail-price>59.25</retail-price>
     <wholesale-price>38.52</wholesale-price>
     <total-sum>355.50</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>162</report-id>
@@ -1618,7 +1618,7 @@
     <retail-price>60.92</retail-price>
     <wholesale-price>39.60</wholesale-price>
     <total-sum>426.44</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>163</report-id>
@@ -1628,7 +1628,7 @@
     <retail-price>40.17</retail-price>
     <wholesale-price>26.11</wholesale-price>
     <total-sum>469.98</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>164</report-id>
@@ -1638,7 +1638,7 @@
     <retail-price>101.83</retail-price>
     <wholesale-price>66.19</wholesale-price>
     <total-sum>794.28</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>165</report-id>
@@ -1648,7 +1648,7 @@
     <retail-price>16.75</retail-price>
     <wholesale-price>10.89</wholesale-price>
     <total-sum>67.00</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>166</report-id>
@@ -1658,7 +1658,7 @@
     <retail-price>37.42</retail-price>
     <wholesale-price>26.19</wholesale-price>
     <total-sum>112.26</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>167</report-id>
@@ -1668,7 +1668,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.10</wholesale-price>
     <total-sum>121.50</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>168</report-id>
@@ -1678,7 +1678,7 @@
     <retail-price>15.67</retail-price>
     <wholesale-price>10.93</wholesale-price>
     <total-sum>142.09</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>169</report-id>
@@ -1688,7 +1688,7 @@
     <retail-price>81.08</retail-price>
     <wholesale-price>56.76</wholesale-price>
     <total-sum>737.88</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>170</report-id>
@@ -1698,7 +1698,7 @@
     <retail-price>52.33</retail-price>
     <wholesale-price>34.02</wholesale-price>
     <total-sum>470.97</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>171</report-id>
@@ -1708,7 +1708,7 @@
     <retail-price>50.42</retail-price>
     <wholesale-price>35.29</wholesale-price>
     <total-sum>529.35</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>172</report-id>
@@ -1718,7 +1718,7 @@
     <retail-price>50.42</retail-price>
     <wholesale-price>35.29</wholesale-price>
     <total-sum>705.80</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>173</report-id>
@@ -1728,7 +1728,7 @@
     <retail-price>334.08</retail-price>
     <wholesale-price>233.64</wholesale-price>
     <total-sum>4205.52</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>174</report-id>
@@ -1738,7 +1738,7 @@
     <retail-price>3.83</retail-price>
     <wholesale-price>2.69</wholesale-price>
     <total-sum>11.49</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>175</report-id>
@@ -1748,7 +1748,7 @@
     <retail-price>3.83</retail-price>
     <wholesale-price>2.69</wholesale-price>
     <total-sum>53.80</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>176</report-id>
@@ -1758,7 +1758,7 @@
     <retail-price>13.00</retail-price>
     <wholesale-price>9.11</wholesale-price>
     <total-sum>127.54</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>177</report-id>
@@ -1768,7 +1768,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>29.84</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>178</report-id>
@@ -1778,7 +1778,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>163.36</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>179</report-id>
@@ -1788,7 +1788,7 @@
     <retail-price>24.50</retail-price>
     <wholesale-price>17.15</wholesale-price>
     <total-sum>49.00</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>180</report-id>
@@ -1798,7 +1798,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>150.15</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>181</report-id>
@@ -1808,7 +1808,7 @@
     <retail-price>76.58</retail-price>
     <wholesale-price>53.61</wholesale-price>
     <total-sum>964.98</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>182</report-id>
@@ -1818,7 +1818,7 @@
     <retail-price>6.25</retail-price>
     <wholesale-price>4.38</wholesale-price>
     <total-sum>56.25</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>183</report-id>
@@ -1828,7 +1828,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>92.64</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>184</report-id>
@@ -1838,7 +1838,7 @@
     <retail-price>6.58</retail-price>
     <wholesale-price>4.61</wholesale-price>
     <total-sum>39.48</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>185</report-id>
@@ -1848,7 +1848,7 @@
     <retail-price>23.75</retail-price>
     <wholesale-price>16.63</wholesale-price>
     <total-sum>182.93</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>186</report-id>
@@ -1858,7 +1858,7 @@
     <retail-price>6.50</retail-price>
     <wholesale-price>4.54</wholesale-price>
     <total-sum>72.64</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>187</report-id>
@@ -1868,7 +1868,7 @@
     <retail-price>57.83</retail-price>
     <wholesale-price>43.34</wholesale-price>
     <total-sum>578.30</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>188</report-id>
@@ -1878,7 +1878,7 @@
     <retail-price>18.08</retail-price>
     <wholesale-price>12.66</wholesale-price>
     <total-sum>144.64</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>189</report-id>
@@ -1888,7 +1888,7 @@
     <retail-price>38.00</retail-price>
     <wholesale-price>26.58</wholesale-price>
     <total-sum>531.60</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>190</report-id>
@@ -1898,7 +1898,7 @@
     <retail-price>54.58</retail-price>
     <wholesale-price>38.15</wholesale-price>
     <total-sum>436.64</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>191</report-id>
@@ -1908,7 +1908,7 @@
     <retail-price>33.92</retail-price>
     <wholesale-price>23.73</wholesale-price>
     <total-sum>101.76</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>192</report-id>
@@ -1918,7 +1918,7 @@
     <retail-price>61.50</retail-price>
     <wholesale-price>39.98</wholesale-price>
     <total-sum>307.50</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>193</report-id>
@@ -1928,7 +1928,7 @@
     <retail-price>37.42</retail-price>
     <wholesale-price>26.19</wholesale-price>
     <total-sum>261.94</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>194</report-id>
@@ -1938,7 +1938,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>201.78</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>195</report-id>
@@ -1948,7 +1948,7 @@
     <retail-price>29.42</retail-price>
     <wholesale-price>20.59</wholesale-price>
     <total-sum>391.21</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>196</report-id>
@@ -1958,7 +1958,7 @@
     <retail-price>8.67</retail-price>
     <wholesale-price>6.07</wholesale-price>
     <total-sum>34.68</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>197</report-id>
@@ -1968,7 +1968,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>9.70</wholesale-price>
     <total-sum>74.60</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>198</report-id>
@@ -1978,7 +1978,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>108.12</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>199</report-id>
@@ -1988,7 +1988,7 @@
     <retail-price>46.00</retail-price>
     <wholesale-price>29.90</wholesale-price>
     <total-sum>598.00</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>200</report-id>
@@ -1998,7 +1998,7 @@
     <retail-price>44.58</retail-price>
     <wholesale-price>28.98</wholesale-price>
     <total-sum>44.58</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>201</report-id>
@@ -2008,7 +2008,7 @@
     <retail-price>14.50</retail-price>
     <wholesale-price>9.43</wholesale-price>
     <total-sum>103.73</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
     <report-id>202</report-id>
@@ -2018,7 +2018,7 @@
     <retail-price>165.83</retail-price>
     <wholesale-price>116.08</wholesale-price>
     <total-sum>2321.60</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>203</report-id>
@@ -2028,7 +2028,7 @@
     <retail-price>6.50</retail-price>
     <wholesale-price>4.55</wholesale-price>
     <total-sum>81.90</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>204</report-id>
@@ -2038,7 +2038,7 @@
     <retail-price>9.75</retail-price>
     <wholesale-price>6.83</wholesale-price>
     <total-sum>95.62</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>205</report-id>
@@ -2048,7 +2048,7 @@
     <retail-price>14.42</retail-price>
     <wholesale-price>10.09</wholesale-price>
     <total-sum>121.08</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>206</report-id>
@@ -2058,7 +2058,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>62.10</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>207</report-id>
@@ -2068,7 +2068,7 @@
     <retail-price>121.92</retail-price>
     <wholesale-price>79.25</wholesale-price>
     <total-sum>1585.00</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>208</report-id>
@@ -2078,7 +2078,7 @@
     <retail-price>46.00</retail-price>
     <wholesale-price>29.90</wholesale-price>
     <total-sum>388.70</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>209</report-id>
@@ -2088,7 +2088,7 @@
     <retail-price>146.17</retail-price>
     <wholesale-price>95.01</wholesale-price>
     <total-sum>877.02</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>210</report-id>
@@ -2098,7 +2098,7 @@
     <retail-price>43.83</retail-price>
     <wholesale-price>28.49</wholesale-price>
     <total-sum>455.84</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>211</report-id>
@@ -2108,7 +2108,7 @@
     <retail-price>65.83</retail-price>
     <wholesale-price>42.79</wholesale-price>
     <total-sum>684.64</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>212</report-id>
@@ -2118,7 +2118,7 @@
     <retail-price>19.00</retail-price>
     <wholesale-price>12.35</wholesale-price>
     <total-sum>190.00</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>213</report-id>
@@ -2128,7 +2128,7 @@
     <retail-price>35.50</retail-price>
     <wholesale-price>23.08</wholesale-price>
     <total-sum>276.96</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>214</report-id>
@@ -2138,7 +2138,7 @@
     <retail-price>27.83</retail-price>
     <wholesale-price>18.09</wholesale-price>
     <total-sum>271.35</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>215</report-id>
@@ -2148,7 +2148,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>72.64</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>216</report-id>
@@ -2158,7 +2158,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>20.75</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>217</report-id>
@@ -2168,7 +2168,7 @@
     <retail-price>49.92</retail-price>
     <wholesale-price>34.94</wholesale-price>
     <total-sum>663.86</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>218</report-id>
@@ -2178,7 +2178,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>109.82</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>219</report-id>
@@ -2188,7 +2188,7 @@
     <retail-price>15.75</retail-price>
     <wholesale-price>11.03</wholesale-price>
     <total-sum>165.45</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>220</report-id>
@@ -2198,7 +2198,7 @@
     <retail-price>3.83</retail-price>
     <wholesale-price>2.69</wholesale-price>
     <total-sum>34.97</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>221</report-id>
@@ -2208,7 +2208,7 @@
     <retail-price>11.25</retail-price>
     <wholesale-price>7.89</wholesale-price>
     <total-sum>157.80</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>222</report-id>
@@ -2218,7 +2218,7 @@
     <retail-price>15.42</retail-price>
     <wholesale-price>10.79</wholesale-price>
     <total-sum>77.10</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
     <report-id>223</report-id>
@@ -2228,7 +2228,7 @@
     <retail-price>4.08</retail-price>
     <wholesale-price>2.86</wholesale-price>
     <total-sum>36.72</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>224</report-id>
@@ -2238,7 +2238,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>204.20</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>225</report-id>
@@ -2248,7 +2248,7 @@
     <retail-price>9.83</retail-price>
     <wholesale-price>6.88</wholesale-price>
     <total-sum>88.47</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>226</report-id>
@@ -2258,7 +2258,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>116.64</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>227</report-id>
@@ -2268,7 +2268,7 @@
     <retail-price>33.58</retail-price>
     <wholesale-price>23.51</wholesale-price>
     <total-sum>134.32</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>228</report-id>
@@ -2278,7 +2278,7 @@
     <retail-price>33.58</retail-price>
     <wholesale-price>23.51</wholesale-price>
     <total-sum>399.67</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>229</report-id>
@@ -2288,7 +2288,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>245.70</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>230</report-id>
@@ -2298,7 +2298,7 @@
     <retail-price>9.42</retail-price>
     <wholesale-price>6.59</wholesale-price>
     <total-sum>84.78</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>231</report-id>
@@ -2308,7 +2308,7 @@
     <retail-price>24.50</retail-price>
     <wholesale-price>17.15</wholesale-price>
     <total-sum>240.10</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>232</report-id>
@@ -2318,7 +2318,7 @@
     <retail-price>9.42</retail-price>
     <wholesale-price>6.59</wholesale-price>
     <total-sum>18.84</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>233</report-id>
@@ -2328,7 +2328,7 @@
     <retail-price>21.42</retail-price>
     <wholesale-price>14.99</wholesale-price>
     <total-sum>149.94</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>234</report-id>
@@ -2338,7 +2338,7 @@
     <retail-price>50.58</retail-price>
     <wholesale-price>35.41</wholesale-price>
     <total-sum>101.16</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>235</report-id>
@@ -2348,7 +2348,7 @@
     <retail-price>23.25</retail-price>
     <wholesale-price>16.28</wholesale-price>
     <total-sum>209.25</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>236</report-id>
@@ -2358,7 +2358,7 @@
     <retail-price>29.08</retail-price>
     <wholesale-price>20.36</wholesale-price>
     <total-sum>325.76</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>237</report-id>
@@ -2368,7 +2368,7 @@
     <retail-price>37.42</retail-price>
     <wholesale-price>26.19</wholesale-price>
     <total-sum>392.85</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
     <report-id>238</report-id>
@@ -2378,7 +2378,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>105.42</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>239</report-id>
@@ -2388,7 +2388,7 @@
     <retail-price>6.33</retail-price>
     <wholesale-price>4.41</wholesale-price>
     <total-sum>57.33</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СТАРПЛАСТ" email="info@starplast.com" country-of-origin="Bulgaria">
     <report-id>240</report-id>
@@ -2398,7 +2398,7 @@
     <retail-price>23.67</retail-price>
     <wholesale-price>16.57</wholesale-price>
     <total-sum>165.69</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>241</report-id>
@@ -2408,7 +2408,7 @@
     <retail-price>6.50</retail-price>
     <wholesale-price>4.54</wholesale-price>
     <total-sum>52.00</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>242</report-id>
@@ -2418,7 +2418,7 @@
     <retail-price>21.83</retail-price>
     <wholesale-price>14.19</wholesale-price>
     <total-sum>184.47</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>243</report-id>
@@ -2428,7 +2428,7 @@
     <retail-price>28.25</retail-price>
     <wholesale-price>19.78</wholesale-price>
     <total-sum>169.50</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>244</report-id>
@@ -2438,7 +2438,7 @@
     <retail-price>37.25</retail-price>
     <wholesale-price>26.08</wholesale-price>
     <total-sum>372.50</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>245</report-id>
@@ -2448,7 +2448,7 @@
     <retail-price>6.33</retail-price>
     <wholesale-price>4.43</wholesale-price>
     <total-sum>88.60</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>246</report-id>
@@ -2458,7 +2458,7 @@
     <retail-price>6.83</retail-price>
     <wholesale-price>4.78</wholesale-price>
     <total-sum>57.36</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>247</report-id>
@@ -2468,7 +2468,7 @@
     <retail-price>14.00</retail-price>
     <wholesale-price>9.80</wholesale-price>
     <total-sum>112.00</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>248</report-id>
@@ -2478,7 +2478,7 @@
     <retail-price>14.00</retail-price>
     <wholesale-price>9.80</wholesale-price>
     <total-sum>140.00</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>249</report-id>
@@ -2488,7 +2488,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>276.07</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>250</report-id>
@@ -2498,7 +2498,7 @@
     <retail-price>53.75</retail-price>
     <wholesale-price>34.94</wholesale-price>
     <total-sum>593.98</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>251</report-id>
@@ -2508,7 +2508,7 @@
     <retail-price>17.42</retail-price>
     <wholesale-price>11.33</wholesale-price>
     <total-sum>226.60</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>252</report-id>
@@ -2518,7 +2518,7 @@
     <retail-price>0.83</retail-price>
     <wholesale-price>0.54</wholesale-price>
     <total-sum>7.02</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>253</report-id>
@@ -2528,7 +2528,7 @@
     <retail-price>55.67</retail-price>
     <wholesale-price>36.18</wholesale-price>
     <total-sum>723.60</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>254</report-id>
@@ -2538,7 +2538,7 @@
     <retail-price>46.00</retail-price>
     <wholesale-price>29.90</wholesale-price>
     <total-sum>184.00</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>255</report-id>
@@ -2548,7 +2548,7 @@
     <retail-price>34.42</retail-price>
     <wholesale-price>22.38</wholesale-price>
     <total-sum>172.10</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>256</report-id>
@@ -2558,7 +2558,7 @@
     <retail-price>13.75</retail-price>
     <wholesale-price>9.63</wholesale-price>
     <total-sum>105.93</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>257</report-id>
@@ -2568,7 +2568,7 @@
     <retail-price>10.08</retail-price>
     <wholesale-price>7.06</wholesale-price>
     <total-sum>50.40</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>258</report-id>
@@ -2578,7 +2578,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.78</wholesale-price>
     <total-sum>182.50</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>259</report-id>
@@ -2588,7 +2588,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.78</wholesale-price>
     <total-sum>153.36</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>260</report-id>
@@ -2598,7 +2598,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>34.74</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>261</report-id>
@@ -2608,7 +2608,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>34.74</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>262</report-id>
@@ -2618,7 +2618,7 @@
     <retail-price>14.08</retail-price>
     <wholesale-price>9.86</wholesale-price>
     <total-sum>140.80</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>263</report-id>
@@ -2628,7 +2628,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>266.73</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>264</report-id>
@@ -2638,7 +2638,7 @@
     <retail-price>9.17</retail-price>
     <wholesale-price>5.96</wholesale-price>
     <total-sum>65.56</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
     <report-id>265</report-id>
@@ -2648,7 +2648,7 @@
     <retail-price>82.50</retail-price>
     <wholesale-price>57.75</wholesale-price>
     <total-sum>750.75</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>266</report-id>
@@ -2658,7 +2658,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.78</wholesale-price>
     <total-sum>217.26</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>267</report-id>
@@ -2668,7 +2668,7 @@
     <retail-price>10.25</retail-price>
     <wholesale-price>7.18</wholesale-price>
     <total-sum>100.52</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>268</report-id>
@@ -2678,7 +2678,7 @@
     <retail-price>45.33</retail-price>
     <wholesale-price>29.47</wholesale-price>
     <total-sum>324.17</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>269</report-id>
@@ -2688,7 +2688,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>74.60</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>270</report-id>
@@ -2698,7 +2698,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>41.50</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>271</report-id>
@@ -2708,7 +2708,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>46.32</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>272</report-id>
@@ -2718,7 +2718,7 @@
     <retail-price>58.17</retail-price>
     <wholesale-price>40.72</wholesale-price>
     <total-sum>465.36</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>273</report-id>
@@ -2728,7 +2728,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>251.04</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>274</report-id>
@@ -2738,7 +2738,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>97.89</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>275</report-id>
@@ -2748,7 +2748,7 @@
     <retail-price>11.42</retail-price>
     <wholesale-price>7.97</wholesale-price>
     <total-sum>103.61</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>276</report-id>
@@ -2758,7 +2758,7 @@
     <retail-price>13.00</retail-price>
     <wholesale-price>9.11</wholesale-price>
     <total-sum>173.09</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>277</report-id>
@@ -2768,7 +2768,7 @@
     <retail-price>28.17</retail-price>
     <wholesale-price>19.69</wholesale-price>
     <total-sum>216.59</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>278</report-id>
@@ -2778,7 +2778,7 @@
     <retail-price>45.75</retail-price>
     <wholesale-price>32.03</wholesale-price>
     <total-sum>183.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>279</report-id>
@@ -2788,7 +2788,7 @@
     <retail-price>15.25</retail-price>
     <wholesale-price>10.68</wholesale-price>
     <total-sum>170.88</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
     <report-id>280</report-id>
@@ -2798,7 +2798,7 @@
     <retail-price>4.99</retail-price>
     <wholesale-price>3.49</wholesale-price>
     <total-sum>59.33</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>281</report-id>
@@ -2808,7 +2808,7 @@
     <retail-price>25.67</retail-price>
     <wholesale-price>17.97</wholesale-price>
     <total-sum>197.67</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>282</report-id>
@@ -2818,7 +2818,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>177.45</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>283</report-id>
@@ -2828,7 +2828,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>191.10</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>284</report-id>
@@ -2838,7 +2838,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>145.80</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>285</report-id>
@@ -2848,7 +2848,7 @@
     <retail-price>37.42</retail-price>
     <wholesale-price>26.19</wholesale-price>
     <total-sum>187.10</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>286</report-id>
@@ -2858,7 +2858,7 @@
     <retail-price>56.25</retail-price>
     <wholesale-price>39.38</wholesale-price>
     <total-sum>590.70</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
     <report-id>287</report-id>
@@ -2868,7 +2868,7 @@
     <retail-price>14.08</retail-price>
     <wholesale-price>9.86</wholesale-price>
     <total-sum>126.72</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
     <report-id>288</report-id>
@@ -2878,7 +2878,7 @@
     <retail-price>31.25</retail-price>
     <wholesale-price>21.88</wholesale-price>
     <total-sum>250.00</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>289</report-id>
@@ -2888,7 +2888,7 @@
     <retail-price>15.33</retail-price>
     <wholesale-price>10.72</wholesale-price>
     <total-sum>91.98</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>290</report-id>
@@ -2898,7 +2898,7 @@
     <retail-price>3.83</retail-price>
     <wholesale-price>2.69</wholesale-price>
     <total-sum>40.35</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>291</report-id>
@@ -2908,7 +2908,7 @@
     <retail-price>9.00</retail-price>
     <wholesale-price>6.42</wholesale-price>
     <total-sum>121.98</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
     <report-id>292</report-id>
@@ -2918,7 +2918,7 @@
     <retail-price>5.75</retail-price>
     <wholesale-price>4.03</wholesale-price>
     <total-sum>11.50</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>293</report-id>
@@ -2928,7 +2928,7 @@
     <retail-price>2.00</retail-price>
     <wholesale-price>1.40</wholesale-price>
     <total-sum>14.00</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>294</report-id>
@@ -2938,7 +2938,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>59.68</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>295</report-id>
@@ -2948,7 +2948,7 @@
     <retail-price>23.92</retail-price>
     <wholesale-price>15.55</wholesale-price>
     <total-sum>23.92</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>296</report-id>
@@ -2958,7 +2958,7 @@
     <retail-price>11.25</retail-price>
     <wholesale-price>7.32</wholesale-price>
     <total-sum>22.50</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>297</report-id>
@@ -2968,7 +2968,7 @@
     <retail-price>14.75</retail-price>
     <wholesale-price>10.33</wholesale-price>
     <total-sum>73.75</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>298</report-id>
@@ -2978,7 +2978,7 @@
     <retail-price>17.42</retail-price>
     <wholesale-price>12.19</wholesale-price>
     <total-sum>219.42</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>299</report-id>
@@ -2988,7 +2988,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>74.25</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>300</report-id>
@@ -2998,7 +2998,7 @@
     <retail-price>47.42</retail-price>
     <wholesale-price>33.19</wholesale-price>
     <total-sum>426.78</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Smart-Trike" email="sales@smart-trike.com" country-of-origin="China">
     <report-id>301</report-id>
@@ -3008,7 +3008,7 @@
     <retail-price>199.17</retail-price>
     <wholesale-price>139.42</wholesale-price>
     <total-sum>2509.56</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>302</report-id>
@@ -3018,7 +3018,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>33.00</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>303</report-id>
@@ -3028,7 +3028,7 @@
     <retail-price>8.92</retail-price>
     <wholesale-price>6.24</wholesale-price>
     <total-sum>35.68</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>304</report-id>
@@ -3038,7 +3038,7 @@
     <retail-price>76.33</retail-price>
     <wholesale-price>49.62</wholesale-price>
     <total-sum>228.99</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>305</report-id>
@@ -3048,7 +3048,7 @@
     <retail-price>23.83</retail-price>
     <wholesale-price>15.49</wholesale-price>
     <total-sum>170.39</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>306</report-id>
@@ -3058,7 +3058,7 @@
     <retail-price>66.83</retail-price>
     <wholesale-price>36.61</wholesale-price>
     <total-sum>402.71</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>307</report-id>
@@ -3068,7 +3068,7 @@
     <retail-price>19.17</retail-price>
     <wholesale-price>12.46</wholesale-price>
     <total-sum>137.06</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>308</report-id>
@@ -3078,7 +3078,7 @@
     <retail-price>10.25</retail-price>
     <wholesale-price>7.18</wholesale-price>
     <total-sum>61.50</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>309</report-id>
@@ -3088,7 +3088,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>166.00</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>310</report-id>
@@ -3098,7 +3098,7 @@
     <retail-price>65.33</retail-price>
     <wholesale-price>45.73</wholesale-price>
     <total-sum>653.30</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>311</report-id>
@@ -3108,7 +3108,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>62.25</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>312</report-id>
@@ -3118,7 +3118,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>127.20</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>313</report-id>
@@ -3128,7 +3128,7 @@
     <retail-price>24.92</retail-price>
     <wholesale-price>17.44</wholesale-price>
     <total-sum>74.76</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
     <report-id>314</report-id>
@@ -3138,7 +3138,7 @@
     <retail-price>5.75</retail-price>
     <wholesale-price>4.03</wholesale-price>
     <total-sum>64.48</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
     <report-id>315</report-id>
@@ -3148,7 +3148,7 @@
     <retail-price>6.25</retail-price>
     <wholesale-price>4.38</wholesale-price>
     <total-sum>37.50</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>316</report-id>
@@ -3158,7 +3158,7 @@
     <retail-price>6.50</retail-price>
     <wholesale-price>4.54</wholesale-price>
     <total-sum>26.00</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>317</report-id>
@@ -3168,7 +3168,7 @@
     <retail-price>10.25</retail-price>
     <wholesale-price>7.18</wholesale-price>
     <total-sum>86.16</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>318</report-id>
@@ -3178,7 +3178,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>145.98</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>319</report-id>
@@ -3188,7 +3188,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>147.73</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>320</report-id>
@@ -3198,7 +3198,7 @@
     <retail-price>14.42</retail-price>
     <wholesale-price>10.09</wholesale-price>
     <total-sum>121.08</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>321</report-id>
@@ -3208,7 +3208,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>116.64</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>322</report-id>
@@ -3218,7 +3218,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>177.45</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>323</report-id>
@@ -3228,7 +3228,7 @@
     <retail-price>7.25</retail-price>
     <wholesale-price>5.08</wholesale-price>
     <total-sum>36.25</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>324</report-id>
@@ -3238,7 +3238,7 @@
     <retail-price>49.58</retail-price>
     <wholesale-price>34.71</wholesale-price>
     <total-sum>446.22</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>325</report-id>
@@ -3248,7 +3248,7 @@
     <retail-price>25.17</retail-price>
     <wholesale-price>17.62</wholesale-price>
     <total-sum>246.68</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>326</report-id>
@@ -3258,7 +3258,7 @@
     <retail-price>7.42</retail-price>
     <wholesale-price>5.19</wholesale-price>
     <total-sum>59.36</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>327</report-id>
@@ -3268,7 +3268,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>177.48</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>328</report-id>
@@ -3278,7 +3278,7 @@
     <retail-price>24.50</retail-price>
     <wholesale-price>17.15</wholesale-price>
     <total-sum>205.80</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>329</report-id>
@@ -3288,7 +3288,7 @@
     <retail-price>32.17</retail-price>
     <wholesale-price>22.52</wholesale-price>
     <total-sum>315.28</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>330</report-id>
@@ -3298,7 +3298,7 @@
     <retail-price>24.50</retail-price>
     <wholesale-price>17.15</wholesale-price>
     <total-sum>325.85</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>331</report-id>
@@ -3308,7 +3308,7 @@
     <retail-price>47.00</retail-price>
     <wholesale-price>32.90</wholesale-price>
     <total-sum>47.00</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>332</report-id>
@@ -3318,7 +3318,7 @@
     <retail-price>7.25</retail-price>
     <wholesale-price>5.08</wholesale-price>
     <total-sum>71.12</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>333</report-id>
@@ -3328,7 +3328,7 @@
     <retail-price>7.42</retail-price>
     <wholesale-price>5.19</wholesale-price>
     <total-sum>14.84</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>334</report-id>
@@ -3338,7 +3338,7 @@
     <retail-price>129.67</retail-price>
     <wholesale-price>90.77</wholesale-price>
     <total-sum>1167.03</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>335</report-id>
@@ -3348,7 +3348,7 @@
     <retail-price>24.08</retail-price>
     <wholesale-price>16.86</wholesale-price>
     <total-sum>219.18</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>336</report-id>
@@ -3358,7 +3358,7 @@
     <retail-price>9.83</retail-price>
     <wholesale-price>6.88</wholesale-price>
     <total-sum>19.66</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>337</report-id>
@@ -3368,7 +3368,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>204.20</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>338</report-id>
@@ -3378,7 +3378,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>99.36</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>339</report-id>
@@ -3388,7 +3388,7 @@
     <retail-price>7.83</retail-price>
     <wholesale-price>5.48</wholesale-price>
     <total-sum>76.72</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>340</report-id>
@@ -3398,7 +3398,7 @@
     <retail-price>47.42</retail-price>
     <wholesale-price>33.19</wholesale-price>
     <total-sum>94.84</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>341</report-id>
@@ -3408,7 +3408,7 @@
     <retail-price>18.92</retail-price>
     <wholesale-price>13.25</wholesale-price>
     <total-sum>75.68</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>342</report-id>
@@ -3418,7 +3418,7 @@
     <retail-price>16.58</retail-price>
     <wholesale-price>11.67</wholesale-price>
     <total-sum>198.39</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>343</report-id>
@@ -3428,7 +3428,7 @@
     <retail-price>50.75</retail-price>
     <wholesale-price>35.59</wholesale-price>
     <total-sum>462.67</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
     <report-id>344</report-id>
@@ -3438,7 +3438,7 @@
     <retail-price>5.75</retail-price>
     <wholesale-price>4.03</wholesale-price>
     <total-sum>48.36</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>345</report-id>
@@ -3448,7 +3448,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>16.50</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>346</report-id>
@@ -3458,7 +3458,7 @@
     <retail-price>19.92</retail-price>
     <wholesale-price>14.07</wholesale-price>
     <total-sum>267.33</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>347</report-id>
@@ -3468,7 +3468,7 @@
     <retail-price>38.75</retail-price>
     <wholesale-price>27.13</wholesale-price>
     <total-sum>434.08</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>348</report-id>
@@ -3478,7 +3478,7 @@
     <retail-price>15.75</retail-price>
     <wholesale-price>11.03</wholesale-price>
     <total-sum>143.39</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>349</report-id>
@@ -3488,7 +3488,7 @@
     <retail-price>24.92</retail-price>
     <wholesale-price>17.44</wholesale-price>
     <total-sum>191.84</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>350</report-id>
@@ -3498,7 +3498,7 @@
     <retail-price>29.75</retail-price>
     <wholesale-price>20.83</wholesale-price>
     <total-sum>312.45</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>351</report-id>
@@ -3508,7 +3508,7 @@
     <retail-price>54.92</retail-price>
     <wholesale-price>38.44</wholesale-price>
     <total-sum>164.76</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>352</report-id>
@@ -3518,7 +3518,7 @@
     <retail-price>27.08</retail-price>
     <wholesale-price>17.60</wholesale-price>
     <total-sum>334.40</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>353</report-id>
@@ -3528,7 +3528,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>62.25</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>354</report-id>
@@ -3538,7 +3538,7 @@
     <retail-price>53.75</retail-price>
     <wholesale-price>34.94</wholesale-price>
     <total-sum>430.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>355</report-id>
@@ -3548,7 +3548,7 @@
     <retail-price>24.92</retail-price>
     <wholesale-price>17.44</wholesale-price>
     <total-sum>279.04</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>356</report-id>
@@ -3558,7 +3558,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>166.00</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>357</report-id>
@@ -3568,7 +3568,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>121.66</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>358</report-id>
@@ -3578,7 +3578,7 @@
     <retail-price>12.33</retail-price>
     <wholesale-price>8.63</wholesale-price>
     <total-sum>98.64</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>359</report-id>
@@ -3588,7 +3588,7 @@
     <retail-price>30.67</retail-price>
     <wholesale-price>21.47</wholesale-price>
     <total-sum>214.69</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>360</report-id>
@@ -3598,7 +3598,7 @@
     <retail-price>20.17</retail-price>
     <wholesale-price>14.12</wholesale-price>
     <total-sum>181.53</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>361</report-id>
@@ -3608,7 +3608,7 @@
     <retail-price>39.83</retail-price>
     <wholesale-price>25.89</wholesale-price>
     <total-sum>388.35</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>362</report-id>
@@ -3618,7 +3618,7 @@
     <retail-price>170.67</retail-price>
     <wholesale-price>110.93</wholesale-price>
     <total-sum>1442.09</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>363</report-id>
@@ -3628,7 +3628,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>154.09</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>364</report-id>
@@ -3638,7 +3638,7 @@
     <retail-price>14.08</retail-price>
     <wholesale-price>9.86</wholesale-price>
     <total-sum>28.16</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>365</report-id>
@@ -3648,7 +3648,7 @@
     <retail-price>22.25</retail-price>
     <wholesale-price>14.47</wholesale-price>
     <total-sum>202.58</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>366</report-id>
@@ -3658,7 +3658,7 @@
     <retail-price>59.25</retail-price>
     <wholesale-price>38.52</wholesale-price>
     <total-sum>500.76</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>367</report-id>
@@ -3668,7 +3668,7 @@
     <retail-price>14.83</retail-price>
     <wholesale-price>9.64</wholesale-price>
     <total-sum>14.83</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>368</report-id>
@@ -3678,7 +3678,7 @@
     <retail-price>47.33</retail-price>
     <wholesale-price>30.77</wholesale-price>
     <total-sum>236.65</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>369</report-id>
@@ -3688,7 +3688,7 @@
     <retail-price>44.58</retail-price>
     <wholesale-price>28.98</wholesale-price>
     <total-sum>405.72</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>370</report-id>
@@ -3698,7 +3698,7 @@
     <retail-price>50.08</retail-price>
     <wholesale-price>32.55</wholesale-price>
     <total-sum>250.40</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>371</report-id>
@@ -3708,7 +3708,7 @@
     <retail-price>18.67</retail-price>
     <wholesale-price>12.13</wholesale-price>
     <total-sum>242.60</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>372</report-id>
@@ -3718,7 +3718,7 @@
     <retail-price>12.92</retail-price>
     <wholesale-price>8.40</wholesale-price>
     <total-sum>168.00</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>373</report-id>
@@ -3728,7 +3728,7 @@
     <retail-price>22.58</retail-price>
     <wholesale-price>14.68</wholesale-price>
     <total-sum>203.22</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>374</report-id>
@@ -3738,7 +3738,7 @@
     <retail-price>17.25</retail-price>
     <wholesale-price>11.22</wholesale-price>
     <total-sum>224.40</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>375</report-id>
@@ -3748,7 +3748,7 @@
     <retail-price>28.08</retail-price>
     <wholesale-price>18.25</wholesale-price>
     <total-sum>255.50</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>376</report-id>
@@ -3758,7 +3758,7 @@
     <retail-price>29.08</retail-price>
     <wholesale-price>18.90</wholesale-price>
     <total-sum>378.00</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>377</report-id>
@@ -3768,7 +3768,7 @@
     <retail-price>118.50</retail-price>
     <wholesale-price>77.03</wholesale-price>
     <total-sum>118.50</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>378</report-id>
@@ -3778,7 +3778,7 @@
     <retail-price>9.75</retail-price>
     <wholesale-price>6.83</wholesale-price>
     <total-sum>95.62</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>379</report-id>
@@ -3788,7 +3788,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>187.92</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>380</report-id>
@@ -3798,7 +3798,7 @@
     <retail-price>7.42</retail-price>
     <wholesale-price>4.83</wholesale-price>
     <total-sum>59.36</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>381</report-id>
@@ -3808,7 +3808,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>6.99</wholesale-price>
     <total-sum>118.83</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>382</report-id>
@@ -3818,7 +3818,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>121.65</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СЛИНГЪРС" email="sales@toysrus.ca" country-of-origin="Canada">
     <report-id>383</report-id>
@@ -3828,7 +3828,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>81.72</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>384</report-id>
@@ -3838,7 +3838,7 @@
     <retail-price>160.50</retail-price>
     <wholesale-price>128.24</wholesale-price>
     <total-sum>2564.80</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>385</report-id>
@@ -3848,7 +3848,7 @@
     <retail-price>274.92</retail-price>
     <wholesale-price>194.12</wholesale-price>
     <total-sum>2474.28</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>386</report-id>
@@ -3858,7 +3858,7 @@
     <retail-price>2.83</retail-price>
     <wholesale-price>1.98</wholesale-price>
     <total-sum>35.64</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
     <report-id>387</report-id>
@@ -3868,7 +3868,7 @@
     <retail-price>52.00</retail-price>
     <wholesale-price>36.40</wholesale-price>
     <total-sum>618.80</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЛАЛАЛУПСИ" email="sales@lalaloopsy.com" country-of-origin="Canada">
     <report-id>388</report-id>
@@ -3878,7 +3878,7 @@
     <retail-price>7.75</retail-price>
     <wholesale-price>5.43</wholesale-price>
     <total-sum>77.50</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>389</report-id>
@@ -3888,7 +3888,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>86.94</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>390</report-id>
@@ -3898,7 +3898,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>156.42</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>391</report-id>
@@ -3908,7 +3908,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>112.31</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>392</report-id>
@@ -3918,7 +3918,7 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>62.10</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>393</report-id>
@@ -3928,7 +3928,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>92.64</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="MGA Entertainment" email="sales@mgae.com" country-of-origin="Canada">
     <report-id>394</report-id>
@@ -3938,7 +3938,7 @@
     <retail-price>18.08</retail-price>
     <wholesale-price>12.66</wholesale-price>
     <total-sum>240.54</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>395</report-id>
@@ -3948,7 +3948,7 @@
     <retail-price>15.33</retail-price>
     <wholesale-price>9.11</wholesale-price>
     <total-sum>154.87</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>396</report-id>
@@ -3958,7 +3958,7 @@
     <retail-price>38.25</retail-price>
     <wholesale-price>26.80</wholesale-price>
     <total-sum>402.00</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>397</report-id>
@@ -3968,7 +3968,7 @@
     <retail-price>4.83</retail-price>
     <wholesale-price>3.35</wholesale-price>
     <total-sum>43.47</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>398</report-id>
@@ -3978,7 +3978,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>204.75</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>399</report-id>
@@ -3988,7 +3988,7 @@
     <retail-price>26.17</retail-price>
     <wholesale-price>18.32</wholesale-price>
     <total-sum>26.17</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>400</report-id>
@@ -3998,7 +3998,7 @@
     <retail-price>25.17</retail-price>
     <wholesale-price>17.62</wholesale-price>
     <total-sum>201.36</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>401</report-id>
@@ -4008,7 +4008,7 @@
     <retail-price>8.25</retail-price>
     <wholesale-price>5.78</wholesale-price>
     <total-sum>92.48</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
     <report-id>402</report-id>
@@ -4018,7 +4018,7 @@
     <retail-price>23.67</retail-price>
     <wholesale-price>16.57</wholesale-price>
     <total-sum>182.27</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>403</report-id>
@@ -4028,7 +4028,7 @@
     <retail-price>29.92</retail-price>
     <wholesale-price>20.96</wholesale-price>
     <total-sum>230.56</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>404</report-id>
@@ -4038,7 +4038,7 @@
     <retail-price>81.08</retail-price>
     <wholesale-price>56.68</wholesale-price>
     <total-sum>324.32</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>405</report-id>
@@ -4048,7 +4048,7 @@
     <retail-price>117.75</retail-price>
     <wholesale-price>76.54</wholesale-price>
     <total-sum>117.75</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>406</report-id>
@@ -4058,7 +4058,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>9.70</wholesale-price>
     <total-sum>134.28</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>407</report-id>
@@ -4068,7 +4068,7 @@
     <retail-price>14.00</retail-price>
     <wholesale-price>9.80</wholesale-price>
     <total-sum>56.00</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>408</report-id>
@@ -4078,7 +4078,7 @@
     <retail-price>11.42</retail-price>
     <wholesale-price>7.99</wholesale-price>
     <total-sum>95.88</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>409</report-id>
@@ -4088,7 +4088,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>219.66</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>410</report-id>
@@ -4098,7 +4098,7 @@
     <retail-price>19.75</retail-price>
     <wholesale-price>13.83</wholesale-price>
     <total-sum>98.75</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>411</report-id>
@@ -4108,7 +4108,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>127.20</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>412</report-id>
@@ -4118,7 +4118,7 @@
     <retail-price>12.75</retail-price>
     <wholesale-price>8.93</wholesale-price>
     <total-sum>98.23</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>413</report-id>
@@ -4128,7 +4128,7 @@
     <retail-price>12.17</retail-price>
     <wholesale-price>8.52</wholesale-price>
     <total-sum>24.34</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>414</report-id>
@@ -4138,7 +4138,7 @@
     <retail-price>18.83</retail-price>
     <wholesale-price>12.24</wholesale-price>
     <total-sum>183.60</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>415</report-id>
@@ -4148,7 +4148,7 @@
     <retail-price>30.33</retail-price>
     <wholesale-price>19.72</wholesale-price>
     <total-sum>212.31</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>416</report-id>
@@ -4158,7 +4158,7 @@
     <retail-price>32.92</retail-price>
     <wholesale-price>21.40</wholesale-price>
     <total-sum>385.20</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>417</report-id>
@@ -4168,7 +4168,7 @@
     <retail-price>189.33</retail-price>
     <wholesale-price>123.07</wholesale-price>
     <total-sum>1135.98</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>418</report-id>
@@ -4178,7 +4178,7 @@
     <retail-price>243.92</retail-price>
     <wholesale-price>158.55</wholesale-price>
     <total-sum>1463.52</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>419</report-id>
@@ -4188,7 +4188,7 @@
     <retail-price>28.08</retail-price>
     <wholesale-price>18.25</wholesale-price>
     <total-sum>273.75</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>420</report-id>
@@ -4198,7 +4198,7 @@
     <retail-price>21.25</retail-price>
     <wholesale-price>13.82</wholesale-price>
     <total-sum>165.84</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>421</report-id>
@@ -4208,7 +4208,7 @@
     <retail-price>28.17</retail-price>
     <wholesale-price>18.31</wholesale-price>
     <total-sum>238.03</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>422</report-id>
@@ -4218,7 +4218,7 @@
     <retail-price>118.50</retail-price>
     <wholesale-price>77.03</wholesale-price>
     <total-sum>118.50</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>423</report-id>
@@ -4228,7 +4228,7 @@
     <retail-price>57.42</retail-price>
     <wholesale-price>37.33</wholesale-price>
     <total-sum>287.10</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>424</report-id>
@@ -4238,7 +4238,7 @@
     <retail-price>22.67</retail-price>
     <wholesale-price>14.73</wholesale-price>
     <total-sum>162.03</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>425</report-id>
@@ -4248,7 +4248,7 @@
     <retail-price>44.58</retail-price>
     <wholesale-price>28.98</wholesale-price>
     <total-sum>463.68</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>426</report-id>
@@ -4258,7 +4258,7 @@
     <retail-price>12.92</retail-price>
     <wholesale-price>9.04</wholesale-price>
     <total-sum>144.64</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>427</report-id>
@@ -4268,7 +4268,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>14.92</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>428</report-id>
@@ -4278,7 +4278,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>89.68</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>429</report-id>
@@ -4288,7 +4288,7 @@
     <retail-price>16.58</retail-price>
     <wholesale-price>11.61</wholesale-price>
     <total-sum>208.98</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>430</report-id>
@@ -4298,7 +4298,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>120.48</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>431</report-id>
@@ -4308,7 +4308,7 @@
     <retail-price>38.25</retail-price>
     <wholesale-price>24.87</wholesale-price>
     <total-sum>397.92</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>432</report-id>
@@ -4318,7 +4318,7 @@
     <retail-price>34.75</retail-price>
     <wholesale-price>22.59</wholesale-price>
     <total-sum>34.75</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>433</report-id>
@@ -4328,7 +4328,7 @@
     <retail-price>32.83</retail-price>
     <wholesale-price>22.98</wholesale-price>
     <total-sum>321.72</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>434</report-id>
@@ -4338,7 +4338,7 @@
     <retail-price>32.42</retail-price>
     <wholesale-price>22.69</wholesale-price>
     <total-sum>324.20</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>435</report-id>
@@ -4348,7 +4348,7 @@
     <retail-price>81.08</retail-price>
     <wholesale-price>56.76</wholesale-price>
     <total-sum>243.24</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>436</report-id>
@@ -4358,7 +4358,7 @@
     <retail-price>6.25</retail-price>
     <wholesale-price>4.38</wholesale-price>
     <total-sum>6.25</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>437</report-id>
@@ -4368,7 +4368,7 @@
     <retail-price>129.67</retail-price>
     <wholesale-price>90.77</wholesale-price>
     <total-sum>998.47</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>438</report-id>
@@ -4378,7 +4378,7 @@
     <retail-price>6.25</retail-price>
     <wholesale-price>4.38</wholesale-price>
     <total-sum>56.25</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>439</report-id>
@@ -4388,7 +4388,7 @@
     <retail-price>9.42</retail-price>
     <wholesale-price>6.59</wholesale-price>
     <total-sum>84.78</total-sum>
-    <order-date>2000-10-26T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>440</report-id>
@@ -4398,7 +4398,7 @@
     <retail-price>7.25</retail-price>
     <wholesale-price>5.08</wholesale-price>
     <total-sum>14.50</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>441</report-id>
@@ -4408,7 +4408,7 @@
     <retail-price>6.33</retail-price>
     <wholesale-price>4.41</wholesale-price>
     <total-sum>25.32</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>442</report-id>
@@ -4418,7 +4418,7 @@
     <retail-price>562.08</retail-price>
     <wholesale-price>449.24</wholesale-price>
     <total-sum>5390.88</total-sum>
-    <order-date>2002-06-03T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>443</report-id>
@@ -4428,7 +4428,7 @@
     <retail-price>57.50</retail-price>
     <wholesale-price>40.25</wholesale-price>
     <total-sum>345.00</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>444</report-id>
@@ -4438,7 +4438,7 @@
     <retail-price>42.92</retail-price>
     <wholesale-price>30.02</wholesale-price>
     <total-sum>42.92</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>445</report-id>
@@ -4448,7 +4448,7 @@
     <retail-price>29.92</retail-price>
     <wholesale-price>20.94</wholesale-price>
     <total-sum>179.52</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
     <report-id>446</report-id>
@@ -4458,7 +4458,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>135.72</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>447</report-id>
@@ -4468,7 +4468,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>142.94</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>448</report-id>
@@ -4478,7 +4478,7 @@
     <retail-price>19.50</retail-price>
     <wholesale-price>13.65</wholesale-price>
     <total-sum>204.75</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>449</report-id>
@@ -4488,7 +4488,7 @@
     <retail-price>23.25</retail-price>
     <wholesale-price>16.28</wholesale-price>
     <total-sum>227.92</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>450</report-id>
@@ -4498,7 +4498,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>204.20</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>451</report-id>
@@ -4508,7 +4508,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>89.21</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="СИНОСТАР" email="sales@sinostarasia.com" country-of-origin="China">
     <report-id>452</report-id>
@@ -4518,7 +4518,7 @@
     <retail-price>33.25</retail-price>
     <wholesale-price>23.28</wholesale-price>
     <total-sum>442.32</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="MGA Entertainment" email="sales@mgae.com" country-of-origin="Canada">
     <report-id>453</report-id>
@@ -4528,7 +4528,7 @@
     <retail-price>14.42</retail-price>
     <wholesale-price>10.09</wholesale-price>
     <total-sum>115.36</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>454</report-id>
@@ -4538,7 +4538,7 @@
     <retail-price>43.75</retail-price>
     <wholesale-price>30.57</wholesale-price>
     <total-sum>350.00</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>455</report-id>
@@ -4548,7 +4548,7 @@
     <retail-price>38.58</retail-price>
     <wholesale-price>26.95</wholesale-price>
     <total-sum>485.10</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="МОНДО" email="sales@mondotoys.com" country-of-origin="Italy">
     <report-id>456</report-id>
@@ -4558,7 +4558,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>167.04</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>457</report-id>
@@ -4568,7 +4568,7 @@
     <retail-price>9.42</retail-price>
     <wholesale-price>6.59</wholesale-price>
     <total-sum>79.08</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>458</report-id>
@@ -4578,7 +4578,7 @@
     <retail-price>16.58</retail-price>
     <wholesale-price>11.61</wholesale-price>
     <total-sum>220.59</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ИЙСТКОЛАЙТ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>459</report-id>
@@ -4588,7 +4588,7 @@
     <retail-price>54.00</retail-price>
     <wholesale-price>37.80</wholesale-price>
     <total-sum>540.00</total-sum>
-    <order-date>2004-08-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БОНТЕМПИ" email="sales@hktdc.com" country-of-origin="China">
     <report-id>460</report-id>
@@ -4598,7 +4598,7 @@
     <retail-price>61.58</retail-price>
     <wholesale-price>43.11</wholesale-price>
     <total-sum>474.21</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="РАДИОУПРАВЛЯЕМА КОЛА" email="info@radiocars.bg" country-of-origin="Bulgaria">
     <report-id>461</report-id>
@@ -4608,7 +4608,7 @@
     <retail-price>61.58</retail-price>
     <wholesale-price>43.11</wholesale-price>
     <total-sum>246.32</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>462</report-id>
@@ -4618,7 +4618,7 @@
     <retail-price>13.25</retail-price>
     <wholesale-price>9.28</wholesale-price>
     <total-sum>53.00</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>463</report-id>
@@ -4628,7 +4628,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>103.75</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>464</report-id>
@@ -4638,7 +4638,7 @@
     <retail-price>18.58</retail-price>
     <wholesale-price>12.08</wholesale-price>
     <total-sum>18.58</total-sum>
-    <order-date>2007-07-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>465</report-id>
@@ -4648,7 +4648,7 @@
     <retail-price>12.75</retail-price>
     <wholesale-price>8.93</wholesale-price>
     <total-sum>127.50</total-sum>
-    <order-date>2005-12-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>466</report-id>
@@ -4658,7 +4658,7 @@
     <retail-price>29.00</retail-price>
     <wholesale-price>18.85</wholesale-price>
     <total-sum>174.00</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>467</report-id>
@@ -4668,7 +4668,7 @@
     <retail-price>57.42</retail-price>
     <wholesale-price>37.33</wholesale-price>
     <total-sum>401.94</total-sum>
-    <order-date>2013-11-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>468</report-id>
@@ -4678,7 +4678,7 @@
     <retail-price>7.00</retail-price>
     <wholesale-price>4.90</wholesale-price>
     <total-sum>83.30</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>469</report-id>
@@ -4688,7 +4688,7 @@
     <retail-price>10.75</retail-price>
     <wholesale-price>7.53</wholesale-price>
     <total-sum>53.75</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>470</report-id>
@@ -4698,7 +4698,7 @@
     <retail-price>24.92</retail-price>
     <wholesale-price>17.44</wholesale-price>
     <total-sum>99.68</total-sum>
-    <order-date>2010-09-09T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>471</report-id>
@@ -4708,7 +4708,7 @@
     <retail-price>18.25</retail-price>
     <wholesale-price>12.78</wholesale-price>
     <total-sum>164.25</total-sum>
-    <order-date>2012-11-27T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>472</report-id>
@@ -4718,7 +4718,7 @@
     <retail-price>9.75</retail-price>
     <wholesale-price>6.83</wholesale-price>
     <total-sum>97.50</total-sum>
-    <order-date>2000-11-30T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>473</report-id>
@@ -4728,7 +4728,7 @@
     <retail-price>11.42</retail-price>
     <wholesale-price>7.99</wholesale-price>
     <total-sum>87.89</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>474</report-id>
@@ -4738,7 +4738,7 @@
     <retail-price>33.42</retail-price>
     <wholesale-price>21.73</wholesale-price>
     <total-sum>267.36</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>475</report-id>
@@ -4748,7 +4748,7 @@
     <retail-price>11.58</retail-price>
     <wholesale-price>8.11</wholesale-price>
     <total-sum>92.64</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>476</report-id>
@@ -4758,7 +4758,7 @@
     <retail-price>46.00</retail-price>
     <wholesale-price>29.90</wholesale-price>
     <total-sum>508.30</total-sum>
-    <order-date>2009-10-18T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>477</report-id>
@@ -4768,7 +4768,7 @@
     <retail-price>22.67</retail-price>
     <wholesale-price>14.73</wholesale-price>
     <total-sum>206.22</total-sum>
-    <order-date>2011-03-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>478</report-id>
@@ -4778,7 +4778,7 @@
     <retail-price>118.50</retail-price>
     <wholesale-price>77.03</wholesale-price>
     <total-sum>1232.48</total-sum>
-    <order-date>2011-09-14T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>479</report-id>
@@ -4788,7 +4788,7 @@
     <retail-price>57.75</retail-price>
     <wholesale-price>37.54</wholesale-price>
     <total-sum>288.75</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>480</report-id>
@@ -4798,7 +4798,7 @@
     <retail-price>78.08</retail-price>
     <wholesale-price>50.75</wholesale-price>
     <total-sum>468.48</total-sum>
-    <order-date>2008-12-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="The LEGO Group" email="gitte.klausen@lego.com" country-of-origin="Denmark">
     <report-id>481</report-id>
@@ -4808,7 +4808,7 @@
     <retail-price>76.33</retail-price>
     <wholesale-price>49.62</wholesale-price>
     <total-sum>610.64</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="China Toy" email="sales@hktdc.com" country-of-origin="China">
     <report-id>482</report-id>
@@ -4818,7 +4818,7 @@
     <retail-price>6.58</retail-price>
     <wholesale-price>4.61</wholesale-price>
     <total-sum>50.71</total-sum>
-    <order-date>2011-02-15T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>483</report-id>
@@ -4828,7 +4828,7 @@
     <retail-price>20.75</retail-price>
     <wholesale-price>14.53</wholesale-price>
     <total-sum>83.00</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="NOR" email="info@nortoys.com" country-of-origin="Bulgaria">
     <report-id>484</report-id>
@@ -4838,7 +4838,7 @@
     <retail-price>9.08</retail-price>
     <wholesale-price>6.36</wholesale-price>
     <total-sum>120.84</total-sum>
-    <order-date>2012-03-16T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bburago" email="sales@bburago.com" country-of-origin="Hong Kong">
     <report-id>485</report-id>
@@ -4848,7 +4848,7 @@
     <retail-price>22.42</retail-price>
     <wholesale-price>15.69</wholesale-price>
     <total-sum>266.73</total-sum>
-    <order-date>2015-05-08T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Bontempi" email="info@bontempi.com" country-of-origin="Italy">
     <report-id>486</report-id>
@@ -4858,7 +4858,7 @@
     <retail-price>28.08</retail-price>
     <wholesale-price>19.66</wholesale-price>
     <total-sum>314.56</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="La Nuova Faro" email="sales@farotoys.it" country-of-origin="Italy">
     <report-id>487</report-id>
@@ -4868,7 +4868,7 @@
     <retail-price>27.08</retail-price>
     <wholesale-price>17.60</wholesale-price>
     <total-sum>54.16</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="БЕЙБИ БОРН" email="sales@thetoyshop.com" country-of-origin="United Kingdom">
     <report-id>488</report-id>
@@ -4878,7 +4878,7 @@
     <retail-price>25.67</retail-price>
     <wholesale-price>17.97</wholesale-price>
     <total-sum>179.69</total-sum>
-    <order-date>2004-01-31T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>489</report-id>
@@ -4888,7 +4888,7 @@
     <retail-price>21.42</retail-price>
     <wholesale-price>14.99</wholesale-price>
     <total-sum>179.88</total-sum>
-    <order-date>2004-10-24T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>490</report-id>
@@ -4898,7 +4898,7 @@
     <retail-price>38.75</retail-price>
     <wholesale-price>27.13</wholesale-price>
     <total-sum>116.25</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="АО JIE" email="aojie@aojietoys.com" country-of-origin="China">
     <report-id>491</report-id>
@@ -4908,7 +4908,7 @@
     <retail-price>5.75</retail-price>
     <wholesale-price>4.03</wholesale-price>
     <total-sum>52.39</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>492</report-id>
@@ -4918,7 +4918,7 @@
     <retail-price>113.50</retail-price>
     <wholesale-price>90.68</wholesale-price>
     <total-sum>1178.84</total-sum>
-    <order-date>2007-10-05T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="LT" email="sales@hktdc.com" country-of-origin="China">
     <report-id>493</report-id>
@@ -4928,7 +4928,7 @@
     <retail-price>113.50</retail-price>
     <wholesale-price>90.68</wholesale-price>
     <total-sum>1088.16</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>494</report-id>
@@ -4938,7 +4938,7 @@
     <retail-price>6.50</retail-price>
     <wholesale-price>4.54</wholesale-price>
     <total-sum>58.50</total-sum>
-    <order-date>2012-11-29T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ПЛЕЙМОБИЛ" email="sales@playmobil.us" country-of-origin="United States">
     <report-id>495</report-id>
@@ -4948,7 +4948,7 @@
     <retail-price>28.92</retail-price>
     <wholesale-price>20.25</wholesale-price>
     <total-sum>283.50</total-sum>
-    <order-date>2007-09-25T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗУРУ" email="sales@zuru.com" country-of-origin="United Kingdom">
     <report-id>496</report-id>
@@ -4958,7 +4958,7 @@
     <retail-price>14.92</retail-price>
     <wholesale-price>10.44</wholesale-price>
     <total-sum>59.68</total-sum>
-    <order-date>2001-09-19T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="ЗИНГ" email="sales@zingtoys.com" country-of-origin="New Zealand">
     <report-id>497</report-id>
@@ -4968,7 +4968,7 @@
     <retail-price>4.99</retail-price>
     <wholesale-price>3.49</wholesale-price>
     <total-sum>69.80</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>498</report-id>
@@ -4978,7 +4978,7 @@
     <retail-price>21.00</retail-price>
     <wholesale-price>14.70</wholesale-price>
     <total-sum>294.00</total-sum>
-    <order-date>2011-08-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>499</report-id>
@@ -4988,7 +4988,7 @@
     <retail-price>14.58</retail-price>
     <wholesale-price>10.21</wholesale-price>
     <total-sum>122.52</total-sum>
-    <order-date>2007-03-21T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
   <sale manufacturer-name="Disney Toys" email="sales@disneystore.com" country-of-origin="China">
     <report-id>500</report-id>
@@ -4998,6 +4998,6 @@
     <retail-price>12.42</retail-price>
     <wholesale-price>8.69</wholesale-price>
     <total-sum>24.84</total-sum>
-    <order-date>2011-09-07T00:00:00</order-date>
+    <order-date xsi:nil="true" />
   </sale>
 </sales-reports>

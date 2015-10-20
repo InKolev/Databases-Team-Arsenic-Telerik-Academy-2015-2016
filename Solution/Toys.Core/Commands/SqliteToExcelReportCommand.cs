@@ -3,6 +3,7 @@
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using Toys.Data;
     using Toys.Data.Contracts;
     using Toys.Models;
     using Excel = Microsoft.Office.Interop.Excel;
@@ -19,13 +20,50 @@
         {
             var products = this.Data.Products.All().ToList();
 
-            this.CreateProductsExcelReport(products);
+            this.AddDataToSqlite(products);
+
+            this.CreateProductsExcelReport();
 
             return true;
         }
 
-        private void CreateProductsExcelReport(List<Product> products)
+        private void AddDataToSqlite(List<Product> products)
         {
+            using (var db = new ToysSqliteContext())
+            {
+                var sqliteProducts = db.Products;
+
+                var sqliteProductsCount = db.Products.Count();
+                if (sqliteProductsCount != products.Count)
+                {
+                    foreach (var item in products)
+                    {
+                        var product = new Product()
+                        {
+                            Sku = item.Sku,
+                            Description = item.Description,
+                            WholesalePrice = item.WholesalePrice,
+                            RetailPrice = item.RetailPrice,
+                            TradeDiscount = item.TradeDiscount,
+                            TradeDiscountRate = item.TradeDiscountRate,
+                            ManufacturerId = item.ManufacturerId
+                        };
+
+                        sqliteProducts.Add(product);
+                    }
+                }
+                db.SaveChanges();
+            }
+        }
+
+        private void CreateProductsExcelReport()
+        {
+            List<Product> products;
+            using (var db = new ToysSqliteContext())
+            {
+                products = db.Products.Where(i => i.Id == i.Id).ToList();
+            }
+
             if (File.Exists(ExcelPath))
             {
                 File.Delete(ExcelPath);
