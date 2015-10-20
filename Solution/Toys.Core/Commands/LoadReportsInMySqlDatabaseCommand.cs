@@ -1,14 +1,8 @@
 ﻿namespace Toys.Core.Commands
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    using MySql.Data;
     using MySql.Data.MySqlClient;
     using Toys.Core.ReportsExporters.ReportsCommon;
-    using System.Data.Entity;
     using Toys.Data;
 
     public class LoadReportsInMySqlDatabaseCommand : Command

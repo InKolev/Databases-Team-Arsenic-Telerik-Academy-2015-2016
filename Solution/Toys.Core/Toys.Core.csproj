@@ -105,6 +105,7 @@
     <Compile Include="Commands\GetProductsFromMongoToSqlServerCommand.cs" />
     <Compile Include="Commands\LoadReportsInMySqlDatabaseCommand.cs" />
     <Compile Include="Commands\PdfCommand.cs" />
+    <Compile Include="Commands\SaveAddressFromXmlToSqlServerCommand.cs" />
     <Compile Include="Commands\SqliteToExcelReportCommand.cs" />
     <Compile Include="ReportsExporters\Contracts\IExporter.cs" />
     <Compile Include="Commands\ZipSalesReportsCommand.cs" />

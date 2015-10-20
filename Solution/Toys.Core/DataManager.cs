@@ -32,7 +32,8 @@
                 new ExportXmlReportCommand(this.data, this.context),
                 new ExportJsonReportCommand(this.data, this.context),
                 new SqliteToExcelReportCommand(this.data),
-                new LoadReportsInMySqlDatabaseCommand(this.data, this.context)
+                new LoadReportsInMySqlDatabaseCommand(this.data, this.context),
+                new SaveAddressFromXmlToSqlServerCommand(this.data),
             };
 
             foreach (var command in commands)
