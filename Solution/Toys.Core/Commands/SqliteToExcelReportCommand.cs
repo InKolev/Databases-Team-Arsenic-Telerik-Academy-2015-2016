@@ -18,9 +18,10 @@
 
         public override bool Execute()
         {
-            var products = this.Data.Products.All().ToList();
+            // uncomment this for seed the sqlite database
+            //var products = this.Data.Products.All().ToList();
 
-            this.AddDataToSqlite(products);
+            //this.AddDataToSqlite(products);
 
             this.CreateProductsExcelReport();
 
