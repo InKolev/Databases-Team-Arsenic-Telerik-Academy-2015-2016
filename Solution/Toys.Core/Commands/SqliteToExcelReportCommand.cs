@@ -1,16 +1,16 @@
 ﻿namespace Toys.Core.Commands
 {
+    using Bytescout.Spreadsheet;
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
     using Toys.Data;
     using Toys.Data.Contracts;
     using Toys.Models;
-    using GemBox.Spreadsheet;
 
     public class SqliteToExcelReportCommand : Command, ICommand
     {
-        private const string ExcelPath = @"../../../Files/LoadXml/SqliteData.xlsx";
+        private const string ExcelPath = @"../../../Files/SqliteData.xlsx";
         public SqliteToExcelReportCommand(IToysData data)
             : base(data)
         {
@@ -19,9 +19,9 @@
         public override bool Execute()
         {
             // uncomment this for seed the sqlite database
-            var products = this.Data.Products.All().ToList();
+            //var products = this.Data.Products.All().ToList();
 
-            this.AddDataToSqlite(products);
+            //this.AddDataToSqlite(products);
 
             this.CreateProductsExcelReport();
 
@@ -70,32 +70,31 @@
                 File.Delete(ExcelPath);
             }
 
-            SpreadsheetInfo.SetLicense("FREE-LIMITED-KEY");
-            ExcelFile ef = new ExcelFile();
-            ExcelWorksheet ws = ef.Worksheets.Add("Hello World");
+            Spreadsheet document = new Spreadsheet();
+            Worksheet sheet = document.Workbook.Worksheets.Add("Product Reports");
 
             int counter = 2;
-            ws.Cells[1, 1].Value = "Id";
-            ws.Cells[1, 2].Value = "Sku";
-            ws.Cells[1, 3].Value = "Description";
-            ws.Cells[1, 4].Value = "WholesalePrice";
-            ws.Cells[1, 5].Value = "RetailPrice";
-            ws.Cells[1, 6].Value = "TradeDiscount";
-            ws.Cells[1, 7].Value = "TradeDiscountRate";
+            sheet.Cell(1, 1).Value = "Id";
+            sheet.Cell(1, 2).Value = "Sku";
+            sheet.Cell(1, 3).Value = "Description";
+            sheet.Cell(1, 4).Value = "WholesalePrice";
+            sheet.Cell(1, 5).Value = "RetailPrice";
+            sheet.Cell(1, 6).Value = "TradeDiscount";
+            sheet.Cell(1, 7).Value = "TradeDiscountRate";
 
             foreach (var product in products)
             {
-                ws.Cells[counter, 1].Value = product.Id;
-                ws.Cells[counter, 2].Value = product.Sku;
-                ws.Cells[counter, 3].Value = product.Description;
-                ws.Cells[counter, 4].Value = product.WholesalePrice;
-                ws.Cells[counter, 5].Value = product.RetailPrice;
-                ws.Cells[counter, 6].Value = product.TradeDiscount;
-                ws.Cells[counter, 7].Value = product.TradeDiscountRate;
+                sheet.Cell(counter, 1).Value = product.Id;
+                sheet.Cell(counter, 2).Value = product.Sku;
+                sheet.Cell(counter, 3).Value = product.Description;
+                sheet.Cell(counter, 4).Value = product.WholesalePrice;
+                sheet.Cell(counter, 5).Value = product.RetailPrice;
+                sheet.Cell(counter, 6).Value = product.TradeDiscount;
+                sheet.Cell(counter, 7).Value = product.TradeDiscountRate;
                 counter++;
             }
 
-            ef.Save("test.xls");
+            document.SaveAs(ExcelPath);
         }
     }
 }
