@@ -1,0 +1,87 @@
+﻿<?xml version="1.0"?>
+<sellers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<seller>
+    <id>1</id>
+    <address>Some address 1</address>
+</seller>
+<seller>
+    <id>2</id>
+    <address>Some address 2</address>
+</seller>
+<seller>
+    <id>3</id>
+    <address>Some address 3</address>
+</seller>
+<seller>
+    <id>4</id>
+    <address>Some address 4</address>
+</seller>
+<seller>
+    <id>5</id>
+    <address>Some address 5</address>
+</seller>
+<seller>
+    <id>6</id>
+    <address>Some address 6</address>
+</seller>
+<seller>
+    <id>7</id>
+    <address>Some address 7</address>
+</seller>
+<seller>
+    <id>8</id>
+    <address>Some address 8</address>
+</seller>
+<seller>
+    <id>9</id>
+    <address>Some address 9</address>
+</seller>
+<seller>
+    <id>10</id>
+    <address>Some address 10</address>
+</seller>
+<seller>
+    <id>11</id>
+    <address>Some address 11</address>
+</seller>
+<seller>
+    <id>12</id>
+    <address>Some address 12</address>
+</seller>
+<seller>
+    <id>13</id>
+    <address>Some address 13</address>
+</seller>
+<seller>
+    <id>14</id>
+    <address>Some address 14</address>
+</seller>
+<seller>
+    <id>15</id>
+    <address>Some address 15</address>
+</seller>
+<seller>
+    <id>16</id>
+    <address>Some address 16</address>
+</seller>
+<seller>
+    <id>17</id>
+    <address>Some address 17</address>
+</seller>
+<seller>
+    <id>18</id>
+    <address>Some address 18</address>
+</seller>
+<seller>
+    <id>19</id>
+    <address>Some address 19</address>
+</seller>
+<seller>
+    <id>20</id>
+    <address>Some address 20</address>
+</seller>
+<seller>
+    <id>21</id>
+    <address>Some address 21</address>
+</seller>
+</sellers>
